@@ -16,9 +16,9 @@ Video File: [Chihiro]_Mikagura_Gakuen_Kumikyoku_02_[720p_Hi10P_AAC][0B1EACEE].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 12565
-Active Line: 12574
-Video Position: 540
+Scroll Position: 12602
+Active Line: 12616
+Video Position: 6496
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -12611,22 +12611,22 @@ Dialogue: 30,0:00:03.61,0:00:06.22,Dialogue,,0,0,0,,Итиномия,{Hey, Ichin
 Dialogue: 30,0:00:06.22,0:00:08.19,Dialogue,,0,0,0,,хочешь переехать в мой особняк?{do you want to come to my mansion?}
 Dialogue: 30,0:00:08.87,0:00:09.98,Dialogue,,0,0,0,,А можно?{Is that all right?}
 Dialogue: 30,0:00:09.98,0:00:11.88,Dialogue,,0,0,5,,Конечно можно.{Of course.}
-Dialogue: 30,0:00:11.88,0:00:13.48,Dialogue,,0,0,5,,Пусть и на испытательном{You might be provisional,}
-Dialogue: 30,0:00:13.48,0:00:15.80,Dialogue,,0,0,5,,сроке, но ты одна из «идущих домой».{but you're still a member of the Going-Home Club.}
+Dialogue: 30,0:00:11.88,0:00:14.07,Dialogue,,0,0,5,,Пусть и на испытательном сроке,{You might be provisional,}
+Dialogue: 30,0:00:14.07,0:00:15.80,Dialogue,,0,0,5,,но ты одна из «идущих домой».{but you're still a member of the Going-Home Club.}
 Dialogue: 30,0:00:15.80,0:00:18.87,Dialogue,,0,0,5,,Соглашайся, будем жить под одной крышей.{Come, let us live under one roof.}
 Dialogue: 30,0:00:21.05,0:00:22.54,Dialogue,,0,0,0,,Ах, Сэйса, вы такая!..{Oh, Seisa-senpai!}{или всё же Сейса в такие моменты писать?}
 Dialogue: 30,0:00:27.16,0:00:28.67,Dialogue,,0,0,0,,{\fad(0,650)}Юрико?!{Yuriko?!}
 Dialogue: 30,0:02:14.38,0:02:17.58,Dialogue,,0,0,0,,Ну вступила я в клуб, но что-то ничего не изменилось.{Joining for a trial period doesn't change anything after all, huh?}
 Dialogue: 30,0:02:17.58,0:02:19.29,Dialogue,,0,0,0,,Ты не совсем права, дракони.{That's not true, ryui.}
-Dialogue: 30,0:02:19.29,0:02:21.12,Dialogue,,0,0,0,,Плюс одна минута в душе{You have an extra minute of shower time,}
+Dialogue: 30,0:02:19.29,0:02:21.12,Dialogue,,0,0,0,,Плюс одна минута в душевой{You have an extra minute of shower time,}
 Dialogue: 30,0:02:21.62,0:02:24.83,Dialogue,,0,0,0,,и вот, еды больше на одну тарелку, дракони.{and look, you have one more side dish, ryui.}
-Dialogue: 30,0:02:26.77,0:02:27.54,Dialogue,,0,0,0,,Так.{All right!}
+Dialogue: 30,0:02:26.62,0:02:27.54,Dialogue,,0,0,0,,Так...{All right!}
 Dialogue: 30,0:02:27.54,0:02:30.10,Dialogue,,0,0,0,,Если вместо тарелочки соевой пасты{Even if the extra dish is just fermented soy beans,}
 Dialogue: 30,0:02:30.10,0:02:33.40,Dialogue,,0,0,0,,представлю шикарный завтрак в особняке...{if I think of it as a lavish and\N elegant breakfast at the mansion...}
 Dialogue: 30,0:02:35.34,0:02:37.39,Dialogue,,0,0,0,,Дорогущий французский завтрак!{An expensive full-course French meal!}
 Dialogue: 30,0:02:37.39,0:02:39.93,Dialogue,,0,0,0,,Начну с фуа-гра и чёрной икры!{I'll start with foie gras and caviar on top!}
 Dialogue: 30,0:02:43.52,0:02:45.90,Dialogue,,0,0,0,,Ням! Фума-гра вкуснямтина!{Yum! Foie gras is delicious!}
-Dialogue: 30,0:02:47.30,0:02:49.73,Dialogue,,0,0,0,,Тяжеловатая еда для завтрака, дракони...{That seems a little heavy for breakfast, ryui...}
+Dialogue: 30,0:02:47.30,0:02:49.73,Dialogue,,0,0,0,,Тяжеловата для завтрака, дракони...{That seems a little heavy for breakfast, ryui...}
 Dialogue: 30,0:02:51.94,0:02:55.48,Dialogue,,0,0,0,,Да только фантазиями сыта не будешь...{But you can't fill your stomach with delusions...}
 Dialogue: 30,0:02:55.48,0:03:01.04,Dialogue,,0,0,0,,Тем из вас, кто в средних классах учился в этой же школе, всё что я скажу известно,{Now, those of you who came from our middle school should already know,}
 Dialogue: 30,0:03:01.04,0:03:04.87,Dialogue,,0,0,0,,поэтому объясняю механику клубных битв для новеньких.{but for those who didn't, I will explain the club battles.}
@@ -12635,28 +12635,28 @@ Dialogue: 30,0:03:07.57,0:03:09.99,Dialogue,,0,0,0,,Балбеска с посл
 Dialogue: 30,0:03:09.99,0:03:13.32,Dialogue,,0,0,0,,Поправка: Эруна Итиномия, подойди ко мне.{Rather, Ichinomiya Eruna-san come to the front.}
 Dialogue: 30,0:03:13.32,0:03:14.63,Dialogue,,0,0,0,,Д-да!{Y-Yes!}
 Dialogue: 30,0:03:17.29,0:03:18.35,Dialogue,,0,0,0,,Новый вид бананов!{A new type of banana!}
-Dialogue: 30,0:03:18.35,0:03:22.14,Dialogue,,0,0,0,,Вовсе нет, эти кристаллы используются в клубных битвах.{Not quite, they're crystals used in club battles.}
+Dialogue: 30,0:03:18.35,0:03:22.14,Dialogue,,0,0,0,,Вовсе нет.\NЭти кристаллы используются в клубных битвах.{Not quite, they're crystals used in club battles.}
 Dialogue: 30,0:03:22.77,0:03:27.14,Dialogue,,0,0,0,,Победит тот, кто первым за время битвы успеет{Whoever breaks the three crystals\N floating around their opponent first,}
 Dialogue: 30,0:03:27.14,0:03:29.48,Dialogue,,0,0,0,,разбить все три кристалла противника.{within the allotted time, is the winner.}
 Dialogue: 30,0:03:30.03,0:03:34.02,Dialogue,,0,0,0,,Вы можете сломать их собственными руками,{You can crush them with your hands like this.}
 Dialogue: 30,0:03:36.02,0:03:37.23,Dialogue,,0,0,0,,можете раскусить...{Bite them...}
-Dialogue: 30,0:03:38.23,0:03:44.87,Dialogue,,0,0,0,,или можете воспользоваться своими уникальными способностями и разбить их особыми атаками.{Or you can release your unique powers\N and hit them with your special attacks.}
+Dialogue: 30,0:03:38.23,0:03:44.87,Dialogue,,0,0,0,,или воспользоваться своими уникальными способностями и разбить их особыми атаками.{Or you can release your unique powers\N and hit them with your special attacks.}
 Dialogue: 30,0:03:45.52,0:03:47.16,Dialogue,,0,0,0,,Особыми атаками?{Special attacks?}
 Dialogue: 30,0:03:50.97,0:03:52.89,Dialogue,,0,0,0,,Давно не виделись, Эруночка!{Sorry to keep you waiting, Eruna-chan!}
 Dialogue: 30,0:03:52.89,0:03:54.40,Dialogue,,0,0,0,,Я так скучал!{I'm finally here!}
-Dialogue: 30,0:03:54.40,0:03:57.80,Dialogue,,0,0,0,,Я подготовился и вуаля, красивое появление в классе!{After much preparation, the magnificent\Nentrance you've been waiting for is here!}
+Dialogue: 30,0:03:54.40,0:03:57.80,Dialogue,,0,0,0,,Подготовка - залог шикарного явления пред ждущей тебя!{After much preparation, the magnificent\Nentrance you've been waiting for is here!}
 Dialogue: 30,0:03:59.01,0:04:01.20,Dialogue,,0,0,0,,Это же Сигурэ Итиномия из клуба исследования манги!{It's Ninomiya Shigure-san from the Manga Research Club!}
 Dialogue: 30,0:04:01.20,0:04:03.34,Dialogue,,0,0,0,,Ты его знаешь, Эруна?{You know him, don't you, Ichinomiya-san?}
-Dialogue: 30,0:04:03.34,0:04:05.64,Dialogue,,0,0,0,,Он всего лишь повёрнутый двоюролюб.{He's just a perverted cuz-con.}
+Dialogue: 30,0:04:03.34,0:04:05.64,Dialogue,,0,0,0,,Он всего лишь двинутый двоюролюб.{He's just a perverted cuz-con.}
 Dialogue: 30,0:04:05.64,0:04:06.30,Dialogue,,0,0,0,,Двоюролюб?{Cuz-con?}
-Dialogue: 30,0:04:06.85,0:04:08.68,Dialogue,,0,0,0,,Как сестролюб, только по двоюродным.{Like a sis-con, but the cousin version.}
+Dialogue: 30,0:04:06.85,0:04:08.68,Dialogue,,0,0,0,,Сестролюб лезущий к двоюродным.{Like a sis-con, but the cousin version.}
 Dialogue: 30,0:04:08.68,0:04:12.02,Dialogue,,0,0,0,,Как двоюролюб, я обязан показать тебе мою особую атаку!{Then I, a cuz-con, will show you my special attack!}
-Dialogue: 30,0:04:12.02,0:04:14.60,Dialogue,,0,0,0,,Я зову её «Время героя!»{I call it Hero Time!}
+Dialogue: 30,0:04:12.02,0:04:14.60,Dialogue,,0,0,0,,Я назвал её «Время героя!»{I call it Hero Time!}
 Dialogue: 30,0:04:15.34,0:04:15.94,Dialogue,,0,0,0,,А?{Huh?}
 Dialogue: 30,0:04:16.52,0:04:19.18,Dialogue,,0,0,0,,{\ko88}{\2a&HFF&}Тут? {Huh? }{\ko91}Тут? {Huh? }{\ko87}А тут?{Huh?}
-Dialogue: 30,0:04:19.18,0:04:21.06,Dialogue,,0,0,0,,Беда!{Shoot!}
-Dialogue: 30,0:04:21.06,0:04:24.21,Dialogue,,0,0,0,,Я оставил ручку в своей комнате!{I left the pen in my room!}
-Dialogue: 30,0:04:26.03,0:04:30.94,Dialogue,,0,0,0,,Для активации сверхспособностей тебе нужно использовать подходящий предмет: дракони.{In order to release your powers, \Nyou need a summoning object, ryui.}
+Dialogue: 30,0:04:19.18,0:04:21.06,Dialogue,,0,0,0,,Проклятье!{Shoot!}
+Dialogue: 30,0:04:21.06,0:04:24.21,Dialogue,,0,0,0,,Я оставил ручку у себя в комнате!{I left the pen in my room!}
+Dialogue: 30,0:04:26.03,0:04:30.94,Dialogue,,0,0,0,,Для активации сверхспособностей тебе нужно использовать подходящий предмет, дракони.{In order to release your powers, \Nyou need a summoning object, ryui.}
 Dialogue: 30,0:04:30.94,0:04:35.37,Dialogue,,0,0,0,,У Сигурэ из клуба исследования манги этот предмет - ручка, дракони.{In the case of Shigure from the Manga\N Research Club, that item is a pen, ryui.}
 Dialogue: 30,0:04:35.37,0:04:38.63,Dialogue,,0,0,0,,Ничего не поняла, но я тоже могу использовать эти способности?{I don't really get it, but does that\N mean I have power like that, too?}{np}
 Dialogue: 30,0:04:39.27,0:04:44.13,Dialogue,,0,0,0,,К сожалению, сейчас их у тебя нет, дракони.{Unfortunately, power like that does not live in you right now, ryui.}
