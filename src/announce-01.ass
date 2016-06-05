@@ -17,8 +17,8 @@ Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.875000
 Scroll Position: 1
-Active Line: 8
-Video Position: 905
+Active Line: 16
+Video Position: 1226
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -42,4 +42,4 @@ Dialogue: 0,0:00:44.13,0:00:45.66,Dialogue,,0,0,0,,Никакой я не "Бе�
 Dialogue: 0,0:00:45.66,0:00:47.13,Dialogue,,0,0,0,,Сейчас анонсирую без дураков!
 Dialogue: 0,0:00:47.94,0:00:50.10,Dialogue,,0,0,0,,Наконец-то пробудятся сверхспособности Эруны!
 Dialogue: 0,0:00:50.65,0:00:52.53,Dialogue,,0,0,0,,Следующая серия: «Послеурочная страда»
-Dialogue: 0,0:00:51.11,0:00:52.99,Signs,Sign,0,0,0,,{\fs80\blur0.4\an8\c&H391AB7&\fnAGRevueCyr\pos(640,424)}Послеурочная страда
+Dialogue: 0,0:00:51.11,0:00:52.99,Signs,Sign,0,0,0,,{\fs80\an8\b1\c&H391AB7&\fnAmazObitaemOstrovFine\pos(640,424)}Послеурочная страда
