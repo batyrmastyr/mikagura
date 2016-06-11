@@ -1565,8 +1565,8 @@ Dialogue: 1,0:10:15.02,0:10:20.02,Signs,,0,0,0,,{\an7\pos(0,0)\c&HE5FBFE&\be1\fs
 Dialogue: 2,0:10:15.02,0:10:20.02,Signs,,0,0,0,,{\fry-4\fax-0.1\blur0.6\fnArial\fs10\b1\c&H616D75&\pos(414,308)\clip(m 397 312 l 417 294 429 309 427 321 425 319 b 416 326 412 324 409 326 l 409 328 411 332 406 333 406 338 392 339)\frz358}Молоко
 Dialogue: 1,0:11:28.01,0:11:30.01,Signs,,0,0,0,,{\bord3\fade(255,32,255,26,234,1360,1986)\fs150\fnCotlin\b1\blur2\c&HDECFBA&\move(649,-6,644,62,26,1902)\3c&HDECFBA&}Тадам
 Dialogue: 2,0:11:28.01,0:11:30.01,Signs,,0,0,0,,{\fade(255,32,255,26,234,1360,1986)\fs150\fnCotlin\b1\blur0.6\c&HF1FAC7&\move(649,-6,644,62,26,1902)}Т{*\c&HF2FAC8&}а{*\c&HF2FACB&}д{*\c&HF3FBCC&}а{*\c&HF4FBCE&}м
-Dialogue: 1,0:11:55.41,0:11:56.63,Signs,,0,0,0,,{\bord1.5\fax-0.4\fry-30\frx-30\fnBuxton Sketch\an5\b0\blur0.9\fs64\frz351.1\pos(1185.778,91.667)\t(0,600,0.75,\fax0.2\fry15\frx15)\t(600,1200,0.84,\fax-0.1\fry-8\frx-8)\alpha&HF0&\c&H220F08&\3c&H220F08&\t(25,375,0.9,\c&H6475A8&\3c&H6475A8&\alpha&H10&)}Тает...
-Dialogue: 2,0:11:55.41,0:11:56.63,Signs,,0,0,0,,{\fad(375,0)\fax-0.4\fry-30\frx-30\fnBuxton Sketch\an5\b0\c&H7FAFF6&\blur0.8\fs64\frz351.1\pos(1185.778,91.667)\t(0,600,0.75,\fax0.2\fry15\frx15)\t(600,1200,0.84,\fax-0.1\fry-8\frx-8)}Тает...
+Dialogue: 1,0:11:55.41,0:11:56.63,Signs,,0,0,0,,{\bord1.5\fax-0.4\fry-30\frx-30\fnBuxton Sketch\an5\b0\blur0.9\fs64\frz351.1\pos(1185.778,91.667)\t(0,600,0.75,\fax0.2\fry15\frx15)\t(600,1200,0.84,\fax-0.1\fry-8\frx-8)\alpha&HF0&\c&H220F08&\3c&H220F08&\t(25,375,0.9,\c&H6475A8&\3c&H6475A8&\alpha&H10&)}Тает…
+Dialogue: 2,0:11:55.41,0:11:56.63,Signs,,0,0,0,,{\fad(375,0)\fax-0.4\fry-30\frx-30\fnBuxton Sketch\an5\b0\c&H7FAFF6&\blur0.8\fs64\frz351.1\pos(1185.778,91.667)\t(0,600,0.75,\fax0.2\fry15\frx15)\t(600,1200,0.84,\fax-0.1\fry-8\frx-8)}Тает…
 Dialogue: 0,0:20:26.84,0:20:26.88,Signs,,0,0,0,,{=39}{\blur3\an5\frx30\fnAsylbekM29.kz\b0\c&H000000&\fs100\fscy111.55\fscx111.55\pos(317.513,-3.269)}Пешка
 Dialogue: 0,0:20:26.88,0:20:26.92,Signs,,0,0,0,,{=39}{\blur1\an5\frx30\fnAsylbekM29.kz\b0\c&H000000&\fs100\fscy101.29\fscx101.29\pos(346.39,39.779)}Пешка
 Dialogue: 0,0:20:26.92,0:20:26.97,Signs,,0,0,0,,{=39}{\blur0.55\an5\frx30\fnAsylbekM29.kz\b0\c&H000000&\fs100\pos(351.87,56.72)\fscy100.41\fscx100.41}Пешка
@@ -1675,18 +1675,18 @@ Dialogue: 30,0:02:14.52,0:02:17.72,Dialogue,,0,0,0,,Ну вступила я в 
 Dialogue: 30,0:02:17.72,0:02:19.43,Dialogue,,0,0,0,,Ты ошибаешься, дракони.{That's not true, ryui.}
 Dialogue: 30,0:02:19.43,0:02:21.26,Dialogue,,0,0,0,,Плюс одна минута в душевой{You have an extra minute of shower time,}
 Dialogue: 30,0:02:21.76,0:02:24.97,Dialogue,,0,0,0,,и вот, смотри, еды на одну тарелку больше, дракони.{and look, you have one more side dish, ryui.}
-Dialogue: 30,0:02:26.76,0:02:27.68,Dialogue,,0,0,0,,Так...{All right!}
+Dialogue: 30,0:02:26.76,0:02:27.68,Dialogue,,0,0,0,,Так…{All right!}
 Dialogue: 30,0:02:27.68,0:02:30.24,Dialogue,,0,0,0,,Если вместо тарелочки соевой пасты{Even if the extra dish is just fermented soy beans,}
-Dialogue: 30,0:02:30.24,0:02:33.54,Dialogue,,0,0,0,,представлю шикарный завтрак в особняке...{if I think of it as a lavish and\N elegant breakfast at the mansion...}
+Dialogue: 30,0:02:30.24,0:02:33.54,Dialogue,,0,0,0,,представлю шикарный завтрак в особняке…{if I think of it as a lavish and\N elegant breakfast at the mansion...}
 Dialogue: 30,0:02:35.48,0:02:37.53,Dialogue,,0,0,0,,Дорогущий французский завтрак!{An expensive full-course French meal!}
 Dialogue: 30,0:02:37.53,0:02:40.07,Dialogue,,0,0,0,,Начну с фуа-гра и чёрной икры!{I'll start with foie gras and caviar on top!}
 Dialogue: 30,0:02:43.66,0:02:46.04,Dialogue,,0,0,0,,Ням! Фума-гра вкуснямтина!{Yum! Foie gras is delicious!}
-Dialogue: 30,0:02:47.44,0:02:49.87,Dialogue,,0,0,0,,Тяжеловата для завтрака, дракони...{That seems a little heavy for breakfast, ryui...}
-Dialogue: 30,0:02:52.08,0:02:55.62,Dialogue,,0,0,0,,Да только фантазиями сыта не будешь...{But you can't fill your stomach with delusions...}
+Dialogue: 30,0:02:47.44,0:02:49.87,Dialogue,,0,0,0,,Тяжеловата для завтрака, дракони…{That seems a little heavy for breakfast, ryui...}
+Dialogue: 30,0:02:52.08,0:02:55.62,Dialogue,,0,0,0,,Да только фантазиями сыта не будешь…{But you can't fill your stomach with delusions...}
 Dialogue: 30,0:02:55.62,0:03:01.18,Dialogue,,0,0,0,,Те, кто учился в нашей школе раньше, уже знают,{Now, those of you who came from our middle school should already know,}
 Dialogue: 30,0:03:01.18,0:03:05.01,Dialogue,,0,0,0,,поэтому объясню новеньким механику клубных битв.{but for those who didn't, I will explain the club battles.}
-Dialogue: 30,0:03:05.67,0:03:06.92,Dialogue,,0,0,0,,Так...{Um...}
-Dialogue: 30,0:03:07.71,0:03:10.13,Dialogue,,0,0,0,,Балбеска с заднего ряда...{That idiot over there...}
+Dialogue: 30,0:03:05.67,0:03:06.92,Dialogue,,0,0,0,,Так…{Um...}
+Dialogue: 30,0:03:07.71,0:03:10.13,Dialogue,,0,0,0,,Балбеска с заднего ряда…{That idiot over there...}
 Dialogue: 30,0:03:10.13,0:03:13.46,Dialogue,,0,0,0,,Поправка: Эруна Итиномия, к доске.{Rather, Ichinomiya Eruna-san come to the front.}
 Dialogue: 30,0:03:13.46,0:03:14.77,Dialogue,,0,0,0,,Д-да!{Y-Yes!}
 Dialogue: 30,0:03:17.43,0:03:18.49,Dialogue,,0,0,0,,Новый вид бананов!{A new type of banana!}
@@ -1694,7 +1694,7 @@ Dialogue: 30,0:03:18.49,0:03:22.28,Dialogue,,0,0,0,,Вовсе нет.\NЭти �
 Dialogue: 30,0:03:22.91,0:03:27.28,Dialogue,,0,0,0,,Победит тот, кто первым за время битвы успеет{Whoever breaks the three crystals\N floating around their opponent first,}
 Dialogue: 30,0:03:27.28,0:03:29.62,Dialogue,,0,0,0,,разбить все три кристалла противника.{within the allotted time, is the winner.}
 Dialogue: 30,0:03:30.17,0:03:34.16,Dialogue,,0,0,0,,Их можно сломать голыми руками,{You can crush them with your hands like this.}
-Dialogue: 30,0:03:36.16,0:03:37.37,Dialogue,,0,0,0,,можно раскусить...{Bite them...}
+Dialogue: 30,0:03:36.16,0:03:37.37,Dialogue,,0,0,0,,можно раскусить…{Bite them...}
 Dialogue: 30,0:03:38.37,0:03:45.01,Dialogue,,0,0,0,,кроме того, можно воспользоваться своими способностями и разбить их спецприёмами.{Or you can release your unique powers\N and hit them with your special attacks.}
 Dialogue: 30,0:03:45.66,0:03:47.30,Dialogue,,0,0,0,,Спецприёмами?{Special attacks?}
 Dialogue: 30,0:03:51.11,0:03:53.03,Dialogue,,0,0,0,,Эруночка моя, а вот и я!{Sorry to keep you waiting, Eruna-chan!}
@@ -1715,14 +1715,14 @@ Dialogue: 30,0:04:26.17,0:04:31.08,Dialogue,,0,0,0,,Для активации с
 Dialogue: 30,0:04:31.08,0:04:35.51,Dialogue,,0,0,0,,У Сигурэ из клуба исследования манги этот предмет — перьевая ручка, дракони.{In the case of Shigure from the Manga\N Research Club, that item is a pen, ryui.}
 Dialogue: 30,0:04:35.51,0:04:38.77,Dialogue,,0,0,0,,Ничего не поняла, но получается, у меня тоже сверхсилы есть?!{I don't really get it, but does that\N mean I have power like that, too?}{np}
 Dialogue: 30,0:04:39.41,0:04:44.27,Dialogue,,0,0,0,,К сожалению, сейчас их у тебя нет, дракони.{Unfortunately, power like that does not live in you right now, ryui.}
-Dialogue: 30,0:04:44.27,0:04:47.11,Dialogue,,0,0,0,,Однако, раз тебя приняли в школу Микагура, то...{However, as you have enrolled in Mikagura Academy—}
+Dialogue: 30,0:04:44.27,0:04:47.11,Dialogue,,0,0,0,,Однако, раз тебя приняли в школу Микагура, то…{However, as you have enrolled in Mikagura Academy—}
 Dialogue: 30,0:04:47.11,0:04:48.07,Dialogue,,0,0,0,,Поняла!{I've got it!}
 Dialogue: 30,0:04:48.07,0:04:51.57,Dialogue,,0,0,0,,Мне просто нужно попросить Сэйсу научить меня этому всему!{I just need to get Seisa-senpai to teach me all that stuff.}
-Dialogue: 30,0:04:51.57,0:04:53.37,Dialogue,,0,0,0,,Смотри: уроки закончились - раз!{I mean, the school day's over!}
-Dialogue: 30,0:04:53.70,0:04:54.74,Dialogue,,0,0,0,,Она глава клуба - два!{And she's my upperclassman!}
-Dialogue: 30,0:04:54.74,0:04:55.99,Dialogue,,0,0,0,,Время клубных дел - три!{And it's time for club activities!}
+Dialogue: 30,0:04:51.57,0:04:53.37,Dialogue,,0,0,0,,Смотри: уроки закончились — раз!{I mean, the school day's over!}
+Dialogue: 30,0:04:53.70,0:04:54.74,Dialogue,,0,0,0,,Она глава клуба — два!{And she's my upperclassman!}
+Dialogue: 30,0:04:54.74,0:04:55.99,Dialogue,,0,0,0,,Время клубных дел — три!{And it's time for club activities!}
 Dialogue: 30,0:04:56.40,0:04:57.02,Dialogue,,0,0,0,,Сэйса-а!{Seisa-san!}
-Dialogue: 30,0:04:57.02,0:04:59.25,Dialogue,,0,0,0,,Э... погоди, дракони!{Ah... Wait a minute, ryui!}
+Dialogue: 30,0:04:57.02,0:04:59.25,Dialogue,,0,0,0,,Э… погоди, дракони!{Ah... Wait a minute, ryui!}
 Dialogue: 30,0:05:01.79,0:05:03.88,Dialogue,,0,0,0,,Сэйса, я пришла на клубные занятия!{Seisa-senpai, I've come to do club activities!}
 Dialogue: 30,0:05:04.78,0:05:07.45,Dialogue,,0,0,0,,Разве ты не знаешь, чем занимаются «Идущие домой»?{Do you know what the Going-Home Club does?}
 Dialogue: 30,0:05:07.45,0:05:10.51,Dialogue,,0,0,0,,Не знаю! Прошу, расскажите! Приложите руку к моему обучению!{Nope! So please tell me! Please lead me by the hand!}
@@ -1734,7 +1734,7 @@ Dialogue: 30,0:05:19.54,0:05:20.14,Dialogue,,0,0,0,,Сделала!{Yes!}
 Dialogue: 30,0:05:20.64,0:05:22.38,Dialogue,,0,0,0,,Теперь сделай шаг левой ногой.{Then, put your left foot in front.}
 Dialogue: 30,0:05:22.38,0:05:22.98,Dialogue,,0,0,0,,Сделала!{Yes!}
 Dialogue: 30,0:05:23.63,0:05:26.66,Dialogue,,0,0,0,,Повтори так примерно 350 раз.{Repeat that about 350 times.}
-Dialogue: 30,0:05:26.66,0:05:27.13,Dialogue,,0,0,0,,Сдела...{Yes—!}
+Dialogue: 30,0:05:26.66,0:05:27.13,Dialogue,,0,0,0,,Сдела…{Yes—!}
 Dialogue: 30,0:05:27.13,0:05:29.40,Dialogue,,0,0,0,,Э, не, подождите!{Hey, wait a minute!}
 Dialogue: 30,0:05:29.40,0:05:32.84,Dialogue,,0,0,0,,Члены клуба «Идущие домой» просто идут домой, дракони.{The Going-Home Club's club activity is going home, ryui.}
 Dialogue: 30,0:05:32.84,0:05:34.21,Dialogue,,0,0,0,,До свидания.{So long, then.}
@@ -1744,16 +1744,16 @@ Dialogue: 30,0:05:43.25,0:05:47.19,Dialogue,,10,10,0,,Не уверена, чт�
 Dialogue: 30,0:05:47.19,0:05:48.70,Dialogue,,0,0,0,,Нет, я не это имела ввиду!{That's not how it is!}
 Dialogue: 30,0:05:48.70,0:05:51.10,Dialogue,,0,0,0,,Это как иметь отдельный желудок для десертов!{Think of it like having a different stomach for dessert!}
 Dialogue: 30,0:05:51.10,0:05:54.64,Dialogue,,0,0,0,,Десертов?! Я хочу тортик «Наполеон» с клубничкой!{Dessert? Then I want a strawberry mille-feuille!}
-Dialogue: 30,0:05:55.27,0:05:58.16,Dialogue,,0,0,0,,Мда... ты меня опять не так поняла.{Uh... that's not what I meant either.}
+Dialogue: 30,0:05:55.27,0:05:58.16,Dialogue,,0,0,0,,Мда… ты меня опять не так поняла.{Uh... that's not what I meant either.}
 Dialogue: 30,0:05:58.16,0:06:00.29,Dialogue,,0,0,0,,Это как встречаться с одним парнем,{Look, you know how the type of person you'd want to marry}
 Dialogue: 30,0:06:00.29,0:06:02.02,Dialogue,,0,0,0,,а выйти замуж за совсем другого.{is different from the type you'd want to date?}
-Dialogue: 30,0:06:02.02,0:06:03.60,Dialogue,,0,0,0,,Понятней не стало, дракони...{It's getting harder and harder to understand, ryui...}
+Dialogue: 30,0:06:02.02,0:06:03.60,Dialogue,,0,0,0,,Понятней не стало, дракони…{It's getting harder and harder to understand, ryui...}
 Dialogue: 30,0:06:04.03,0:06:06.94,Dialogue,,0,0,0,,Но я не замужем и не чья-либо девушка.{I'm neither a wife nor a girlfriend, you know.}
 Dialogue: 30,0:06:06.94,0:06:11.46,Dialogue,,0,0,0,,Зато я из тех, кто оставляет клубничку с тортика на заглатку.{But, I'm the type who saves the strawberry on top of the mille-feuille for last, I think.}
 Dialogue: 30,0:06:11.46,0:06:12.49,Dialogue,,0,0,0,,И я, я тоже!{Me too, me too!}
 Dialogue: 30,0:06:13.02,0:06:15.88,Dialogue,,0,0,0,,Тогда, давай сохраним наши приёмы в тайне{Then, Eruna-chan, let's save our\N special attacks for that special day}
 Dialogue: 30,0:06:15.88,0:06:18.16,Dialogue,,0,0,0,,до особого дня.{and not show each other until then.}
-Dialogue: 30,0:06:19.16,0:06:20.83,Dialogue,,0,0,0,,До особого дня...{That special day...}
+Dialogue: 30,0:06:19.16,0:06:20.83,Dialogue,,0,0,0,,До особого дня…{That special day...}
 Dialogue: 30,0:06:25.86,0:06:27.84,Dialogue,,0,0,0,,Чего ты там себе навоображала, дракони?{What are you thinking about, ryui?}
 Dialogue: 30,0:06:28.49,0:06:31.26,Dialogue,,0,0,0,,Если хочешь разобраться в клубных битвах,{If you want to learn about the club battles and special attacks,}
 Dialogue: 30,0:06:31.26,0:06:34.51,Dialogue,,0,0,0,,тебе надо по другим клубам пройтись.{you should go visit other clubs.}
@@ -1764,11 +1764,11 @@ Dialogue: 30,0:06:43.91,0:06:48.35,Dialogue,,0,0,0,,Взгляд у Кудзур
 Dialogue: 30,0:06:49.84,0:06:50.57,Dialogue,,0,0,0,,Простите!{Excuse me!}
 Dialogue: 30,0:06:51.18,0:06:54.70,Dialogue,,0,0,0,,Великолепная новенькая, Эруна Итиномия, к вам пришла!{The last great new student, Ichinomiya Eruna, is here!}
 Dialogue: 30,0:06:58.10,0:06:58.70,Dialogue,,0,0,0,,Что?{Huh?}
-Dialogue: 30,0:07:00.00,0:07:01.70,Dialogue,,0,0,0,,Я... ну...{Uh, um...}
-Dialogue: 30,0:07:02.90,0:07:04.23,Dialogue,,0,0,0,,А мож...{Uh...}
+Dialogue: 30,0:07:00.00,0:07:01.70,Dialogue,,0,0,0,,Я… ну…{Uh, um...}
+Dialogue: 30,0:07:02.90,0:07:04.23,Dialogue,,0,0,0,,А мож…{Uh...}
 Dialogue: 30,0:07:12.60,0:07:14.55,Dialogue,,0,0,0,,В душе-то он добряк,{He's kind at heart and a good guy,}
 Dialogue: 30,0:07:14.55,0:07:16.84,Dialogue,,0,0,0,,но общается со всеми вот так, дракони.{but he's also like \i1that\i0, ryui.}
-Dialogue: 30,0:07:16.84,0:07:18.05,Dialogue,,0,0,0,,Не пойдёт...{That's no good, then...}
+Dialogue: 30,0:07:16.84,0:07:18.05,Dialogue,,0,0,0,,Не пойдёт…{That's no good, then...}
 Dialogue: 30,0:07:19.98,0:07:20.89,Dialogue,,0,0,0,,Простите!{Excuse me!}
 Dialogue: 30,0:07:20.89,0:07:24.02,Dialogue,,0,0,0,,Великолепная новенькая, Эруна Итиномия, к вам пришла!{The last great new student, Ichinomiya Eruna, is here!}
 Dialogue: 30,0:07:28.60,0:07:32.21,Dialogue,,0,0,0,,Должно быть это композиции докуганской школы флористики.{This must be of the Dokugan\N school of flower arrangement.}
@@ -1828,13 +1828,13 @@ Dialogue: 30,0:09:59.62,0:10:02.98,Dialogue,,0,0,0,,Ты в клубе «Иду�
 Dialogue: 30,0:10:02.98,0:10:05.51,Dialogue,,0,0,0,,Ошибаешься, я только что пришла из дома.{No, I only just arrived at school.}
 Dialogue: 30,0:10:06.06,0:10:08.85,Dialogue,,0,0,0,,Эруна Итиномия, так её зовут?{Ichinomiya Eruna, was it?}
 Dialogue: 30,0:10:09.70,0:10:11.52,Dialogue,,0,0,0,,Похоже, ты за неё переживаешь.{You seem concerned about her.}
-Dialogue: 30,0:10:26.57,0:10:28.03,Dialogue,,0,0,0,,Все такие крутые...{Everyone's so amazing...}
+Dialogue: 30,0:10:26.57,0:10:28.03,Dialogue,,0,0,0,,Все такие крутые…{Everyone's so amazing...}
 Dialogue: 30,0:10:28.43,0:10:32.04,Dialogue,,0,0,0,,Что же мне сделать, чтобы пробудить свою силу?{What must I do to be able to use that power, too?}
 Dialogue: 30,0:10:32.61,0:10:34.49,Dialogue,,0,0,0,,Спешка тут не поможет, дракони.{There's no use rushing, ryui.}
-Dialogue: 30,0:10:34.49,0:10:39.75,Dialogue,,0,0,0,,Постоянно тренируй своё тело и разум и, при должном усердии, однажды...{Train your mind and body every day, and with that hard work, one day...}
-Dialogue: 30,0:10:43.64,0:10:47.52,Dialogue,,0,0,0,,Ух ты... так много звёзд!{Wow... There are so many stars!}
+Dialogue: 30,0:10:34.49,0:10:39.75,Dialogue,,0,0,0,,Постоянно тренируй своё тело и разум и, при должном усердии, однажды…{Train your mind and body every day, and with that hard work, one day...}
+Dialogue: 30,0:10:43.64,0:10:47.52,Dialogue,,0,0,0,,Ух ты… так много звёзд!{Wow... There are so many stars!}
 Dialogue: 30,0:10:48.82,0:10:51.02,Dialogue,,0,0,0,,Блин, ты меня слушаешь, дракони?!{Hey, are you listening, ryui?!}
-Dialogue: 30,0:10:51.02,0:10:52.35,Dialogue,,0,0,0,,О, я видел тебя вчера...{Oh, you're the one from yesterday...}
+Dialogue: 30,0:10:51.02,0:10:52.35,Dialogue,,0,0,0,,О, я видел тебя вчера…{Oh, you're the one from yesterday...}
 Dialogue: 30,0:10:54.31,0:10:56.64,Dialogue,,0,0,0,,Эруна Итиномия, не ошибся?{Ichinomiya Eruna-san, right?}
 Dialogue: 30,0:10:56.64,0:10:59.27,Dialogue,,0,0,0,,Невероятно, что Сэйса позвала тебя к себе!{I can't believe Seisa-senpai invited you to join her club!}
 Dialogue: 30,0:11:01.37,0:11:05.61,Dialogue,,0,0,0,,Кстати говоря, астрономический кружок вечерами проводит здесь занятия.{Speaking of which, the Astronomy Club regularly has club activities out here at night, ryui.}
@@ -1843,7 +1843,7 @@ Dialogue: 30,0:11:09.33,0:11:13.36,Dialogue,,0,0,0,,Не-не-не, астрон
 Dialogue: 30,0:11:14.56,0:11:16.68,Dialogue,,0,0,0,,А где остальные члены кружка, дракони?{Where are the other Astronomy Club members, ryui?}
 Dialogue: 30,0:11:16.68,0:11:18.71,Dialogue,,0,0,0,,Старшеклассники пока не пришли.{The upperclassmen aren't here yet.}
 Dialogue: 30,0:11:18.71,0:11:22.39,Dialogue,,0,0,0,,Сегодня будут мои первые наблюдения в этой школе.{This is my first astronomical observation since entering high school.}
-Dialogue: 30,0:11:22.39,0:11:24.73,Dialogue,,0,0,0,,Я... был так рад...{I'm so happy...}
+Dialogue: 30,0:11:22.39,0:11:24.73,Dialogue,,0,0,0,,Я… был так рад…{I'm so happy...}
 Dialogue: 30,0:11:24.73,0:11:28.01,Dialogue,,0,0,0,,что не усидел дома и пришёл пораньше, но, похоже, слишком рано.{I couldn't wait and came early, \Nbut it looks like I'm the only one.}
 Dialogue: 30,0:11:29.32,0:11:31.76,Dialogue,,0,0,0,,Что со мной? Он точно мальчик?{What is this? Is he really a boy?!}
 Dialogue: 30,0:11:31.76,0:11:35.49,Dialogue,,0,0,0,,Его поведение и чувственность совсем как у девушки!{He's overflowing with girlish\N behavior and femininity, though!}
@@ -1853,35 +1853,35 @@ Dialogue: 30,0:11:42.58,0:11:45.53,Dialogue,,0,0,0,,Что вы, мне ещё �
 Dialogue: 30,0:11:46.60,0:11:48.78,Dialogue,,0,0,0,,Скажи, а можно мне в телескоп посмотреть?{Hey, can I take a peek at that, too?}
 Dialogue: 30,0:11:48.78,0:11:51.53,Dialogue,,0,0,0,,А, да! Чуточку подожди только.{Oh, yes! Please wait a moment.}
 Dialogue: 30,0:11:52.04,0:11:54.73,Dialogue,,0,0,0,,Я его наведу, чтобы тебе лучше было видно.{I'll adjust it so you can see more easily, Eruna-san.}
-Dialogue: 30,0:11:54.73,0:11:56.50,Dialogue,,0,0,0,,Такой лапочка...{What a nice kid...}
+Dialogue: 30,0:11:54.73,0:11:56.50,Dialogue,,0,0,0,,Такой лапочка…{What a nice kid...}
 Dialogue: 30,0:11:57.02,0:11:58.84,Dialogue,,0,0,0,,Всё, прошу!{Okay, here you go!}
 Dialogue: 30,0:11:58.84,0:11:59.50,Dialogue,,0,0,0,,Спасибо!{Thanks!}
 Dialogue: 30,0:12:03.59,0:12:05.01,Dialogue,,0,0,0,,Скажи же, красота!{Isn't it lovely?}
-Dialogue: 30,0:12:05.76,0:12:09.52,Dialogue,,0,0,0,,Каждый раз когда я на них смотрю - как первый,{Each day brings us stars with new expressions.}
-Dialogue: 30,0:12:09.52,0:12:12.01,Dialogue,,0,0,0,,поэтому сколько бы ни смотрел - не надоедает.{Even staring upward every night, I never get bored.}
+Dialogue: 30,0:12:05.76,0:12:09.52,Dialogue,,0,0,0,,Каждый раз когда я на них смотрю — как первый,{Each day brings us stars with new expressions.}
+Dialogue: 30,0:12:09.52,0:12:12.01,Dialogue,,0,0,0,,поэтому сколько бы ни смотрел — не надоедает.{Even staring upward every night, I never get bored.}
 Dialogue: 30,0:12:12.76,0:12:15.99,Dialogue,,0,0,0,,Точно!.. На них можно смотреть бесконечно!{Yeah... I feel like I could look at them forever.}
 Dialogue: 30,0:12:16.68,0:12:18.77,Dialogue,,0,0,0,,Стой, не нажимай ту кнопку!{Oh, don't push that button!}
 Dialogue: 30,0:12:27.42,0:12:29.32,Dialogue,,0,0,0,,Ой, прости меня! Прости!{Oh, I'm sorry! I'm sorry!}
 Dialogue: 30,0:12:30.06,0:12:32.34,Dialogue,,0,0,0,,Это вылетела «Падающая звезда».{That just now was called Shooting Star.}
 Dialogue: 30,0:12:32.34,0:12:36.16,Dialogue,,0,0,0,,Этот приём требует собрать в телескопе свет звёзд.{It's a power that activates after the telescope absorbs enough light from the stars.}
-Dialogue: 30,0:12:37.00,0:12:40.71,Dialogue,,0,0,0,,Беда в том, что из телескопа выстрелить может кто угодно...{Its weakness is that anyone can fire it once it's charged...}
+Dialogue: 30,0:12:37.00,0:12:40.71,Dialogue,,0,0,0,,Беда в том, что из телескопа выстрелить может кто угодно…{Its weakness is that anyone can fire it once it's charged...}
 Dialogue: 30,0:12:41.16,0:12:42.57,Dialogue,,0,0,0,,Асухи, ты крут!{That's amazing, Asuhi-kun!}
 Dialogue: 30,0:12:42.57,0:12:45.17,Dialogue,,0,0,0,,Как ты такому научился?{How did you learn to use this power?}
-Dialogue: 30,0:12:45.17,0:12:48.67,Dialogue,,0,0,0,,А? Я... не знаю как.{Huh? I... don't know.}
+Dialogue: 30,0:12:45.17,0:12:48.67,Dialogue,,0,0,0,,А? Я… не знаю как.{Huh? I... don't know.}
 Dialogue: 30,0:12:49.09,0:12:52.60,Dialogue,,0,0,0,,Я люблю смотреть на звёзды{I just like looking at stars,}
 Dialogue: 30,0:12:52.60,0:12:56.65,Dialogue,,0,0,0,,и с младшей школы я смотрю на них каждый день.{so I've been staring at them every day since I was in elementary school.}
-Dialogue: 30,0:12:56.65,0:12:59.32,Dialogue,,0,0,0,,А потом, неожиданно...{And then, before I knew it...}
+Dialogue: 30,0:12:56.65,0:12:59.32,Dialogue,,0,0,0,,А потом, неожиданно…{And then, before I knew it...}
 Dialogue: 30,0:13:01.97,0:13:05.03,Dialogue,,0,0,0,,Я поняла! Ключевое слово — «неожиданно»!{I've got it! The keyword is "before I knew it"!}
 Dialogue: 30,0:13:05.03,0:13:06.42,Dialogue,,0,0,0,,Кто ждёт — тот получает!{Good things come to those who wait.}
 Dialogue: 30,0:13:06.42,0:13:08.02,Dialogue,,0,0,0,,В спальном мешке ждать будешь, дракони?{Are you going to wait\N in that sleeping bag, ryui?}
 Dialogue: 30,0:13:08.02,0:13:09.56,Dialogue,,0,0,0,,Ну уж нет!{I don't want that!}
 Dialogue: 30,0:13:09.56,0:13:12.99,Dialogue,,0,0,0,,Раз не хочешь — начинай уже работать над собой, дракони.{Then you need to start by working hard to get out of that sleeping bag, ryui.}
-Dialogue: 30,0:13:13.50,0:13:14.40,Dialogue,,0,0,0,,Я тут вспомнила...{By the way...}
+Dialogue: 30,0:13:13.50,0:13:14.40,Dialogue,,0,0,0,,Я тут вспомнила…{By the way...}
 Dialogue: 30,0:13:14.40,0:13:15.29,Dialogue,,0,0,0,,Что?{Hm?}
 Dialogue: 30,0:13:15.29,0:13:19.91,Dialogue,,0,0,0,,А какой силой владеет Сэйса,\Nа то она так и не показала мне её?{In the end she wouldn't show it to me, \Nbut what kind of power does Seisa-senpai have?}
 Dialogue: 30,0:13:20.22,0:13:23.14,Dialogue,,0,0,0,,Её сила называется \N«Убийственное исскусство», дракони.{Seisa's power is called Killing Art, ryui.}
 Dialogue: 30,0:13:23.14,0:13:29.12,Dialogue,,0,0,0,,Единственная способность которая не полагается на предметы, дракони.{It's the only power at Mikagura Academy\N that can be activated without an item, ryui.}
-Dialogue: 30,0:13:29.12,0:13:30.99,Dialogue,,0,0,0,,И самое удивительное в том...{And the most amazing thing about that power is—}
+Dialogue: 30,0:13:29.12,0:13:30.99,Dialogue,,0,0,0,,И самое удивительное в том…{And the most amazing thing about that power is—}
 Dialogue: 30,0:13:30.99,0:13:32.50,Dialogue,,0,0,0,,Вот она — моя богиня!{That's my goddess!}
 Dialogue: 30,0:13:32.50,0:13:33.72,Dialogue,,0,0,0,,Нафиг сон и ожидание!{Forget about sleeping and waiting!}
 Dialogue: 30,0:13:34.08,0:13:37.74,Dialogue,,0,0,0,,Я буду тренироваться и придумывать крутой приём!{I'm going to do intense training and learn a special attack, too!}
@@ -1894,7 +1894,7 @@ Dialogue: 30,0:13:52.89,0:13:55.16,Dialogue,,0,0,0,,Раз я в клубе «И
 Dialogue: 30,0:13:55.58,0:13:56.47,Dialogue,,0,0,0,,Давай, дракони!{Try it, ryui!}
 Dialogue: 30,0:13:56.47,0:13:57.37,Dialogue,,0,0,0,,Нападай, Эруночка!{Come to me, Eruna-chan!}
 Dialogue: 30,0:13:58.74,0:14:00.62,Dialogue,,0,0,0,,«Школьной сумкой бздыщь»!{School Bag Crush!}
-Dialogue: 30,0:14:03.30,0:14:06.75,Dialogue,,0,0,0,,Ты его просто сумкой треснула, дракони...{You're just hitting him with your bag, ryui.}
+Dialogue: 30,0:14:03.30,0:14:06.75,Dialogue,,0,0,0,,Ты его просто сумкой треснула, дракони…{You're just hitting him with your bag, ryui.}
 Dialogue: 30,0:14:07.27,0:14:08.13,Dialogue,,0,0,0,,Попробую это!{Then, I'll use this!}
 Dialogue: 30,0:14:08.80,0:14:09.51,Dialogue,,0,0,0,,Сюда, Эруночка!{Come to me, Eruna-chan!}
 Dialogue: 30,0:14:09.63,0:14:11.84,Dialogue,,0,0,0,,«Спящая красавица»!{Sleeping Beauty!}
@@ -1906,7 +1906,7 @@ Dialogue: 30,0:14:40.58,0:14:42.45,Dialogue,,0,0,0,,Ура! Мне удалос�
 Dialogue: 30,0:14:42.45,0:14:45.38,Dialogue,,0,0,0,,Наша первая ночь наедине, в медкабинете!{It's our first night alone in the infirmary!}
 Dialogue: 30,0:14:45.38,0:14:46.75,Dialogue,,0,0,0,,Ты чем занята, дракони?!{What are you doing, ryui?!}
 Dialogue: 30,0:14:48.92,0:14:51.76,Dialogue,,0,0,0,,В мечтах-то я могу делать «такое»,{In my delusions, I can activate techniques like "this,"}
-Dialogue: 30,0:14:51.76,0:14:57.69,Dialogue,,0,0,0,,«вот такое», «что, даже и ТАКОЕ?», но в жизни ничего такого не получается... {"that," and "What?! Even that?" but...}
+Dialogue: 30,0:14:51.76,0:14:57.69,Dialogue,,0,0,0,,«вот такое», «что, даже и ТАКОЕ?», но в жизни ничего такого не получается… {"that," and "What?! Even that?" but...}
 Dialogue: 30,0:15:00.31,0:15:01.82,Dialogue,,0,0,0,,Сэйса!{Seisa-senpai!}
 Dialogue: 30,0:15:01.82,0:15:04.14,Dialogue,,0,0,0,,Всё же я поставила непосильную задачу.{I suppose it's impossible for you after all.}
 Dialogue: 30,0:15:04.56,0:15:06.50,Dialogue,,0,0,0,,Ч-что вы! Ничего подобного!{Th-That's not true!}
@@ -1925,14 +1925,14 @@ Dialogue: 30,0:15:35.51,0:15:37.01,Dialogue,,0,0,0,,Хоть полдороги 
 Dialogue: 30,0:15:37.55,0:15:40.01,Dialogue,,0,0,0,,Можем остановиться по пути, сделать крюк!{We can stop somewhere on the way! Take the long way!}
 Dialogue: 30,0:15:40.71,0:15:44.24,Dialogue,,0,0,0,,Можем задержаться у магазина со вкусным мороженым, переесть его{We can stop by a delicious ice cream shop and eat ice cream together}
 Dialogue: 30,0:15:44.24,0:15:46.86,Dialogue,,0,0,0,,и, застудив животы, пойти вместе в медкабинет,{and get stomachaches and go to the infirmary together}
-Dialogue: 30,0:15:46.86,0:15:49.31,Dialogue,,0,0,0,,где перебинтуем друг дружку...{and put bandages on each other in the infirmary...}
+Dialogue: 30,0:15:46.86,0:15:49.31,Dialogue,,0,0,0,,где перебинтуем друг дружку…{and put bandages on each other in the infirmary...}
 Dialogue: 30,0:15:49.88,0:15:52.32,Dialogue,,0,0,0,,Много чем можно заняться по дороге домой!{We can do anything on the way home!}
 Dialogue: 30,0:15:54.95,0:15:57.56,Dialogue,,0,0,0,,Я захотела поступить в эту школу{I wanted to come to this school}
 Dialogue: 30,0:15:57.56,0:16:00.82,Dialogue,,0,0,0,,{\fad(0,1000)}потому, что увидела вас на буклете и тут же влюбилась!{because I saw you in the pamphlet, and fell immediately in love!}
 Dialogue: 30,0:16:01.09,0:16:04.91,Dialogue,,0,0,0,,{\t(3388,3800,0.75,\3c&HFFFFFF&)}Я хотела ходить в одну школу с такой красавицей!{I wanted to go to the same school as such a lovely person!}
 Dialogue: 30,0:16:05.66,0:16:10.63,Dialogue,,0,0,0,,Поэтому когда ты пригласила меня в свой клуб, я была на седьмом небе от счастья!{Then, when you invited me to join the\N Going-Home Club, I was really happy!}
 Dialogue: 30,0:16:13.30,0:16:14.34,Dialogue,,0,0,0,,Поэтому?..{So what?}
-Dialogue: 30,0:16:14.81,0:16:16.09,Dialogue,,0,0,0,,Поэтому...{So...}
+Dialogue: 30,0:16:14.81,0:16:16.09,Dialogue,,0,0,0,,Поэтому…{So...}
 Dialogue: 30,0:16:17.34,0:16:19.05,Dialogue,,0,0,0,,я буду стараться изо всех сил!{I'll work hard with everything I have!}
 Dialogue: 30,0:16:24.23,0:16:26.18,Dialogue,,0,0,0,,Что же, начнём поединок, дракони!{Now, we will begin the match, ryui!}
 Dialogue: 30,0:16:26.53,0:16:28.39,Dialogue,,0,0,0,,Стоп, я буду драться против Химечки?{Wait, I'm fighting against Himi-chan?}
@@ -1944,10 +1944,10 @@ Dialogue: 30,0:16:44.79,0:16:48.37,Dialogue,,0,0,0,,Первая потеряв�
 Dialogue: 30,0:16:49.36,0:16:51.89,Dialogue,,0,0,0,,А что, никто на наш бой не посмотрит?{No one's going to watch our fight?}
 Dialogue: 30,0:16:51.89,0:16:54.38,Dialogue,,0,0,0,,За боем можно наблюдать отовсюду, дракони.{The other students can watch from wherever they like, ryui.}
 Dialogue: 30,0:16:54.99,0:16:59.63,Dialogue,,0,0,0,,Бой вещают с расставленных по школе камер, дракони.{The match is broadcast from cameras installed around the school, ryui.}
-Dialogue: 30,0:17:03.96,0:17:06.43,Dialogue,,0,0,0,,Итак... вы готовы, дракони?{Now... are you ready, ryui?}
+Dialogue: 30,0:17:03.96,0:17:06.43,Dialogue,,0,0,0,,Итак… вы готовы, дракони?{Now... are you ready, ryui?}
 Dialogue: 30,0:17:10.63,0:17:11.40,Dialogue,,0,0,0,,Матч начался.{Begin the match.}
 Dialogue: 30,0:17:16.31,0:17:18.03,Dialogue,,0,0,0,,Тебе не убежать!{I won't let you escape!}
-Dialogue: 30,0:17:25.61,0:17:27.16,Dialogue,,0,0,0,,Если засяду здесь...{If I ambush her here...}
+Dialogue: 30,0:17:25.61,0:17:27.16,Dialogue,,0,0,0,,Если засяду здесь…{If I ambush her here...}
 Dialogue: 30,0:17:30.87,0:17:32.17,Dialogue,,0,0,0,,Вот так.{Got it.}
 Dialogue: 30,0:17:35.14,0:17:38.26,Dialogue,,0,0,0,,Эруня, выходи.{Eruna-chan, come out.}
 Dialogue: 30,0:17:38.26,0:17:40.63,Dialogue,,0,0,0,,Пора кушать!{It's time to eat!}
@@ -1963,13 +1963,13 @@ Dialogue: 30,0:18:23.28,0:18:24.38,Dialogue,,0,0,0,,Ты догадалась?!{
 Dialogue: 30,0:18:25.15,0:18:27.35,Dialogue,,0,0,0,,Разумеется!{Of course!}
 Dialogue: 30,0:18:27.35,0:18:29.93,Dialogue,,0,0,0,,Кем бы я была, попадись я в такую ловушку?{I wouldn't be me if I were tricked by something like that.}
 Dialogue: 30,0:18:30.99,0:18:32.77,Dialogue,,0,0,0,,{\ko57}{\2a&HFF&}Врёшь-{Wait! }{\ko38}врёшь-{Wait! }{\ko83}не уйдёшь!{Wait!}
-Dialogue: 30,0:18:54.29,0:18:55.91,Dialogue,,0,0,0,,Это... что...{This is...}
+Dialogue: 30,0:18:54.29,0:18:55.91,Dialogue,,0,0,0,,Это… что…{This is...}
 Dialogue: 30,0:19:09.22,0:19:11.33,Dialogue,,0,0,0,,Что это за комната?{What's with this room?}
-Dialogue: 30,0:19:14.29,0:19:15.77,Dialogue,,0,0,0,,Темень...{Whoa...}
+Dialogue: 30,0:19:14.29,0:19:15.77,Dialogue,,0,0,0,,Темень…{Whoa...}
 Dialogue: 30,0:19:30.37,0:19:32.87,Dialogue,,0,0,0,,Ты — наследница избранного рода.{You are a descendant of the chosen line.}
 Dialogue: 30,0:19:35.36,0:19:38.31,Dialogue,,0,0,0,,А теперь пробуди{Now, awaken}
 Dialogue: 30,0:19:38.31,0:19:42.34,Dialogue,,0,0,0,,силу, что дремлет в тебе.{the power you already have inside you.}
-Dialogue: 30,0:19:48.55,0:19:51.30,Dialogue,,0,0,0,,А? Кажется, я только что кого-то видела...{Huh? I thought I just saw someone...}
+Dialogue: 30,0:19:48.55,0:19:51.30,Dialogue,,0,0,0,,А? Кажется, я только что кого-то видела…{Huh? I thought I just saw someone...}
 Dialogue: 30,0:19:52.70,0:19:53.98,Dialogue,,0,0,0,,Только кого?..{Who was it again...?}
 Dialogue: 30,0:19:53.98,0:19:55.39,Dialogue,,0,0,0,,Нашла!{Found you!}
 Dialogue: 30,0:19:55.83,0:19:58.08,Dialogue,,0,0,0,,В эту комнату нельзя заходить.{You're not allowed to come in here.}
@@ -1977,14 +1977,14 @@ Dialogue: 30,0:19:58.08,0:19:59.35,Dialogue,,0,0,0,,Э, погоди чуток!
 Dialogue: 30,0:19:59.74,0:20:03.44,Dialogue,,0,0,0,,Нетушки! Сейчас быстренько закончу и пойду вкусняшки есть!{No can do. I'm going to finish this quickly and eat some snacks!}
 Dialogue: 30,0:20:11.37,0:20:12.37,Dialogue,,0,0,0,,Ты куда рванула?{What's going on all of a sudden?}
 Dialogue: 30,0:20:13.12,0:20:16.69,Dialogue,,0,0,0,,Сила пробудилась? Именно сейчас?!{Has she awakened? At a time like this?}
-Dialogue: 30,0:20:16.69,0:20:17.99,Dialogue Italics,,0,0,0,,Это чувство...{This is...}
+Dialogue: 30,0:20:16.69,0:20:17.99,Dialogue Italics,,0,0,0,,Это чувство…{This is...}
 Dialogue: 30,0:20:17.99,0:20:19.25,Dialogue Italics,,0,0,0,,лёгкости во всём теле!{My body feels light!}
 Dialogue: 30,0:20:23.28,0:20:24.71,Dialogue,,0,0,0,,Милые чернила!{Lovely Ink!}
 Dialogue: 30,0:20:27.37,0:20:27.84,Dialogue,,0,0,0,,Пешка!{Pawn!}
 Dialogue: 30,0:20:36.25,0:20:38.52,Dialogue,,0,0,0,,Я сама так смогла? Я настолько быстра?{Is this me? I can move this fast?}
 Dialogue: 30,0:20:38.52,0:20:39.31,Dialogue,,0,0,0,,Как?!{Why?}
 Dialogue: 30,0:20:42.33,0:20:43.30,Dialogue,,0,0,0,,Сёги?!{Shogi?!}
-Dialogue: 30,0:20:55.91,0:20:57.79,Dialogue,,0,0,0,,Вот значит какие они, клубные битвы...{So this is a club battle...?}
+Dialogue: 30,0:20:55.91,0:20:57.79,Dialogue,,0,0,0,,Вот значит какие они, клубные битвы…{So this is a club battle...?}
 Dialogue: 30,0:20:57.79,0:20:58.83,Dialogue,,0,0,0,,Фонтан эмоций!{It's so exciting!}
 Dialogue: 30,0:21:11.43,0:21:12.55,Dialogue,,0,0,0,,Шах.{Check.}
 Dialogue: 30,0:21:12.55,0:21:13.60,Dialogue,,0,0,0,,А почему сёги-то?{But why Shogi?!}
@@ -1992,10 +1992,10 @@ Dialogue: 30,0:21:21.06,0:21:23.31,Dialogue Top,,0,0,0,,А теперь проб
 Dialogue: 30,0:21:23.97,0:21:27.57,Dialogue Top,,0,0,0,,силу, что дремлет в тебе.{the power you already have inside you.}
 Dialogue: 30,0:21:28.18,0:21:31.03,Dialogue Italics,,0,0,0,,Вот она, моя способность.{I see, so this is my power.}
 Dialogue: 30,0:21:31.03,0:21:34.49,Dialogue,,0,0,0,,Полный заряд! Огонь!{Tension max! Go!}
-Dialogue: 30,0:21:46.54,0:21:48.34,Dialogue,,0,0,0,,Как так...{I can't believe it...}
+Dialogue: 30,0:21:46.54,0:21:48.34,Dialogue,,0,0,0,,Как так…{I can't believe it...}
 Dialogue: 30,0:21:48.34,0:21:50.38,Dialogue,,0,0,0,,Как она выстрелила без ничего?..{How did she do it without an item...?}
 Dialogue: 30,0:21:51.86,0:21:53.73,Dialogue,,0,0,0,,Я выиграла?..{Did I win...?}
-Dialogue: 30,0:21:53.73,0:21:57.39,Dialogue,,0,0,0,,Неужели... я смогла произвести фурор?{Could it be... I caused a huge upset?}
+Dialogue: 30,0:21:53.73,0:21:57.39,Dialogue,,0,0,0,,Неужели… я смогла произвести фурор?{Could it be... I caused a huge upset?}
 Dialogue: 30,0:21:58.95,0:22:01.89,Dialogue,,0,0,0,,Наконец-то ты пробудилась, Эруночка.{You've finally awakened, Eruna-chan?}
 Dialogue: 0,0:22:04.84,0:22:09.84,Signs,,0,0,0,,{\alpha&H20\shad0\bord0\an7\p3\c&H0000BF&\pos(25,25)}m 75 16 l 94 36 l 106 22 l 121 31 l 136 53 l 128 52 l 127 64 l 139 79 l 147 74 l 142 84 l 122 67 l 123 77 l 133 88 l 143 99 l 149 93 l 143 89 l 147 81 l 155 83 l 141 60 l 142 54 l 115 16 l 129 30 l 123 15 l 149 17 l 147 32 l 155 32 l 157 45 l 164 44 l 163 59 l 171 58 l 170 43 l 173 44 l 160 18 l 169 18 l 175 40 l 189 63 l 188 73 l 196 90 l 193 89 l 197 100 l 203 95 l 209 99 l 213 91 l 208 74 l 214 60 l 213 41 l 209 28 l 206 31 l 203 17 l 210 17 l 217 50 l 225 52 l 221 27 l 228 51 l 232 45 l 237 48 l 229 57 l 233 72 l 231 79 l 233 92 l 234 76 l 239 60 l 242 70 l 244 62 l 240 56 l 240 40 l 242 34 l 242 51 l 250 55 l 247 61 l 249 65 l 253 61 l 256 69 l 252 70 l 247 67 l 243 85 l 247 86 l 257 77 l 266 87 l 270 92 l 277 82 l 272 91 l 273 95 l 275 90 l 281 82 l 279 76 l 274 78 l 278 70 l 274 66 l 267 71 l 261 67 l 259 50 l 255 50 l 255 54 l 247 47 l 246 38 l 254 31 l 261 46 l 269 42 l 277 34 l 283 37 l 280 44 l 283 51 l 280 65 l 284 68 l 286 62 l 288 66 l 291 65 l 292 71 l 286 72 l 285 82 l 294 89 l 301 73 l 296 63 l 290 61 l 292 56 l 298 58 l 309 53 l 319 69 l 310 74 l 315 82 l 330 87 l 334 77 l 329 69 l 332 60 l 340 60 l 346 43 l 358 31 l 354 52 l 351 58 l 355 61 l 352 57 l 362 50 l 358 44 l 362 38 l 372 38 l 366 49 l 373 50 l 380 57 l 390 58 l 399 56 l 403 51 l 402 46 l 407 40 l 409 33 l 406 28 l 414 26 l 422 32 l 417 44 l 415 52 l 410 54 l 408 62 l 410 67 l 415 65 l 414 78 l 412 85 l 416 90 l 414 96 l 410 100 l 411 104 l 417 98 l 420 122 l 425 127 l 418 131 l 414 127 l 408 138 l 414 141 l 415 147 l 404 156 l 417 161 l 426 171 l 434 170 l 448 171 l 459 162 l 464 148 l 455 134 l 466 132 l 482 125 l 481 118 l 482 117 l 484 130 l 484 205 l 475 206 l 471 220 l 477 213 l 478 219 l 484 218 l 484 226 l 478 225 l 468 227 l 470 229 l 466 230 l 468 244 l 479 252 l 475 258 l 481 260 l 473 262 l 485 268 l 475 271 l 465 267 l 459 271 l 462 275 l 464 271 l 471 270 l 467 273 l 476 275 l 477 281 l 484 277 l 485 291 l 482 314 l 484 318 l 482 322 l 485 331 l 482 337 l 480 343 l 482 348 l 477 350 l 484 355 l 484 375 l 481 384 l 485 396 l 478 399 l 481 407 l 483 407 l 485 416 l 481 421 l 468 420 l 465 411 l 471 404 l 460 398 l 452 393 l 449 380 l 455 376 l 460 385 l 468 383 l 461 376 l 462 373 l 457 367 l 460 366 l 456 358 l 447 352 l 438 341 l 425 341 l 429 343 l 420 347 l 413 343 l 410 331 l 401 322 l 399 329 l 405 334 l 402 338 l 393 328 l 400 345 l 393 334 l 377 327 l 367 331 l 359 333 l 370 347 l 377 347 l 380 345 l 375 339 l 381 331 l 390 341 l 392 349 l 407 348 l 413 365 l 402 370 l 401 382 l 397 380 l 394 390 l 398 385 l 409 399 l 399 400 l 391 393 l 379 389 l 367 393 l 378 395 l 384 399 l 378 406 l 372 404 l 374 409 l 373 420 l 379 429 l 385 426 l 390 442 l 394 451 l 399 450 l 409 464 l 400 469 l 399 461 l 393 464 l 389 460 l 395 456 l 386 446 l 383 446 l 379 439 l 371 457 l 370 465 l 363 461 l 366 456 l 360 445 l 350 436 l 359 415 l 352 410 l 357 405 l 362 412 l 365 406 l 354 402 l 350 389 l 344 394 l 349 400 l 352 425 l 344 428 l 343 418 l 335 419 l 335 429 l 338 424 l 338 431 l 341 441 l 346 452 l 344 458 l 347 464 l 345 472 l 356 469 l 366 473 l 361 484 l 352 485 l 343 484 l 335 481 l 339 477 l 333 473 l 333 466 l 322 465 l 322 460 l 311 467 l 304 464 l 306 481 l 309 481 l 306 485 l 284 481 l 290 479 l 282 476 l 278 484 l 263 485 l 259 471 l 261 456 l 266 449 l 263 444 l 255 446 l 258 451 l 252 449 l 252 467 l 259 474 l 257 484 l 249 481 l 248 463 l 241 462 l 241 476 l 237 477 l 233 483 l 226 480 l 219 486 l 210 482 l 220 481 l 216 475 l 211 462 l 207 462 l 202 473 l 209 483 l 184 483 l 191 471 l 191 461 l 183 458 l 184 450 l 177 457 l 185 464 l 175 479 l 167 485 l 165 463 l 160 446 l 149 459 l 155 459 l 146 466 l 141 463 l 135 467 l 132 481 l 126 469 l 131 459 l 140 459 l 134 438 l 145 432 l 157 411 l 149 409 l 150 401 l 145 400 l 149 394 l 139 398 l 133 406 l 120 406 l 125 397 l 132 400 l 137 394 l 135 387 l 128 393 l 125 389 l 112 388 l 107 394 l 100 394 l 103 405 l 95 404 l 95 421 l 111 424 l 110 432 l 94 449 l 96 454 l 107 441 l 111 449 l 110 461 l 106 463 l 106 472 l 101 475 l 101 485 l 94 477 l 90 470 l 80 469 l 81 478 l 80 485 l 69 468 l 54 467 l 51 471 l 46 468 l 49 464 l 40 462 l 37 465 l 41 473 l 32 468 l 30 461 l 36 464 l 36 460 l 25 454 l 16 434 l 15 401 l 27 401 l 33 392 l 40 395 l 44 386 l 57 372 l 60 373 l 60 378 l 67 378 l 69 385 l 66 389 l 74 397 l 79 392 l 72 386 l 91 371 l 83 363 l 75 369 l 59 355 l 67 347 l 61 342 l 52 350 l 36 350 l 58 335 l 48 322 l 57 314 l 64 318 l 72 325 l 86 312 l 101 312 l 98 304 l 105 296 l 121 300 l 124 295 l 129 297 l 128 286 l 131 284 l 131 276 l 123 276 l 123 282 l 114 289 l 110 291 l 107 283 l 113 279 l 99 283 l 77 285 l 68 282 l 67 290 l 57 303 l 52 298 l 44 297 l 34 287 l 32 292 l 38 300 l 34 306 l 37 312 l 30 316 l 24 314 l 22 326 l 16 326 l 15 314 l 19 312 l 15 294 l 16 272 l 23 267 l 38 267 l 44 264 l 35 260 l 26 262 l 16 260 l 27 256 l 31 247 l 16 248 l 16 227 l 42 227 l 50 237 l 61 254 l 49 252 l 51 259 l 43 272 l 47 283 l 50 275 l 55 276 l 59 272 l 54 269 l 65 271 l 71 273 l 76 253 l 61 246 l 64 237 l 48 226 l 64 219 l 54 217 l 43 219 l 31 209 l 16 205 l 16 191 l 23 197 l 21 203 l 31 206 l 33 201 l 44 199 l 42 196 l 44 191 l 40 192 l 34 182 l 30 185 l 19 181 l 19 175 l 33 173 l 40 174 l 43 171 l 48 173 l 58 161 l 52 159 l 44 166 l 39 163 l 47 153 l 28 139 l 29 144 l 28 147 l 16 126 l 24 131 l 15 110 l 32 109 l 42 118 l 42 114 l 51 116 l 47 124 l 52 140 l 61 143 l 49 144 l 65 148 l 70 153 l 74 151 l 76 156 l 95 161 l 90 153 l 85 156 l 84 144 l 76 138 l 78 146 l 71 148 l 64 133 l 66 126 l 70 127 l 69 118 l 50 96 l 31 83 l 34 81 l 25 65 l 29 64 l 59 94 l 68 89 l 64 74 l 91 92 l 89 84 l 94 85 l 92 79 l 99 73 l 105 75 l 100 69 l 91 53 l 88 60 l 81 58 l 77 54 l 87 47 l 81 44 l 76 40 l 79 34 l 83 37{\p0}
 Dialogue: 0,0:22:04.84,0:22:09.84,Signs,,0,0,0,,{\alpha&H20\shad0\bord0\an7\p3\c&H000080&\pos(25,25)}m 24 54 l 27 46 l 32 46 l 32 43 l 39 41 l 37 39 l 45 37 l 48 42 l 50 41 l 53 44 l 56 44 l 55 41 l 61 45 l 62 49 l 69 53 l 69 50 l 76 54 l 74 58 l 80 62 l 81 59 l 87 65 l 85 68 l 92 72 l 92 69 l 98 75 l 97 78 l 103 82 l 103 79 l 110 84 l 108 88 l 115 93 l 115 89 l 120 95 l 119 98 l 125 103 l 126 100 l 132 105 l 130 108 l 136 113 l 136 110 l 142 115 l 141 119 l 147 123 l 148 119 l 153 126 l 152 128 l 158 133 l 159 130 l 164 135 l 163 139 l 170 144 l 169 140 l 175 146 l 174 149 l 180 153 l 181 150 l 186 156 l 185 159 l 191 163 l 191 160 l 196 166 l 195 170 l 202 174 l 202 170 l 207 175 l 207 180 l 213 184 l 213 181 l 219 186 l 218 189 l 224 194 l 223 190 l 231 195 l 229 200 l 235 204 l 235 200 l 240 206 l 249 212 l 260 205 l 265 201 l 265 204 l 272 200 l 269 196 l 276 192 l 276 195 l 283 190 l 281 187 l 286 181 l 287 184 l 293 180 l 293 175 l 298 170 l 298 174 l 305 170 l 303 166 l 308 160 l 309 164 l 316 159 l 314 155 l 319 151 l 320 153 l 326 148 l 324 146 l 330 140 l 331 144 l 337 139 l 336 135 l 341 130 l 342 133 l 349 129 l 347 126 l 353 119 l 353 123 l 359 118 l 358 115 l 364 109 l 364 113 l 371 108 l 368 104 l 374 99 l 374 102 l 381 98 l 380 94 l 385 89 l 386 92 l 392 88 l 390 84 l 396 79 l 397 82 l 404 78 l 402 75 l 408 68 l 408 73 l 415 67 l 413 64 l 419 58 l 420 62 l 426 58 l 424 54 l 432 49 l 432 52 l 438 49 l 439 44 l 444 41 l 444 44 l 449 41 l 453 42 l 456 37 l 464 39 l 461 41 l 468 43 l 468 46 l 474 46 l 477 54 l 474 52 l 473 61 l 476 65 l 472 71 l 470 68 l 465 74 l 467 78 l 463 83 l 462 80 l 456 86 l 458 89 l 453 95 l 452 91 l 447 97 l 447 101 l 443 106 l 442 103 l 437 108 l 437 112 l 433 117 l 432 113 l 426 119 l 427 123 l 423 128 l 421 124 l 416 129 l 417 133 l 412 139 l 411 135 l 406 140 l 407 144 l 401 149 l 400 145 l 395 150 l 396 155 l 391 160 l 390 156 l 385 161 l 385 166 l 380 170 l 380 166 l 374 172 l 375 176 l 370 181 l 369 177 l 363 182 l 364 186 l 359 191 l 358 187 l 352 193 l 354 196 l 349 202 l 348 198 l 342 203 l 343 207 l 338 212 l 337 208 l 332 214 l 333 217 l 327 223 l 327 219 l 321 224 l 322 228 l 319 230 b 355 248 382 276 379 303 b 384 316 396 330 404 337 b 410 344 417 352 422 356 b 427 360 423 372 420 375 b 422 377 431 402 422 412 l 409 424 l 385 436 l 387 419 l 405 407 b 412 398 407 395 395 384 l 384 361 b 371 363 363 365 365 355 b 367 345 359 348 356 344 b 353 343 350 341 351 338 b 320 355 325 360 326 360 l 331 359 l 344 376 b 343 381 353 386 358 390 l 388 419 l 385 436 b 382 437 374 433 359 420 l 312 380 l 312 375 l 307 378 l 250 331 l 193 380 l 188 376 l 188 380 l 142 420 b 134 427 120 440 114 437 l 112 420 l 143 390 b 149 387 156 382 156 377 l 169 360 l 174 361 b 178 357 168 351 149 339 b 152 343 131 349 134 355 b 136 360 137 367 116 362 l 105 384 b 94 395 85 401 97 410 l 117 423 l 114 437 l 92 426 b 75 413 67 403 79 376 b 78 372 71 365 78 357 b 84 352 90 345 95 338 b 109 327 115 315 121 305 b 119 279 132 259 181 230 l 178 227 l 179 224 l 173 219 l 173 223 l 167 216 l 169 213 l 163 208 l 162 212 l 156 206 l 158 203 l 153 198 l 152 201 l 146 195 l 148 192 l 142 187 l 141 191 l 136 185 l 137 182 l 131 176 l 131 180 l 125 175 l 126 171 l 120 166 l 120 170 l 115 165 l 116 161 l 110 156 l 110 160 l 105 155 l 105 150 l 100 145 l 99 149 l 94 144 l 95 140 l 89 135 l 89 139 l 83 133 l 85 129 l 79 124 l 78 128 l 73 121 l 75 118 l 68 113 l 68 117 l 63 111 l 64 108 l 58 103 l 57 107 l 52 100 l 54 97 l 48 92 l 48 96 l 42 90 l 44 87 l 39 80 l 38 84 l 33 79 l 34 75 l 30 68 l 29 72 l 24 65 l 27 62 l 26 60 l 27 54
