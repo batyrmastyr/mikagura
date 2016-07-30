@@ -16,9 +16,9 @@ Video File: [Chihiro]_Mikagura_Gakuen_Kumikyoku_03_[720p_Hi10P_AAC][7A89ED2C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 31204
-Active Line: 31213
-Video Position: 5643
+Scroll Position: 31563
+Active Line: 31569
+Video Position: 30816
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2607,7 +2607,7 @@ Dialogue: 30,0:05:01.98,0:05:04.91,Dialogue,,0,0,0,,И я Мишано, деся
 Dialogue: 30,0:05:05.91,0:05:07.99,Dialogue,,0,0,0,,Ах... миленькая...{Oh, she's cute...}
 Dialogue: 30,0:05:07.99,0:05:11.54,Dialogue,,0,0,0,,Ты весь наш кружок немало удивила, Итиномия.{You surprised all of us in the\N Drama Club, Ichinomiya-chan.}
 Dialogue: 30,0:05:11.54,0:05:15.68,Dialogue,,0,0,0,,Ты знаешь, что из всей школы активировать силу,{I mean, the only other person\N who can activate their power}
-Dialogue: 30,0:05:15.68,0:05:18.75,Dialogue,,0,0,0,,не пользуясь предметами, могла только Сэйсе.{without an item at this school is Seisa-san.}
+Dialogue: 30,0:05:15.68,0:05:18.75,Dialogue,,0,0,0,,не пользуясь предметами, могла только Сэйса?{without an item at this school is Seisa-san.}
 Dialogue: 30,0:05:18.75,0:05:22.82,Dialogue,,0,0,0,,Всё дело в любви между мной и Сэйсой.{It must be because of the mutual love between Seisa-senpai and me.}
 Dialogue: 30,0:05:22.82,0:05:25.00,Dialogue,,0,0,0,,Наши тела и души едины.{I mean, our bodies and souls are one.}
 Dialogue: 30,0:05:25.00,0:05:27.64,Dialogue,,0,0,0,,Точно! Нужно же рассказать ей о победе!{Oh, right! I haven't reported my win to her yet!}
@@ -2636,7 +2636,7 @@ Dialogue: 30,0:06:35.24,0:06:37.18,Dialogue,,0,0,0,,В этой комнате �
 Dialogue: 30,0:06:37.18,0:06:38.46,Dialogue,,0,0,0,,Спальня Сэйсы...{This is where she...}
 Dialogue: 30,0:06:40.46,0:06:42.17,Dialogue,,0,0,0,,{\ko61}{\2a&HFF&}О-{Th-}{\ko46}о-{Th-}{\ko64}они же...{This is...!}
 Dialogue: 30,0:06:43.33,0:06:46.17,Dialogue,,0,0,0,,{\t(2619,2800,0.9,\3c&HFFFFFF&)}касались её ножек!{These have touched her skin!}
-Dialogue: 30,0:06:49.43,0:06:51.80,Dialogue,,0,0,0,,Аромат как у болгарской розы...{They smell like Bulgarian roses...}
+Dialogue: 30,0:06:49.43,0:06:51.80,Dialogue,,0,0,0,,Аромат как у Болгарской розы...{They smell like Bulgarian roses...}
 Dialogue: 30,0:06:53.00,0:06:53.50,Dialogue,,0,0,0,,Цык...{Ow...}
 Dialogue: 30,0:06:53.50,0:06:55.11,Dialogue,,0,0,0,,Уймись уже, дракони.{Stop messing around, ryui.}
 Dialogue: 30,0:06:55.11,0:06:57.14,Dialogue,,0,0,0,,Эй, я Сэйсочку нашла!{Oh! I found Seisa-chan!}
@@ -2647,7 +2647,7 @@ Dialogue: 30,0:07:15.83,0:07:16.88,Dialogue,,0,0,0,,Госпожа...{Mistress..
 Dialogue: 30,0:07:18.91,0:07:22.09,Dialogue,,0,0,0,,Сэйса, я победила!{Seisa-senpai, I won the battle!}
 Dialogue: 30,0:07:22.09,0:07:24.35,Dialogue,,0,0,0,,Я защитила честь «Идущих домой»!{I protected the honor of the Going-Home Club!}
 Dialogue: 30,0:07:24.35,0:07:26.26,Dialogue,,0,0,0,,Вот, похвалите же меня!{Now, praise me!}
-Dialogue: 30,0:07:26.71,0:07:29.25,Dialogue,,0,0,0,,Я из тех, кому похвала только на пользу!{I'm the type who does better when praised!}
+Dialogue: 30,0:07:26.71,0:07:29.25,Dialogue,,0,0,0,,Мне похвала только на пользу пойдёт!{I'm the type who does better when praised!}
 Dialogue: 30,0:07:29.25,0:07:31.43,Dialogue,,0,0,0,,Давайте, Сэйса, не стесняйтесь!{Seisa-senpai, come now, go ahead!}
 Dialogue: 30,0:07:34.12,0:07:35.51,Dialogue,,0,0,0,,Хорошо потрудилась.{You did a good job.}
 Dialogue: 30,0:07:35.51,0:07:36.93,Dialogue,,0,0,0,,Молодец, молодец!{Good job, good job!}
@@ -2664,7 +2664,7 @@ Dialogue: 30,0:08:03.47,0:08:04.75,Dialogue,,0,0,0,,Ничего подобно�
 Dialogue: 30,0:08:04.75,0:08:09.51,Dialogue,,0,0,0,,Моя судьба — стать героиней школы Микагура!{I am the chosen hero of Mikagura Academy!}
 Dialogue: 30,0:08:10.36,0:08:12.54,Dialogue,,0,0,0,,Не знаю как, почему и зачем,{I don't really understand myself,}
 Dialogue: 30,0:08:12.54,0:08:13.80,Dialogue,,0,0,0,,но я чувствую это!{but I can feel it!}
-Dialogue: 30,0:08:14.50,0:08:17.22,Dialogue,,0,0,0,,Именно поэтому я и смогла победить Хими!{That's why I was able to beat Himi-chan on my first try!}
+Dialogue: 30,0:08:14.50,0:08:17.22,Dialogue,,0,0,0,,Именно поэтому я и смогла победить Химечку!{That's why I was able to beat Himi-chan on my first try!}
 Dialogue: 30,0:08:18.08,0:08:22.14,Dialogue,,0,0,0,,Я и против тебя неплохо смогу выступить!{I'm sure I could put up a good fight against you, too, Seisa-senpai!}
 Dialogue: 30,0:08:25.42,0:08:27.86,Dialogue,,0,0,0,,Похоже ты стала слишком самоуверенной.{You seem to have grown very confident.}
 Dialogue: 30,0:08:29.11,0:08:31.03,Dialogue,,0,0,0,,Тогда давай сделаем так...{Then, let's do this—}
@@ -2692,7 +2692,7 @@ Dialogue: 30,0:09:39.18,0:09:40.91,Dialogue,,0,0,0,,Желанное призн�
 Dialogue: 30,0:09:41.43,0:09:42.98,Dialogue,,0,0,0,,Мне нужно успокоиться.{But you must stay calm, Eruna-chan.}
 Dialogue: 30,0:09:43.43,0:09:45.10,Dialogue,,0,0,0,,Сейчас я должна выглядеть круто!{You need to act cool right now.}
 Dialogue: 30,0:09:45.51,0:09:46.66,Dialogue,,0,0,0,,Ждите меня...{Wait for me.}
-Dialogue: 30,0:09:46.67,0:09:48.89,Dialogue,,0,0,0,,Как только окончится моя с Сэйсой битва,{Once I finish my battle with Seisa-senpai,}
+Dialogue: 30,0:09:46.67,0:09:48.89,Dialogue,,0,0,0,,как только окончится моя с Сэйсой битва,{Once I finish my battle with Seisa-senpai,}
 Dialogue: 30,0:09:48.89,0:09:51.98,Dialogue,,0,0,0,,мы сыграем в медсестричек и пациентку,{I'll play a patient who sexually harasses the new nurses by giving them}
 Dialogue: 30,0:09:51.98,0:09:54.44,Dialogue,,0,0,0,,вгоняющую их в краску своими просьбами.{suggestive orders /Ì with you all/ in the infirmary.}
 Dialogue: 30,0:09:56.40,0:10:00.58,Dialogue,,0,0,0,,Вижу уверенности тебе не занимать, раз в голове одни пошлости, дракони.{You must be really confident to be able to have such vulgar delusions, ryui.}{или «раз все мысли только о разврате»?}
@@ -2714,7 +2714,7 @@ Dialogue: 30,0:10:42.83,0:10:43.80,Dialogue,,0,0,0,,Сама подумай,{I m
 Dialogue: 30,0:10:43.80,0:10:48.46,Dialogue,,0,0,0,,ты же ещё не видела ни одного тренировочного боя.{you haven't seen a proper practice match yet, have you?}
 Dialogue: 30,0:10:49.23,0:10:53.81,Dialogue,,0,0,0,,Уверен, понаблюдав со стороны, ты узнаешь гораздо больше.{I think you'd learn more by\N watching a match as a spectator.}
 Dialogue: 30,0:10:53.81,0:10:54.96,Dialogue,,0,0,0,,Раз ты так считаешь...{When you put it like that...}
-Dialogue: 30,0:10:55.46,0:10:58.22,Dialogue,,0,0,0,,Мои новенькие тоже хотят посмотреть.{The first years from my club want to watch, too.}
+Dialogue: 30,0:10:55.46,0:10:58.22,Dialogue,,0,0,0,,Мои подопечные тоже хотят посмотреть.{The first years from my club want to watch, too.}
 Dialogue: 30,0:10:58.72,0:11:00.26,Dialogue,,0,0,0,,И я хочу!{I want to watch, too!}
 Dialogue: 30,0:11:00.26,0:11:01.64,Dialogue,,0,0,0,,А? Но...{Huh? Um...}
 Dialogue: 30,0:11:01.64,0:11:05.64,Dialogue,,0,0,0,,Вряд ли у меня есть хоть какой-то шанс победить вас...{I don't think I have the slightest\N chance of beating you, though...}
@@ -2811,9 +2811,9 @@ Dialogue: 30,0:14:42.65,0:14:44.11,Dialogue,,0,0,0,,Ты готова?{Are you r
 Dialogue: 30,0:14:44.11,0:14:48.54,Dialogue,,0,0,0,,Я всегда готова стать частью «Идущих домой»!{I'm always ready to officially join the Going-Home Club!}
 Dialogue: 30,0:14:48.54,0:14:49.53,Dialogue,,0,0,0,,Ты не так поняла.{That's not what I meant.}
 Dialogue: 30,0:14:49.53,0:14:50.03,Dialogue,,0,0,0,,Ась?{Huh?}
-Dialogue: 30,0:14:50.03,0:14:52.90,Dialogue,,0,0,0,,«Готова ли ты к поражению?»{Are you ready to lose?}
-Dialogue: 30,0:14:52.90,0:14:53.95,Dialogue,,0,0,0,,Вот мой вопрос.{That's what I was asking.}
-Dialogue: 30,0:14:56.96,0:15:00.17,Dialogue,,0,0,0,,Я не собираюсь проигрывать.{Unfortunately, I don't prepare for negative things.}
+Dialogue: 30,0:14:50.03,0:14:52.90,Dialogue,,0,0,0,,«Готова ли ты к поражению?» —{Are you ready to lose?}
+Dialogue: 30,0:14:52.90,0:14:53.95,Dialogue,,0,0,0,,вот мой вопрос.{That's what I was asking.}
+Dialogue: 30,0:14:56.96,0:15:00.17,Dialogue,,0,0,0,,Я не готовлюсь к поражениям.{Unfortunately, I don't prepare for negative things.}
 Dialogue: 30,0:15:00.63,0:15:02.67,Dialogue,,0,0,0,,Мне найдётся чем тебя удивить!{I'll surprise you!}
 Dialogue: 30,0:15:03.96,0:15:04.96,Dialogue Top,,0,0,0,,6,
 Dialogue: 30,0:15:04.96,0:15:05.98,Dialogue Top,,0,0,0,,5,
@@ -2825,7 +2825,7 @@ Dialogue: 30,0:15:10.33,0:15:11.60,Dialogue Top,,0,0,0,,Бой начался.{B
 Dialogue: 30,0:15:22.83,0:15:24.32,Dialogue,,0,0,0,,Ну, попробуй попади!{Now, come and get me!}
 Dialogue: 30,0:15:24.78,0:15:27.63,Dialogue,,0,0,0,,Чего?!.{What...?!}
 Dialogue: 30,0:15:29.97,0:15:31.77,Dialogue,,0,0,0,,Да ну! Неужто уснула?!{No way! Is she sleeping?}
-Dialogue: 30,0:15:31.77,0:15:33.83,Dialogue,,0,0,0,,Не, она и правда спит!{She's definitely sleeping, isn't she?}
+Dialogue: 30,0:15:31.77,0:15:33.83,Dialogue,,0,0,0,,Нет, она и правда спит!{She's definitely sleeping, isn't she?}
 Dialogue: 30,0:15:33.83,0:15:35.83,Dialogue,,0,0,0,,Даже пузыри из носа пускает!{She's even got a snot bubble!}
 Dialogue: 30,0:15:35.83,0:15:38.00,Dialogue,,0,0,0,,Ну раз ты так!..{If that's how you're gonna be!}
 Dialogue: 30,0:15:41.56,0:15:43.75,Dialogue,,0,0,0,,Открылась! Бью!{An opening! You're mine!}
@@ -2861,7 +2861,7 @@ Dialogue: 30,0:17:31.38,0:17:32.19,Dialogue,,0,0,0,,мне?{for me?}
 Dialogue: 30,0:17:32.74,0:17:35.03,Dialogue,,0,0,0,,Пытаетесь меня приободрить?{Are you trying to cheer me up...?}
 Dialogue: 30,0:17:36.03,0:17:37.30,Dialogue,,0,0,0,,Кудзурю,{Senpai...}
 Dialogue: 30,0:17:38.56,0:17:39.41,Dialogue,,0,0,0,,а можно...{Um...!}
-Dialogue: 30,0:17:40.09,0:17:43.91,Dialogue,,0,0,0,,можно вы купите мне что-то другое, а то я молоко не пью?{I can't drink milk, so may I please\N exchange it for a different drink?}
+Dialogue: 30,0:17:40.09,0:17:43.91,Dialogue,,0,0,0,,Можно вы купите мне что-то другое, а то я молоко не пью?{I can't drink milk, so may I please\N exchange it for a different drink?}
 Dialogue: 30,0:17:43.91,0:17:44.75,Dialogue,,0,0,0,,Чего?!{What?!}
 Dialogue: 30,0:17:44.79,0:17:46.26,Dialogue,,0,0,0,,Кстати,{By the way,}
 Dialogue: 30,0:17:46.26,0:17:49.88,Dialogue,,0,0,0,,я из тех девушек, что предпочитают напитки подороже!{I'm the kind of girl who really enjoys the expensive drinks!}
@@ -2932,7 +2932,7 @@ Dialogue: 30,0:21:14.91,0:21:16.71,Dialogue,,0,0,0,,Даже так: я добь
 Dialogue: 30,0:21:16.71,0:21:18.02,Dialogue,,0,0,0,,Вот увидишь!{I'll show you!}
 Dialogue: 30,0:21:18.02,0:21:20.95,Dialogue,,0,0,0,,Я покажу тебе себя и так, и эдак, и...{I'll show myself like this, and that...!}
 Dialogue: 30,0:21:23.26,0:21:24.60,Dialogue,,0,0,0,,А теперь...{And so...}
-Dialogue: 30,0:21:25.26,0:21:26.51,Dialogue,,0,0,0,,За дело.{Ups-a-daisy.}
+Dialogue: 30,0:21:25.26,0:21:26.51,Dialogue,,0,0,0,,за дело.{Ups-a-daisy.}
 Dialogue: 30,0:21:43.86,0:21:44.95,Dialogue,,0,0,0,,Готова моя комнатка!{My room's complete!}
 Dialogue: 30,0:21:53.07,0:21:54.87,Dialogue,,0,0,0,,Сэйса?..{Seisa-senpai...?}
 Dialogue: 30,0:21:56.30,0:21:57.87,Dialogue,,0,0,0,,Выбора нет.{There's no helping it.}
