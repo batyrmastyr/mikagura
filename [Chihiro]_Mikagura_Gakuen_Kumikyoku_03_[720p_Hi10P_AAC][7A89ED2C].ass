@@ -16,9 +16,9 @@ Video File: [Chihiro]_Mikagura_Gakuen_Kumikyoku_03_[720p_Hi10P_AAC][7A89ED2C].mk
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 31563
-Active Line: 31569
-Video Position: 30816
+Scroll Position: 31401
+Active Line: 31406
+Video Position: 19228
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -2526,14 +2526,14 @@ Dialogue: 1,0:17:53.00,0:17:53.13,Signs,,0,0,0,,{\an5\bord1.25\fnBolid\c&HD4D4DA
 Dialogue: 2,0:17:53.00,0:17:53.13,Signs,,0,0,0,,{\an5\fnBolid\c&H000000&\fs110\blur0.6\frz19.25\pos(160.001,96)}Взбшён
 Dialogue: 2,0:21:41.44,0:21:44.95,Signs,,0,0,0,,{\fsp0.4\an9\fs52\c&H1A2029&\blur0.8\fnBurlak\b0\frz1.451\pos(983,220)}Ка{*\c&H1B212A&}ко{*\c&H1C222B&}й-{*\c&H1E232C&}то {*\c&H20252E&}к{*\c&H22262F&}лё{*\c&H232730&}в{\c&H242831&}ы{*\c&H232831&}й {*\c&H222932&}к{*\c&H212932&}лу{\c&H212932&}б
 Dialogue: 2,0:21:41.44,0:21:44.95,Signs,,0,0,0,,{\an9\fs40\c&H15181F&\blur0.6\fnBurlak\b0\frz0.8276\pos(978,252)}(название временное)
-Dialogue: 30,0:00:06.84,0:00:10.49,Dialogue Italics,,0,0,0,,Я сегодня прямо-таки сияю!{I'm shining so brightly right now!}{Сегодня я сияю как начищенный пятак!}
+Dialogue: 30,0:00:06.84,0:00:10.49,Dialogue Italics,,0,0,0,,Сегодня меня никто не затмит!{I'm shining so brightly right now!}
 Dialogue: 30,0:00:11.67,0:00:12.53,Dialogue,,0,0,0,,Можно...{Um...}
 Dialogue: 30,0:00:13.04,0:00:16.41,Dialogue,,0,0,0,,мы всё-таки начнём интервью?{Do you think I could interview you now?}
 Dialogue: 30,0:00:16.92,0:00:18.24,Dialogue,,0,0,0,,Позвольте представиться:{Let me introduce myself.}
-Dialogue: 30,0:00:18.24,0:00:20.79,Dialogue,,0,0,0,,представитель газетного клуба, Румина Рикью.{I'm the representative of \Nthe Newspaper Club, Rikyu Rumina.}{надеюсь не ошибся с именем}
-Dialogue: 30,0:00:21.26,0:00:24.41,Dialogue,,0,0,10,,Твоя дебютная битва впечатлила всех и каждого.{Your club battle today was a spectacular debut.}
+Dialogue: 30,0:00:18.24,0:00:20.79,Dialogue,,0,0,0,,представитель газетного клуба, Румина Рикью.{I'm the representative of \Nthe Newspaper Club, Rikyu Rumina.}
+Dialogue: 30,0:00:21.26,0:00:24.41,Dialogue,,0,0,10,,Вы одержали потрясающую победу в дебютной битве.{Your club battle today was a spectacular debut.}
 Dialogue: 30,0:00:24.41,0:00:25.76,Dialogue,,0,0,10,,Спасибо...{Ah, well...}
-Dialogue: 30,0:00:25.76,0:00:27.31,Dialogue,,0,0,10,,Как тебе это удалось?{How exactly did you win?}
+Dialogue: 30,0:00:25.76,0:00:27.31,Dialogue,,0,0,10,,Как вам это удалось?{How exactly did you win?}
 Dialogue: 30,0:00:27.31,0:00:30.09,Dialogue,,0,0,10,,Как? Ну...{How? U-Um...}
 Dialogue: 30,0:00:30.91,0:00:34.26,Dialogue,,0,0,10,,Пожалуй, можно сказать, что ничего иного мне не оставалось?{I guess you could say I won because I was meant to win?}
 Dialogue: 30,0:00:34.26,0:00:36.79,Dialogue,,0,0,0,,То есть, дело было в хорошей подготовке?{Like, I was well prepared?}
@@ -2546,9 +2546,9 @@ Dialogue: 30,0:00:47.15,0:00:50.67,Dialogue,,0,0,0,,Это не признани
 Dialogue: 30,0:00:50.67,0:00:53.80,Dialogue,,0,0,0,,С кем бы ты хотела отпраздновать победу?{Who would you like to share the joy of winning with?}
 Dialogue: 30,0:00:54.47,0:00:55.99,Dialogue,,0,0,0,,Разумеется с...{Naturally, it's—}
 Dialogue: 30,0:00:57.59,0:00:59.87,Dialogue,,0,0,0,,Ты прекрасно сражалась.{That was a wonderful fight.}
-Dialogue: 30,0:01:00.27,0:01:03.94,Dialogue,,0,0,0,,Несомненно, ты настоящая героиня школы.{There is no doubt that you are\N the hero of Mikagura Academy.}
+Dialogue: 30,0:01:00.27,0:01:03.94,Dialogue,,0,0,0,,Несомненно, ты настоящий герой школы.{There is no doubt that you are\N the hero of Mikagura Academy.}
 Dialogue: 30,0:01:03.94,0:01:04.46,Dialogue,,0,0,0,,Но...{But...}
-Dialogue: 30,0:01:05.43,0:01:08.51,Dialogue,,0,0,0,,можно ты будешь только моей героиней?{won't you become a hero I can keep all to myself?}
+Dialogue: 30,0:01:05.43,0:01:08.51,Dialogue,,0,0,0,,можно ты будешь только моим героем?{won't you become a hero I can keep all to myself?}
 Dialogue: 30,0:01:08.51,0:01:10.63,Dialogue,,0,0,0,,С радостью!{W-With pleasure!}
 Dialogue: 30,0:01:10.63,0:01:13.19,Dialogue,,0,0,0,,Ну, спасибо за ответы и пока.{Well, that's it for the interview.}
 Dialogue: 30,0:01:13.19,0:01:14.96,Dialogue,,0,0,0,,Ах, Сэйса!{Oh, Seisa-senpai!}
@@ -2556,19 +2556,19 @@ Dialogue: 30,0:02:50.93,0:02:52.86,Dialogue,,0,0,0,,Вот это вкуснят
 Dialogue: 30,0:02:52.86,0:02:55.99,Dialogue,,0,0,0,,И не мечтала такую красоту на завтрак есть!{I can't believe I can eat such fancy food for breakfast!}
 Dialogue: 30,0:02:55.99,0:02:59.53,Dialogue,,0,0,0,,И всё благодаря очками за вчерашний выигрыш.{This is thanks to the points I got from yesterday's match, huh?}
 Dialogue: 30,0:03:00.28,0:03:03.91,Dialogue,,0,0,0,,«Ой, бутерброды делала, да многовато хлеба нарезала!»{"Oh, I had some leftovers from making sandwiches!"}
-Dialogue: 30,0:03:04.49,0:03:08.64,Dialogue,,0,0,0,,Надеюсь дни, когда я заполняла пустоту желудка дарёными корочками, уже прошли.{The days where I fill my empty stomach with donated crusts are over, huh?}{кривость}
-Dialogue: 30,0:03:08.64,0:03:10.76,Dialogue,,0,0,0,,Печальный монолог, дракони.{Such a sad soliloquy, ryui.}
+Dialogue: 30,0:03:04.49,0:03:08.64,Dialogue,,0,0,0,,Вот и пришёл конец дней печальных для желудка, одними корочками потчуемого.{The days where I fill my empty stomach with donated crusts are over, huh?}
+Dialogue: 30,0:03:08.64,0:03:10.76,Dialogue,,0,0,0,,Мда, душераздирающая история, дракони...{Such a sad soliloquy, ryui.}
 Dialogue: 30,0:03:10.76,0:03:12.63,Dialogue,,0,0,0,,Итиномия!{Ichinomiya-san!}
 Dialogue: 30,0:03:14.77,0:03:16.80,Dialogue,,0,0,0,,{\ko108}{\2a&HFF&}Круто-круто! {You were amazing! }{\ko95}Ты такая крутая!{You were really amazing!}
-Dialogue: 30,0:03:17.34,0:03:20.54,Dialogue,,0,0,0,,Проигрыш Хими меня поверг в шок,{I was shocked that Himi-senpai lost,}
+Dialogue: 30,0:03:17.34,0:03:20.54,Dialogue,,0,0,0,,Это ж надо, чтобы Хими проиграла,{I was shocked that Himi-senpai lost,}
 Dialogue: 30,0:03:20.54,0:03:23.47,Dialogue,,0,0,0,,но я безумно за тебя рада...{but, more than that, I was overjoyed...}
-Dialogue: 30,0:03:24.82,0:03:27.10,Dialogue,,0,0,0,,Ты настоящая подруга по спальному мешку.{As expected of my former sleeping bag comrade.}
+Dialogue: 30,0:03:24.82,0:03:27.10,Dialogue,,0,0,0,,Ты настоящая подруга по спальному мешку!{As expected of my former sleeping bag comrade.}
 Dialogue: 30,0:03:27.10,0:03:29.48,Dialogue,,0,0,0,,Можешь вернуться в него когда захочешь!{You can always come back to your sleeping bag!}
 Dialogue: 30,0:03:29.48,0:03:31.05,Dialogue,,0,0,0,,Спасибо, но откажусь.{No, thank you.}
 Dialogue: 30,0:03:31.05,0:03:32.69,Dialogue,,0,0,0,,Ой, да ладно, не стесняйся!{Oh, don't be shy!}
 Dialogue: 30,0:03:32.69,0:03:33.94,Dialogue,,0,0,0,,Но скромность тебе идёт!{You're so cute!}
 Dialogue: 30,0:03:38.48,0:03:40.40,Dialogue,,0,0,0,,Драматический кружок!{It's the Drama Club!}
-Dialogue: 30,0:03:42.44,0:03:44.06,Dialogue,,0,0,0,,Привет, Итиномия!{Hey, Ichinomiya-chan!}{или всё же Эруна?}
+Dialogue: 30,0:03:42.44,0:03:44.06,Dialogue,,0,0,0,,Здряв, Эруна!{Hey, Ichinomiya-chan!}
 Dialogue: 30,0:03:44.06,0:03:45.91,Dialogue,,0,0,0,,А ты и правда здесь.{You were here after all, huh?}
 Dialogue: 30,0:03:45.91,0:03:47.07,Dialogue,,0,0,0,,«И правда»?{After all?}
 Dialogue: 30,0:03:47.07,0:03:49.63,Dialogue,,0,0,0,,Газетный клуб в спецвыпуске написал.{I saw in the Newspaper Club's extra edition.}
@@ -2581,54 +2581,54 @@ Dialogue: 30,0:03:57.67,0:03:58.84,Dialogue,,0,0,0,,Как это понимат
 Dialogue: 30,0:03:58.84,0:04:01.31,Dialogue,,0,0,0,,Ничего общего со вчерашним интервью!{It has nothing to do with yesterday's interview!}
 Dialogue: 30,0:04:01.31,0:04:02.89,Dialogue,,0,0,0,,И когда она эту фотку сделала?{Anyway, when did she take this pic?}
 Dialogue: 30,0:04:04.26,0:04:08.35,Dialogue,,0,0,0,,А я думаю что лучше, если знают тебя настоящую.{I think it's nice the real you shines through, though.}
-Dialogue: 30,0:04:09.58,0:04:13.76,Dialogue,,0,0,0,,Кстати, ты теперь в фаворитах «Битвы новичков».{Besides, you've become a contender to win the rookie battle overnight.}{или «Битвы юниоров» / «турнир юниоров»?}
-Dialogue: 30,0:04:13.76,0:04:14.78,Dialogue,,0,0,0,,«Битвы новичков»?{Rookie battle?}
+Dialogue: 30,0:04:09.58,0:04:13.76,Dialogue,,0,0,0,,Кстати, ты теперь в фаворитах юниорского турнира.{Besides, you've become a contender to win the rookie battle overnight.}
+Dialogue: 30,0:04:13.76,0:04:14.78,Dialogue,,0,0,0,,«Юниорского турнира»?{Rookie battle?}
 Dialogue: 30,0:04:14.78,0:04:17.36,Dialogue,,0,0,0,,Это соревнование среди новых учеников, дракони.{It's a tournament battle for new students, ryui.}
 Dialogue: 30,0:04:17.80,0:04:20.46,Dialogue,,0,0,0,,Его результаты существенно влияют на будущий{It's an important competition that influences}
 Dialogue: 30,0:04:20.46,0:04:23.11,Dialogue,,0,0,0,,расклад сил в Микагуре, дракони.{the power structure of Mikagura Academy, ryui.}
 Dialogue: 30,0:04:23.11,0:04:25.61,Dialogue,,0,0,0,,О, тут и такие состязания есть?{Wow, there's something like that?}
 Dialogue: 30,0:04:25.61,0:04:29.25,Dialogue,,0,0,0,,Привет, я Кролемару, тоже из новеньких!{Oh, I'm Usamaru, a first year like you!}
 Dialogue: 30,0:04:29.25,0:04:31.29,Dialogue,,0,0,0,,Ты вчера офигенно дралась!{You were totally cool yesterday!}
-Dialogue: 30,0:04:31.29,0:04:33.10,Dialogue,,0,0,0,,Просто огонь!{You were so passionate!}
-Dialogue: 30,0:04:33.10,0:04:35.24,Dialogue,,0,0,0,,Я не проиграю тебе в «Битве новичков»!{I won't lose to you in the rookie battle!}
-Dialogue: 30,0:04:35.24,0:04:36.38,Dialogue,,0,0,0,,Я пылаю!{Oh, the passion!}
+Dialogue: 30,0:04:31.29,0:04:33.10,Dialogue,,0,0,0,,Юность в тебе просто пылала!{You were so passionate!}
+Dialogue: 30,0:04:33.10,0:04:35.24,Dialogue,,0,0,0,,Но на юниорском турнире поблажек не жди!{I won't lose to you in the rookie battle!}
+Dialogue: 30,0:04:35.24,0:04:36.38,Dialogue,,0,0,0,,Горю-ю-ю-ю!!!{Oh, the passion!}
 Dialogue: 30,0:04:36.38,0:04:39.92,Dialogue,,0,0,0,,Спасибо... как говоришь, Конемару?{Thank you. Um, your name's Uzamaru?}
 Dialogue: 30,0:04:39.92,0:04:41.55,Dialogue,,0,0,0,,Не Конемару!{Not "Uzamaru"!}
-Dialogue: 30,0:04:41.55,0:04:44.05,Dialogue,,0,0,0,,Кролики от одиночества становятся неистовыми!{Rabbits become passionate when they're lonely!}{починить, скорее всего}
+Dialogue: 30,0:04:41.55,0:04:44.05,Dialogue,,0,0,0,,Кролики от одиночества сгорают!{Rabbits become passionate when they're lonely!}
 Dialogue: 30,0:04:44.62,0:04:46.60,Dialogue,,0,0,0,,Я многому у тебя научился.{I learned a lot, too.}
 Dialogue: 30,0:04:46.60,0:04:48.30,Dialogue,,0,0,0,,Этот мальчик тоже из новеньких.{This kid's a first year, too.}
-Dialogue: 30,0:04:48.30,0:04:49.81,Dialogue,,0,0,0,,Я прозвала его Свимяу.{I call him Tonkyun.}{не уверен чему соответствует kyun}
+Dialogue: 30,0:04:48.30,0:04:49.81,Dialogue,,0,0,0,,Я прозвала его Свимяу.{I call him Tonkyun.}
 Dialogue: 30,0:04:50.30,0:04:51.31,Dialogue,,0,0,0,,Свимяу?{Tonkyun?}
 Dialogue: 30,0:04:51.31,0:04:56.73,Dialogue,,0,0,0,,Мяумирин, можете не звать меня Свимяу?{Nyamirin-senpai, can I cancel the nickname "Tonkyun"?}
 Dialogue: 30,0:04:56.73,0:04:58.58,Dialogue,,0,0,0,,Да, на самом деле меня зов...{Oh, my real name is—}
 Dialogue: 30,0:04:58.58,0:04:59.36,Dialogue,,0,0,0,,Грр!{Gao!}
-Dialogue: 30,0:04:59.36,0:05:01.98,Dialogue,,0,0,0,,Жду не дождусь начала боёв!{I'm looking forward to the rookie battle!}
-Dialogue: 30,0:05:01.98,0:05:04.91,Dialogue,,0,0,0,,И я Мишано, десятый класс!{Oh, I'm Kumano, a second year!}{десятый же?}
+Dialogue: 30,0:04:59.36,0:05:01.98,Dialogue,,0,0,0,,Жду не дождусь начала боёв, медвежу!{I'm looking forward to the rookie battle!}
+Dialogue: 30,0:05:01.98,0:05:04.91,Dialogue,,0,0,0,,И я Мишано, одиннадцатый класс, медвежу!{Oh, I'm Kumano, a second year!}
 Dialogue: 30,0:05:05.91,0:05:07.99,Dialogue,,0,0,0,,Ах... миленькая...{Oh, she's cute...}
 Dialogue: 30,0:05:07.99,0:05:11.54,Dialogue,,0,0,0,,Ты весь наш кружок немало удивила, Итиномия.{You surprised all of us in the\N Drama Club, Ichinomiya-chan.}
-Dialogue: 30,0:05:11.54,0:05:15.68,Dialogue,,0,0,0,,Ты знаешь, что из всей школы активировать силу,{I mean, the only other person\N who can activate their power}
+Dialogue: 30,0:05:11.54,0:05:15.68,Dialogue,,0,0,0,,Ты знаешь, что из всей школы активировать силу{I mean, the only other person\N who can activate their power}
 Dialogue: 30,0:05:15.68,0:05:18.75,Dialogue,,0,0,0,,не пользуясь предметами, могла только Сэйса?{without an item at this school is Seisa-san.}
-Dialogue: 30,0:05:18.75,0:05:22.82,Dialogue,,0,0,0,,Всё дело в любви между мной и Сэйсой.{It must be because of the mutual love between Seisa-senpai and me.}
-Dialogue: 30,0:05:22.82,0:05:25.00,Dialogue,,0,0,0,,Наши тела и души едины.{I mean, our bodies and souls are one.}
+Dialogue: 30,0:05:18.75,0:05:22.82,Dialogue,,0,0,0,,Значит всё дело в том, что нас связала любовь!{It must be because of the mutual love between Seisa-senpai and me.}
+Dialogue: 30,0:05:22.82,0:05:25.00,Dialogue,,0,0,0,,В единстве наших тел и душ!..{I mean, our bodies and souls are one.}
 Dialogue: 30,0:05:25.00,0:05:27.64,Dialogue,,0,0,0,,Точно! Нужно же рассказать ей о победе!{Oh, right! I haven't reported my win to her yet!}
 Dialogue: 30,0:05:27.64,0:05:29.61,Dialogue,,0,0,0,,Побегу её искать!{I'm going to go find her!}
 Dialogue: 30,0:05:29.61,0:05:31.81,Dialogue,,0,0,0,,Эй, Эруна! Стой, дракони!{Whoa, Eruna! Wait, ryui!}
 Dialogue: 30,0:05:33.10,0:05:34.98,Dialogue,,0,0,0,,Вы уж простите её.{I'm really very sorry, everyone.}
-Dialogue: 30,0:05:35.96,0:05:40.03,Dialogue,,0,0,0,,Боже, она вечно она так непосред...{Jeez, Ichinomiya-san is always so open—}
-Dialogue: 30,0:05:40.03,0:05:41.84,Dialogue,,0,0,0,,то есть откровенная.{I mean, so honest with herself.}
+Dialogue: 30,0:05:35.96,0:05:40.03,Dialogue,,0,0,0,,Боже, у Итиномии что на уме, то и на языке... то есть...{Jeez, Ichinomiya-san is always so open—}
+Dialogue: 30,0:05:40.03,0:05:41.84,Dialogue,,0,0,0,,искренняя она, скажем так.{I mean, so honest with herself.}
 Dialogue: 30,0:05:44.40,0:05:45.70,Dialogue,,0,0,0,,Я снова тут!{I'm here again!}
 Dialogue: 30,0:05:45.70,0:05:48.02,Dialogue,,0,0,0,,Вот только вряд ли она нас пустит, дракони.{Not like she'll let us in, ryui.}
 Dialogue: 30,0:05:48.02,0:05:49.14,Dialogue,,0,0,0,,Не боись!{Don't worry!}
-Dialogue: 30,0:05:49.14,0:05:51.91,Dialogue,,0,0,0,,В этот раз у меня есть секретное оружие!{I prepared a secret weapon today!}
+Dialogue: 30,0:05:49.14,0:05:51.91,Dialogue,,0,0,0,,На этот раз я подготовила секретное оружие!{I prepared a secret weapon today!}
 Dialogue: 30,0:05:54.72,0:05:56.01,Dialogue,,0,0,0,,Динь-дон!{Ding-dong!}
 Dialogue: 30,0:05:56.01,0:05:58.57,Dialogue,,0,0,0,,Микагура, для вас посылка!{A package for you, Mikagura-san!}
 Dialogue: 30,0:05:58.57,0:05:59.04,Dialogue,,0,0,0,,Дракони!{Ryui!}
-Dialogue: 30,0:05:59.50,0:06:02.42,Dialogue,,0,0,0,,Вам прислали огромную коробку с хомячкой!{It's an extra-extra-extra large "ham"!}
+Dialogue: 30,0:05:59.50,0:06:02.42,Dialogue,,0,0,0,,Вам прислали ну просто огромную коробку с хомячкой!{It's an extra-extra-extra large "ham"!}
 Dialogue: 30,0:06:02.75,0:06:05.22,Dialogue,,0,0,0,,На словах «хомячка», а внутри-то — хомячиха, дракони.{Even if you say "ham," you mean "\i1hamster\i0," ryui.}
 Dialogue: 30,0:06:05.22,0:06:09.67,Dialogue,,0,0,0,,Сэйса точно не устоит перед обаянием Химечки и откроет ворота!{She'll definitely be taken in by\N Himi-chan's cuteness and open the gate!}
 Dialogue: 30,0:06:09.67,0:06:11.50,Dialogue,,0,0,0,,Даже не надей...{There's no way she'd open it for th—}
 Dialogue: 30,0:06:11.50,0:06:12.35,Dialogue,,0,0,0,,Дракони!{Ryui!}
-Dialogue: 30,0:06:15.56,0:06:18.98,Dialogue,,0,0,0,,Фи, Эруна, ты меня обманула!{Jeez, you tricked me, Eruna-chan!}{что-то кривовато.}
+Dialogue: 30,0:06:15.56,0:06:18.98,Dialogue,,0,0,0,,Ну и обманщица ты, Эруня! Хом!{Jeez, you tricked me, Eruna-chan!}
 Dialogue: 30,0:06:18.98,0:06:20.36,Dialogue,,0,0,0,,Ты уж извини!{Sorry, sorry!}
 Dialogue: 30,0:06:20.36,0:06:25.36,Dialogue,,0,0,0,,Госпожа хотела поговорить с тобой о вчерашней битве.{The Mistress wanted to hear your\N thoughts on the battle yesterday.}
 Dialogue: 30,0:06:27.45,0:06:32.28,Dialogue,,0,0,0,,Госпожа, я привела пару полудурочных гостий.{Mistress, I have brought the two \i1dim\i0 visitors.}
@@ -2646,8 +2646,8 @@ Dialogue: 30,0:07:12.86,0:07:14.91,Dialogue,,0,0,0,,Проснитесь, гос
 Dialogue: 30,0:07:15.83,0:07:16.88,Dialogue,,0,0,0,,Госпожа...{Mistress...}
 Dialogue: 30,0:07:18.91,0:07:22.09,Dialogue,,0,0,0,,Сэйса, я победила!{Seisa-senpai, I won the battle!}
 Dialogue: 30,0:07:22.09,0:07:24.35,Dialogue,,0,0,0,,Я защитила честь «Идущих домой»!{I protected the honor of the Going-Home Club!}
-Dialogue: 30,0:07:24.35,0:07:26.26,Dialogue,,0,0,0,,Вот, похвалите же меня!{Now, praise me!}
-Dialogue: 30,0:07:26.71,0:07:29.25,Dialogue,,0,0,0,,Мне похвала только на пользу пойдёт!{I'm the type who does better when praised!}
+Dialogue: 30,0:07:24.35,0:07:26.26,Dialogue,,0,0,0,,Вот, хвалите меня!{Now, praise me!}
+Dialogue: 30,0:07:26.71,0:07:29.25,Dialogue,,0,0,0,,Похвала мне сил придаёт!{I'm the type who does better when praised!}
 Dialogue: 30,0:07:29.25,0:07:31.43,Dialogue,,0,0,0,,Давайте, Сэйса, не стесняйтесь!{Seisa-senpai, come now, go ahead!}
 Dialogue: 30,0:07:34.12,0:07:35.51,Dialogue,,0,0,0,,Хорошо потрудилась.{You did a good job.}
 Dialogue: 30,0:07:35.51,0:07:36.93,Dialogue,,0,0,0,,Молодец, молодец!{Good job, good job!}
@@ -2657,45 +2657,45 @@ Dialogue: 30,0:07:44.26,0:07:44.82,Dialogue,,0,0,0,,А?{Huh?}
 Dialogue: 30,0:07:45.24,0:07:46.62,Dialogue,,0,0,0,,Как мне кажется,{I think a large part}
 Dialogue: 30,0:07:46.62,0:07:50.74,Dialogue,,0,0,0,,свой победой ты во многом обязана беспечности Хими.{of your victory was because Himi-san let down her guard.}
 Dialogue: 30,0:07:51.81,0:07:54.62,Dialogue,,0,0,0,,Хими, дерись ты с самого начала в полную силу,{Himi-san, if you had gone for the win from the start,}
-Dialogue: 30,0:07:55.28,0:07:59.51,Dialogue,,0,0,0,,Эруне было бы очень непросто разбить твои кристаллы.{it would have been hard for Eruna to break your crystals.}{Эруне вряд ли удалось бы разбить твои кристаллы.}
+Dialogue: 30,0:07:55.28,0:07:59.51,Dialogue,,0,0,0,,Эруне было бы очень непросто разбить твои кристаллы.{it would have been hard for Eruna to break your crystals.}
 Dialogue: 30,0:07:59.51,0:08:00.62,Dialogue,,0,0,0,,Так ведь?{Am I wrong?}
 Dialogue: 30,0:08:00.62,0:08:02.68,Dialogue,,0,0,0,,Да как ска...{Th-That's...}
 Dialogue: 30,0:08:03.47,0:08:04.75,Dialogue,,0,0,0,,Ничего подобного!{That's not true!}
-Dialogue: 30,0:08:04.75,0:08:09.51,Dialogue,,0,0,0,,Моя судьба — стать героиней школы Микагура!{I am the chosen hero of Mikagura Academy!}
+Dialogue: 30,0:08:04.75,0:08:09.51,Dialogue,,0,0,0,,Моя судьба — стать героем школы Микагура!{I am the chosen hero of Mikagura Academy!}
 Dialogue: 30,0:08:10.36,0:08:12.54,Dialogue,,0,0,0,,Не знаю как, почему и зачем,{I don't really understand myself,}
 Dialogue: 30,0:08:12.54,0:08:13.80,Dialogue,,0,0,0,,но я чувствую это!{but I can feel it!}
 Dialogue: 30,0:08:14.50,0:08:17.22,Dialogue,,0,0,0,,Именно поэтому я и смогла победить Химечку!{That's why I was able to beat Himi-chan on my first try!}
 Dialogue: 30,0:08:18.08,0:08:22.14,Dialogue,,0,0,0,,Я и против тебя неплохо смогу выступить!{I'm sure I could put up a good fight against you, too, Seisa-senpai!}
-Dialogue: 30,0:08:25.42,0:08:27.86,Dialogue,,0,0,0,,Похоже ты стала слишком самоуверенной.{You seem to have grown very confident.}
+Dialogue: 30,0:08:25.42,0:08:27.86,Dialogue,,0,0,0,,Похоже, случайная победа вскружила тебе голову.{You seem to have grown very confident.}
 Dialogue: 30,0:08:29.11,0:08:31.03,Dialogue,,0,0,0,,Тогда давай сделаем так...{Then, let's do this—}
-Dialogue: 30,0:08:31.54,0:08:34.86,Dialogue,,0,0,0,,Давай проведём тренировочную битву завтра после уроков.{Why don't we have a practice\N battle tomorrow after school?}{или учебную битву?}
+Dialogue: 30,0:08:31.54,0:08:34.86,Dialogue,,0,0,0,,Давай проведём тренировочный бой завтра после уроков.{Why don't we have a practice\N battle tomorrow after school?}{или учебную битву?}
 Dialogue: 30,0:08:34.86,0:08:35.57,Dialogue,,0,0,0,,Что?!{What?!}
 Dialogue: 30,0:08:35.57,0:08:39.61,Dialogue,,0,0,0,,Если разобьёшь хоть один из моих кристаллов,{If you can break even one of my crystals,}
 Dialogue: 30,0:08:39.61,0:08:42.25,Dialogue,,0,0,0,,я сделаю тебя полноправным членом клуба.{I will allow you to officially join the Going-Home Club.}
-Dialogue: 30,0:08:43.15,0:08:46.54,Dialogue,,0,0,0,,Однако если не разобьёшь, я отменю твоё членство{However, if you cannot break any,\N then I will revoke your provisional membership,}
-Dialogue: 30,0:08:46.54,0:08:48.67,Dialogue,,0,0,0,,и ты снова станешь бесклубной.{and you'll go back to not being part of any club.}
+Dialogue: 30,0:08:43.15,0:08:46.54,Dialogue,,0,0,0,,Однако, если не сможешь — уходишь{However, if you cannot break any,\N then I will revoke your provisional membership,}
+Dialogue: 30,0:08:46.54,0:08:48.67,Dialogue,,0,0,0,,и снова будешь бесклубной.{and you'll go back to not being part of any club.}
 Dialogue: 30,0:08:49.95,0:08:50.59,Dialogue,,0,0,0,,Согласна?{How about it?}
-Dialogue: 30,0:08:50.59,0:08:53.62,Dialogue,,0,0,0,,Стойте! Это же невозможно, как бы хороша она ни была.{No way! No matter how good she is, that's impossible!}
-Dialogue: 30,0:08:53.62,0:08:55.26,Dialogue,,0,0,0,,Ты слишком многого хочешь!{It's way too hard, ryui!}
+Dialogue: 30,0:08:50.59,0:08:53.62,Dialogue,,0,0,0,,Погодите! Чтобы она там ни умела, ей вас не победить!{No way! No matter how good she is, that's impossible!}
+Dialogue: 30,0:08:53.62,0:08:55.26,Dialogue,,0,0,0,,Да невозможно, дракони!{It's way too hard, ryui!}
 Dialogue: 30,0:08:55.26,0:08:57.20,Dialogue,,0,0,0,,Ну ладно, я согласна!{All right, let's do it then!}
 Dialogue: 30,0:08:57.20,0:08:57.85,Dialogue,,0,0,0,,Что?!{Huh?!}
 Dialogue: 30,0:08:58.26,0:09:00.10,Dialogue,,0,0,0,,Если разобью хоть один,{If I break even one,}
 Dialogue: 30,0:09:00.82,0:09:02.64,Dialogue,,0,0,0,,я стану одной из «Идущих домой»{I'll become a Going-Home Club member,}
 Dialogue: 30,0:09:03.28,0:09:06.23,Dialogue,,0,0,0,,и буду жить с тобой в этом особняке!{and live with you in this mansion!}
 Dialogue: 30,0:09:06.23,0:09:07.99,Dialogue,,0,0,0,,Что?!{What?!}
-Dialogue: 30,0:09:07.99,0:09:10.50,Dialogue,,0,0,0,,Она свою добавку к уговору сделала, дракони!{She made her own addition to the promise, ryui!}
+Dialogue: 30,0:09:07.99,0:09:10.50,Dialogue,,0,0,0,,Ей хватило наглости свои условия ставить, дракони?!{She made her own addition to the promise, ryui!}
 Dialogue: 30,0:09:31.01,0:09:32.89,Dialogue,,0,0,0,,Вот та девочка в спальном мешке,{It's that girl in the sleeping bag.}
 Dialogue: 30,0:09:32.89,0:09:35.34,Dialogue,,0,0,0,,что победила представителя кружка каллиграфии.{She's the one who beat the Calligraphy Club rep.}
-Dialogue: 30,0:09:35.34,0:09:37.55,Dialogue,,0,0,0,,Слышала, у неё сегодня тренировочная битва с Сэйсой.{I heard she's having a practice battle with Seisa-san today.}
+Dialogue: 30,0:09:35.34,0:09:37.55,Dialogue,,0,0,0,,Слышала, у неё сегодня тренировочный бой с Сэйсой.{I heard she's having a practice battle with Seisa-san today.}
 Dialogue: 30,0:09:37.89,0:09:39.18,Dialogue,,0,0,0,,Вот оно, вот!{This is it!}
 Dialogue: 30,0:09:39.18,0:09:40.91,Dialogue,,0,0,0,,Желанное признание!{This is what I wanted!}
-Dialogue: 30,0:09:41.43,0:09:42.98,Dialogue,,0,0,0,,Мне нужно успокоиться.{But you must stay calm, Eruna-chan.}
+Dialogue: 30,0:09:41.43,0:09:42.98,Dialogue,,0,0,0,,Только спокойствие, Эрунчик!{But you must stay calm, Eruna-chan.}
 Dialogue: 30,0:09:43.43,0:09:45.10,Dialogue,,0,0,0,,Сейчас я должна выглядеть круто!{You need to act cool right now.}
 Dialogue: 30,0:09:45.51,0:09:46.66,Dialogue,,0,0,0,,Ждите меня...{Wait for me.}
 Dialogue: 30,0:09:46.67,0:09:48.89,Dialogue,,0,0,0,,как только окончится моя с Сэйсой битва,{Once I finish my battle with Seisa-senpai,}
 Dialogue: 30,0:09:48.89,0:09:51.98,Dialogue,,0,0,0,,мы сыграем в медсестричек и пациентку,{I'll play a patient who sexually harasses the new nurses by giving them}
-Dialogue: 30,0:09:51.98,0:09:54.44,Dialogue,,0,0,0,,вгоняющую их в краску своими просьбами.{suggestive orders /Ì with you all/ in the infirmary.}
-Dialogue: 30,0:09:56.40,0:10:00.58,Dialogue,,0,0,0,,Вижу уверенности тебе не занимать, раз в голове одни пошлости, дракони.{You must be really confident to be able to have such vulgar delusions, ryui.}{или «раз все мысли только о разврате»?}
+Dialogue: 30,0:09:51.98,0:09:54.44,Dialogue,,0,0,0,,вгоняющую их в краску своими просьбами!{suggestive orders /Ì with you all/ in the infirmary.}
+Dialogue: 30,0:09:56.40,0:10:00.58,Dialogue,,0,0,0,,Вижу, уверенности тебе не занимать, раз один разврат на уме, дракони.{You must be really confident to be able to have such vulgar delusions, ryui.}{или «раз все мысли только о разврате»?}
 Dialogue: 30,0:10:02.70,0:10:03.66,Dialogue,,0,0,0,,Что тут?{What's this place?}
 Dialogue: 30,0:10:03.66,0:10:05.10,Dialogue,,0,0,0,,Тренировочный зал, дракони.{It's a training room, ryui.}
 Dialogue: 30,0:10:05.10,0:10:07.67,Dialogue,,0,0,0,,Можно посмотреть на чужие бои и чему-то научиться, дракони.{You can watch other people's battles and learn from them, ryui.}
@@ -2712,14 +2712,14 @@ Dialogue: 30,0:10:33.45,0:10:35.94,Dialogue,,0,0,0,,может проведём 
 Dialogue: 30,0:10:35.94,0:10:38.16,Dialogue,,0,0,0,,Сейчас у него будет бой со {\i1}мной{\i0}.{\i1I'll\i0 be the one to battle him!}
 Dialogue: 30,0:10:42.83,0:10:43.80,Dialogue,,0,0,0,,Сама подумай,{I mean,}
 Dialogue: 30,0:10:43.80,0:10:48.46,Dialogue,,0,0,0,,ты же ещё не видела ни одного тренировочного боя.{you haven't seen a proper practice match yet, have you?}
-Dialogue: 30,0:10:49.23,0:10:53.81,Dialogue,,0,0,0,,Уверен, понаблюдав со стороны, ты узнаешь гораздо больше.{I think you'd learn more by\N watching a match as a spectator.}
+Dialogue: 30,0:10:49.23,0:10:53.81,Dialogue,,0,0,0,,Уверен, понаблюдав для начала, ты научишься гораздо большему.{I think you'd learn more by\N watching a match as a spectator.}
 Dialogue: 30,0:10:53.81,0:10:54.96,Dialogue,,0,0,0,,Раз ты так считаешь...{When you put it like that...}
 Dialogue: 30,0:10:55.46,0:10:58.22,Dialogue,,0,0,0,,Мои подопечные тоже хотят посмотреть.{The first years from my club want to watch, too.}
 Dialogue: 30,0:10:58.72,0:11:00.26,Dialogue,,0,0,0,,И я хочу!{I want to watch, too!}
 Dialogue: 30,0:11:00.26,0:11:01.64,Dialogue,,0,0,0,,А? Но...{Huh? Um...}
 Dialogue: 30,0:11:01.64,0:11:05.64,Dialogue,,0,0,0,,Вряд ли у меня есть хоть какой-то шанс победить вас...{I don't think I have the slightest\N chance of beating you, though...}
 Dialogue: 30,0:11:07.34,0:11:08.64,Dialogue,,0,0,0,,Хорошо.{All right.}
-Dialogue: 30,0:11:08.64,0:11:11.85,Dialogue,,0,0,0,,Это моя возможность сразиться с кем-то более сильным.{I will treat this as a special opportunity to fight someone better than me and do my best.}
+Dialogue: 30,0:11:08.64,0:11:11.85,Dialogue,,0,0,0,,Это моя возможность сразиться с кем-то по-настоящему сильным.{I will treat this as a special opportunity to fight someone better than me and do my best.}
 Dialogue: 30,0:11:20.73,0:11:22.32,Dialogue,,0,0,0,,Что ж, приступим.{Then, let's do it.}
 Dialogue: 30,0:11:24.47,0:11:26.05,Dialogue,,0,0,0,,Тогда я буду судь...{Then, I'll be the ref—}
 Dialogue: 30,0:11:26.05,0:11:27.59,Dialogue,,0,0,0,,Не нужно, учитель.{No need, Sensei.}
@@ -2728,7 +2728,7 @@ Dialogue: 30,0:11:32.10,0:11:33.31,Dialogue,,0,0,0,,Ясно, дракони.{Al
 Dialogue: 30,0:11:33.63,0:11:36.09,Dialogue,,0,0,0,,Но будьте осторожны.{But don't do anything dangerous.}
 Dialogue: 30,0:11:36.09,0:11:37.39,Dialogue,,0,0,0,,Лады!{'Kay!}
 Dialogue: 30,0:11:40.08,0:11:43.67,Dialogue,,0,0,0,,Ух ты, столько зрителей собралось!{Wow, so many people came to watch!}
-Dialogue: 30,0:11:43.67,0:11:49.27,Dialogue,,0,0,0,,Нечасто увидишь тренировочную битву между представителями клубов, дракони.{You don't often get to see fights between club representatives outside of official matches, ryui.}
+Dialogue: 30,0:11:43.67,0:11:49.27,Dialogue,,0,0,0,,Нечасто увидишь тренировочный бой между разными клубами, дракони.{You don't often get to see fights between club representatives outside of official matches, ryui.}
 Dialogue: 30,0:11:49.87,0:11:50.82,Dialogue Top,,0,0,0,,15,
 Dialogue: 30,0:11:50.82,0:11:51.69,Dialogue Top,,0,0,0,,14,
 Dialogue: 30,0:11:51.69,0:11:52.77,Dialogue Top,,0,0,0,,13,
@@ -2769,9 +2769,9 @@ Dialogue: 30,0:13:08.53,0:13:11.76,Dialogue,,0,0,0,,Эруна! Тебе уже 
 Dialogue: 30,0:13:11.76,0:13:14.11,Dialogue,,0,0,0,,Что?! Как, уже пора?!{What? N-No way, already?!}
 Dialogue: 30,0:13:14.65,0:13:15.97,Dialogue,,0,0,0,,Удачи!{You can do it!}
 Dialogue: 30,0:13:15.97,0:13:17.06,Dialogue,,0,0,0,,Мы попозже подойдём.{We'll be there later!}
-Dialogue: 30,0:13:21.94,0:13:24.56,Dialogue,,0,0,0,,Значит здесь пройдёт мой бой?{So this is where we're battling today, huh?}{запятая после «значит»?}
+Dialogue: 30,0:13:21.94,0:13:24.56,Dialogue,,0,0,0,,Значит бой пройдёт здесь?{So this is where we're battling today, huh?}
 Dialogue: 30,0:13:24.56,0:13:27.37,Dialogue,,0,0,0,,Здесь тебе негде будет спрятаться, дракони.{Unlike last time, there's nowhere for you to hide, ryui.}
-Dialogue: 30,0:13:27.37,0:13:30.13,Dialogue,,0,0,0,,Да, зато тут места более чем достаточно!{No, but it looks like there's plenty of space to run!}{места столько, что хоть убегайся!}
+Dialogue: 30,0:13:27.37,0:13:30.13,Dialogue,,0,0,0,,Спрятаться негде, зато тут есть где разбежаться!{No, but it looks like there's plenty of space to run!}
 Dialogue: 30,0:13:30.13,0:13:30.72,Dialogue Top,,0,0,0,,Налетайте!{Have one!}
 Dialogue: 30,0:13:30.72,0:13:31.50,Dialogue,,0,0,0,,А?{H-Huh?}
 Dialogue: 30,0:13:31.50,0:13:32.47,Dialogue,,0,0,0,,Разбирайте!{Have one!}
@@ -2782,7 +2782,7 @@ Dialogue: 30,0:13:39.98,0:13:43.47,Dialogue,,0,0,0,,Давай этот день
 Dialogue: 30,0:13:44.21,0:13:47.23,Dialogue,,0,0,0,,Будем каждый год в этот день ходить на свидания.{I want it to be a day where, every year, we go on a date.}
 Dialogue: 30,0:13:47.23,0:13:48.24,Dialogue,,0,0,0,,Как тебе?{What do you think?}
 Dialogue: 30,0:13:49.34,0:13:53.34,Dialogue,,0,0,0,,Ай, всё, не надо так яростно демонстрировать свою любовь!{Please, don't show your love in such extreme ways!}
-Dialogue: 30,0:13:53.34,0:13:55.40,Dialogue,,0,0,0,,Возьмите ваш экземпляр газеты.{Here you go, an extra edition.}
+Dialogue: 30,0:13:53.34,0:13:55.40,Dialogue,,0,0,0,,Так, а вот и ваш экземпляр!{Here you go, an extra edition.}
 Dialogue: 30,0:13:57.16,0:13:58.90,Dialogue,,0,0,0,,Вставить ту фотку в {\i1}эту{\i0} статью?{You're using this picture \i1now\i0?}
 Dialogue: 30,0:14:02.52,0:14:04.41,Dialogue,,0,0,0,,Эруночка, ты прелесть!{Eruna-chan, it's great!}
 Dialogue: 30,0:14:04.41,0:14:06.36,Dialogue,,0,0,0,,Откровенные фото Эруны мне тоже...{I love the adult Eruna-chan to—}
@@ -2847,10 +2847,10 @@ Dialogue: 30,0:16:58.72,0:16:59.12,Dialogue,,0,0,0,,Да?{Huh?}
 Dialogue: 30,0:16:59.93,0:17:01.80,Dialogue,,0,0,0,,Выше нос, дракони!{Cheer up, ryui!}
 Dialogue: 30,0:17:01.80,0:17:03.88,Dialogue,,0,0,0,,Хватит, отцепись!{Ugh, stop it!}
 Dialogue: 30,0:17:03.88,0:17:05.54,Dialogue,,0,0,0,,Уродством от тебя заражусь!{I'm gonna catch your ugliness.}
+Dialogue: 30,0:17:05.08,0:17:05.54,Dialogue Overlap,,0,0,0,,Урдство!
 Dialogue: 30,0:17:06.24,0:17:08.52,Dialogue,,0,0,0,,Исход боя оказался плачевным, дракони,{The results were unfortunate, ryui.}
 Dialogue: 30,0:17:08.52,0:17:10.09,Dialogue,,0,0,0,,но впадать в депрессию{But it's not like you to get}
 Dialogue: 30,0:17:10.09,0:17:12.25,Dialogue,,0,0,0,,из-за неудач не в твоём стиле, дракони...{depressed over that, ryui...}
-Dialogue: 30,0:17:12.25,0:17:12.86,Dialogue,,0,0,0,,Фырк!{Hmph!}{Или выпилить нафиг эту строку?}
 Dialogue: 30,0:17:17.51,0:17:18.56,Dialogue,,0,0,0,,Молоко?{Milk?}
 Dialogue: 30,0:17:19.68,0:17:20.47,Dialogue,,0,0,0,,Привет.
 Dialogue: 30,0:17:20.81,0:17:23.54,Dialogue,,0,0,0,,Спряталась чтобы поплакаться?{Hey, are you hiding here crying?}
@@ -2872,16 +2872,16 @@ Dialogue: 30,0:17:58.16,0:17:58.89,Dialogue,,0,0,0,,Чтоб ты знала!{Yo
 Dialogue: 30,0:17:58.89,0:18:01.33,Dialogue,,0,0,0,,В молоке полно питательных веществ!{Milk has lots of nutrients!}
 Dialogue: 30,0:18:01.33,0:18:03.77,Dialogue,,0,0,0,,Оно тебе нужно, чёрт тебя дери!{It's good for you, damn it!}
 Dialogue: 30,0:18:05.50,0:18:07.02,Dialogue,,0,0,0,,И всё равно не намусорил?{He doesn't litter?}
-Dialogue: 30,0:18:07.02,0:18:10.52,Dialogue,,0,0,0,,Хоть он и груб, но всегда старается помочь советом, дракони.{His words are rough, but he only says good things, ryui.}
+Dialogue: 30,0:18:07.02,0:18:10.52,Dialogue,,0,0,0,,С тактом у него беда, но он всегда старается помочь советом, дракони.{His words are rough, but he only says good things, ryui.}
 Dialogue: 30,0:18:11.90,0:18:13.02,Dialogue,,0,0,0,,Слушай.{Listen.}
 Dialogue: 30,0:18:13.02,0:18:15.36,Dialogue,,0,0,0,,Твоя способность пока неполноценна.{Your ability is still incomplete.}
-Dialogue: 30,0:18:16.90,0:18:19.14,Dialogue,,0,0,0,,Кудзурю абсолютно прав, дракони.{It's just as Kuzuryu-kun says, ryui.}
+Dialogue: 30,0:18:16.90,0:18:19.14,Dialogue,,0,0,0,,Кудзурю прав, дракони.{It's just as Kuzuryu-kun says, ryui.}
 Dialogue: 30,0:18:19.14,0:18:20.64,Dialogue,,0,0,0,,Из-за твоей неопытности{Because of your inexperience,}
 Dialogue: 30,0:18:20.64,0:18:23.33,Dialogue,,0,0,0,,приём активировался не так, как должен, дракони.{your power didn't activate properly, ryui.}
 Dialogue: 30,0:18:23.33,0:18:24.60,Dialogue,,0,0,0,,Другими словами,{So does that mean that}
-Dialogue: 30,0:18:24.60,0:18:27.98,Dialogue,,0,0,0,,набравшись опыта я стану сильнее?{the more experience I have, the stronger I'll be?}
-Dialogue: 30,0:18:27.98,0:18:30.68,Dialogue,,0,0,0,,И когда я отточу свой спецприём,{That once this rare power is perfected,}
-Dialogue: 30,0:18:30.68,0:18:32.84,Dialogue,,0,0,0,,смогу править всей страной?{I'll be able to rule over the whole country?}{ансаб тут не бредит ли?}
+Dialogue: 30,0:18:24.60,0:18:27.98,Dialogue,,0,0,0,,наберусь опыта и стану сильней?{the more experience I have, the stronger I'll be?}
+Dialogue: 30,0:18:27.98,0:18:30.68,Dialogue,,0,0,0,,Когда я отточу свой спецприём,{That once this rare power is perfected,}
+Dialogue: 30,0:18:30.68,0:18:32.84,Dialogue,,0,0,0,,то даже и горы свернуть смогу!{I'll be able to rule over the whole country?}
 Dialogue: 30,0:18:32.84,0:18:34.17,Dialogue,,0,0,0,,Ура!{Yay!}
 Dialogue: 30,0:18:34.17,0:18:35.84,Dialogue,,0,0,0,,Рано радуешься!{Don't get carried away!}
 Dialogue: 30,0:18:36.69,0:18:37.70,Dialogue,,0,0,0,,Решено!{All right!}
@@ -2899,13 +2899,13 @@ Dialogue: 30,0:19:01.57,0:19:06.08,Dialogue,,0,0,0,,это всё, что тре
 Dialogue: 30,0:19:06.08,0:19:08.07,Dialogue,,0,0,0,,Создать новый клуб?..{A new club...?}
 Dialogue: 30,0:19:08.07,0:19:09.56,Dialogue,,0,0,0,,Мой клуб...{My club...}
 Dialogue: 30,0:19:09.56,0:19:12.04,Dialogue,,0,0,0,,Да, так и сделаю!{All right! I'll do it!}
-Dialogue: 30,0:19:12.04,0:19:15.26,Dialogue,,0,0,0,,Создам новый клуб! Я решила!{I'll make a new club! It's decided!}
-Dialogue: 30,0:19:15.57,0:19:18.96,Dialogue,,0,0,0,,Сейчас тебе сложно будет найти желающих присоединиться.{It'll be hard to find members this time of year.}
-Dialogue: 30,0:19:18.96,0:19:22.22,Dialogue,,0,0,0,,Да и тренировочный матч ты продула, дракони.{And you also just lost a practice match, ryui.}
+Dialogue: 30,0:19:12.04,0:19:15.26,Dialogue,,0,0,0,,Создам новый клуб! Решено!{I'll make a new club! It's decided!}
+Dialogue: 30,0:19:15.57,0:19:18.96,Dialogue,,0,0,0,,Учебный год уже начался, все уже по клубам разбежались.{It'll be hard to find members this time of year.}
+Dialogue: 30,0:19:18.96,0:19:22.22,Dialogue,,0,0,0,,Да и тренировочный бой ты только что продула, дракони.{And you also just lost a practice match, ryui.}
 Dialogue: 30,0:19:23.50,0:19:26.13,Dialogue,,0,0,0,,Хм, заработанные очки известны всем{Hm, there's also the point system,}
 Dialogue: 30,0:19:26.13,0:19:29.44,Dialogue,,0,0,0,,и вступать в заведомо слабый клуб никто не захочет...{and no one would want to join a club started by someone weak, huh?}
-Dialogue: 30,0:19:29.83,0:19:33.36,Dialogue,,0,0,0,,Участие в «Битве новичков» отличный способ привлечь людей.{If you want people to consider your club,\N the rookie battle will be good place to start.}
-Dialogue: 30,0:19:33.36,0:19:34.86,Dialogue,,0,0,0,,В «Битве новичков»?{Rookie battle?}
+Dialogue: 30,0:19:29.83,0:19:33.36,Dialogue,,0,0,0,,Участие в юниорском турнире — отличный способ привлечь людей.{If you want people to consider your club,\N the rookie battle will be good place to start.}
+Dialogue: 30,0:19:33.36,0:19:34.86,Dialogue,,0,0,0,,В юниорском турнире?{Rookie battle?}
 Dialogue: 30,0:19:34.86,0:19:35.68,Dialogue,,0,0,0,,Дракони.{Ryui.}
 Dialogue: 30,0:19:35.68,0:19:37.68,Dialogue,,0,0,0,,Покажешь хороший результат —{If you get good results there,}
 Dialogue: 30,0:19:37.68,0:19:40.82,Dialogue,,0,0,0,,привлечёшь внимание, а там и желающих вступить найдёшь, дракони.{you'll get more attention, and you should get some club members, too, ryui.}
@@ -2913,8 +2913,8 @@ Dialogue: 30,0:19:41.48,0:19:42.24,Dialogue,,0,0,0,,Поняла!{I see!}
 Dialogue: 30,0:19:42.84,0:19:46.22,Dialogue,,0,0,0,,Но мне нужен не какой-то там «хороший результат»,{Then I can't settle for something halfhearted like "good results"!}
 Dialogue: 30,0:19:46.22,0:19:47.95,Dialogue,,0,0,0,,моя цель — первое место!{I will not aim for anything\N less than first place!}
 Dialogue: 30,0:19:48.58,0:19:50.30,Dialogue,,0,0,0,,Спасибо, Кроха!{Thanks, Bimii!}
-Dialogue: 30,0:19:50.30,0:19:52.25,Dialogue,,0,0,0,,И тебе, разрисованный Янки,{You too, endearing painted Yankee,}
-Dialogue: 30,0:19:52.25,0:19:54.29,Dialogue,,0,0,0,,сокращённо — Разрисянки!{or Enoyan-senpai for short!}
+Dialogue: 30,0:19:50.30,0:19:52.25,Dialogue,,0,0,0,,И тебе, разрисованный хулиган,{You too, endearing painted Yankee,}
+Dialogue: 30,0:19:52.25,0:19:54.29,Dialogue,,0,0,0,,сокращённо — Разрисулиган!{or Enoyan-senpai for short!}
 Dialogue: 30,0:19:54.29,0:19:55.71,Dialogue,,0,0,0,,А... ты куда, дракони?!{Ah, where are you going, ryui?!}
 Dialogue: 30,0:19:55.71,0:19:58.61,Dialogue,,0,0,0,,Эй, не смей звать меня так!{Hey, don't call me something weird!}
 Dialogue: 30,0:20:44.77,0:20:46.43,Dialogue,,0,0,0,,Сэйса!{Seisa-senpai!}
@@ -2925,10 +2925,10 @@ Dialogue: 30,0:20:55.94,0:20:59.62,Dialogue,,0,0,0,,но когда я стан�
 Dialogue: 30,0:20:59.62,0:21:03.28,Dialogue,,0,0,0,,я хотела бы сразиться с тобой ещё раз!{I want to fight you one more time, Seisa-senpai!}
 Dialogue: 30,0:21:03.94,0:21:05.96,Dialogue,,0,0,0,,И в следующий раз я не проиграю!{I won't lose next time!}
 Dialogue: 30,0:21:06.66,0:21:08.01,Dialogue,,0,0,0,,Для начала{In order to do that,}
-Dialogue: 30,0:21:08.01,0:21:10.70,Dialogue,,0,0,0,,я хочу победить в «Битве новичков»{I'm going to win the rookie battle}
-Dialogue: 30,0:21:10.70,0:21:12.63,Dialogue,,0,0,0,,и найти одноклубников!{and gather club members!}
+Dialogue: 30,0:21:08.01,0:21:10.70,Dialogue,,0,0,0,,я займу первое место в юниорском турнире{I'm going to win the rookie battle}
+Dialogue: 30,0:21:10.70,0:21:12.63,Dialogue,,0,0,0,,и найду людей в свой клуб!{and gather club members!}
 Dialogue: 30,0:21:12.63,0:21:14.25,Dialogue,,0,0,0,,Так что, прошу, следи за мной!{So please watch me!}
-Dialogue: 30,0:21:14.91,0:21:16.71,Dialogue,,0,0,0,,Даже так: я добьюсь твоего внимания.{In fact, I'll make sure you watch.}
+Dialogue: 30,0:21:14.91,0:21:16.71,Dialogue,,0,0,0,,Даже так: я добьюсь твоего внимания!{In fact, I'll make sure you watch.}
 Dialogue: 30,0:21:16.71,0:21:18.02,Dialogue,,0,0,0,,Вот увидишь!{I'll show you!}
 Dialogue: 30,0:21:18.02,0:21:20.95,Dialogue,,0,0,0,,Я покажу тебе себя и так, и эдак, и...{I'll show myself like this, and that...!}
 Dialogue: 30,0:21:23.26,0:21:24.60,Dialogue,,0,0,0,,А теперь...{And so...}
