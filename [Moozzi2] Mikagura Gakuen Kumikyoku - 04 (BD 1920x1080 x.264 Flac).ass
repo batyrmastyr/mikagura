@@ -16,9 +16,9 @@ Video File: Mikagura Gakuen Kumikyoku - 04 (BD 1280x720 H.264 Vorbis).mkv
 Video AR Mode: 4
 Video AR Value: 1.777778
 Video Zoom Percent: 0.750000
-Scroll Position: 30013
-Active Line: 30019
-Video Position: 18189
+Scroll Position: 30141
+Active Line: 30145
+Video Position: 30421
 
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
@@ -1627,7 +1627,7 @@ Dialogue: 30,0:12:22.32,0:12:26.13,Dialogue,,0,0,0,,Настало время о
 Dialogue: 30,0:12:26.64,0:12:27.96,Dialogue,,0,0,0,,Ведущим буду я,{The MC will be me,}
 Dialogue: 30,0:12:27.96,0:12:30.49,Dialogue,,0,0,0,,глава и представитель клуба исследования манги,{president and representative of the Manga Research Club,}
 Dialogue: 30,0:12:30.49,0:12:32.76,Dialogue,,0,0,0,,Сигурэ Ниномия!{Ninomiya Shigure!}
-Dialogue: 30,0:12:35.41,0:12:38.77,Dialogue,,0,0,0,,Если бы все эти девочки знали, какой он мерзкий...{If only those girls knew about\N Shigure's true perverted nature...}
+Dialogue: 30,0:12:35.41,0:12:38.77,Dialogue,,0,0,0,,Если бы все эти девочки знали, что он кузинолюб...{If only those girls knew about\N Shigure's true perverted nature...}
 Dialogue: 30,0:12:39.77,0:12:41.95,Dialogue,,0,0,0,,Эруночка!{Eruna-chan!}
 Dialogue: 30,0:12:41.95,0:12:45.69,Dialogue,,0,0,0,,Даже в такой толпе я легко найду тебя!{I've found you in the midst of\N a few hundred million people!}
 Dialogue: 30,0:12:46.01,0:12:47.67,Dialogue,,0,0,0,,Блин, как же стыдно-то.{Oh, this is so embarrassing.}{How embarrassing.}
@@ -1753,7 +1753,7 @@ Dialogue: 30,0:20:14.84,0:20:19.10,Dialogue,,0,0,0,,Та-ак! Накал рас
 Dialogue: 30,0:20:30.60,0:20:32.95,Dialogue,,0,0,0,,Даже не жди, что у меня кончатся чернила!{There's no point  in waiting for me to run out of ammo / If you're trying to use up my firepower, it won't work!!}
 Dialogue: 30,0:20:32.95,0:20:33.87,Dialogue,,0,0,0,,Тебе конец!{This is the end!}{«Шах и мат!» больше для Химе}
 Dialogue: 30,0:20:41.38,0:20:45.26,Dialogue,,0,0,0,,Чёрт, это уже как-то слишком!{Man, this is too much!}
-Dialogue: 30,0:21:08.90,0:21:10.74,Dialogue,,0,0,0,,{\ko47}{\q2\2a&HFF&}А!{Here it comes!} {\ko29}Вот!{Here it comes!} {\ko30}Вам!{Here it comes!} {\ko23}И!{Here it comes!} {\ko55}Я!{Here it comes!}
+Dialogue: 30,0:21:08.90,0:21:10.74,Dialogue,,0,0,0,,{\ko47}{\q2\2a&HFF&}А!{Here it comes!} {\ko29}Вот!{Here it comes!} {\ko30}И!{Here it comes!} {\ko23}Снова!{Here it comes!} {\ko55}Я!{Here it comes!}
 Dialogue: 30,0:21:16.82,0:21:18.51,Dialogue,,0,0,0,,Полный заряд!{Tension Max!}
 Dialogue: 30,0:21:19.25,0:21:22.84,Dialogue,,0,0,0,,Огонь!{Go!}
 Dialogue: 30,0:21:29.17,0:21:30.59,Dialogue,,0,0,0,,И вместо салюта!{Once more for kicks!}
