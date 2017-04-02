@@ -9,17 +9,6 @@ PlayResX: 1280
 PlayResY: 720
 PlayDepth: 16
 
-[Aegisub Project Garbage]
-Last Style Storage: Default
-Audio File: Mikagura Gakuen Kumikyoku - 05 (BD 1280x720 H.264 Vorbis).mkv
-Video File: Mikagura Gakuen Kumikyoku - 05 (BD 1280x720 H.264 Vorbis).mkv
-Video AR Mode: 4
-Video AR Value: 1.777778
-Video Zoom Percent: 0.750000
-Scroll Position: 2100
-Active Line: 2100
-Video Position: 17467
-
 [V4+ Styles]
 Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
 Style: Dialogue,Calibri,52,&H00FFFFFF,&H000000FF,&H00420000,&H00000000,-1,0,0,0,100,100,0,0,1,3,0,2,130,130,30,1
@@ -2245,424 +2234,424 @@ Dialogue: 0,0:14:47.73,0:14:49.69,Signs,Sign,0,0,0,,{\1a&HFE&\xshad3\yshad1\blur
 Dialogue: 0,0:14:47.73,0:14:49.69,Signs,Sign,0,0,0,,{\blur0.666\fs42\fnDS Goose\b1\frz7.149\c&H5BB074&\pos(495,119)}Портреты
 Dialogue: 0,0:14:49.69,0:14:51.65,Signs,Sign,0,0,0,,{\alpha&H10&\bord1\c&H4E5562&\blur0.6\fs60\fnBuxton Sketch\b1\i0\3c&H5A626F&\pos(309.714,507.429)}Напишем ваш портрет
 Dialogue: 0,0:16:47.31,0:16:54.28,Signs,Sign,0,0,0,,{\blur0.666\fay0.6\an8\fnTimes New Roman\fs8\pos(784,568)}Юниорский\N\Nтурнир\Nшколы\NМикагура
-Dialogue: 30,0:00:02.58,0:00:03.77,Dialogue Top,,0,0,0,,Добро пожаловать!{Welcome!}
-Dialogue: 30,0:00:04.30,0:00:05.92,Dialogue Top,,0,0,0,,Попробуйте!{Take a look!}
-Dialogue: 30,0:00:28.92,0:00:31.62,Dialogue,,0,0,0,,Эруна, я больше не могу, дракони.{Eruna, I can't carry any more, ryui.}
-Dialogue: 30,0:00:31.62,0:00:33.36,Dialogue,,0,0,0,,Слишком много, не унесу столько!{You've bought too much takoyaki.}
-Dialogue: 30,0:00:33.36,0:00:34.76,Dialogue,,0,0,0,,Я больше не могу, дракони!{I'm at my limit, ryui.}
-Dialogue: 30,0:00:35.24,0:00:37.51,Dialogue,,0,0,0,,Ты не можешь потому, что в себя не веришь!{Believe in yourself, Bimii!}
-Dialogue: 30,0:00:37.51,0:00:40.37,Dialogue,,0,0,0,,Верь в себя, Кроха!{You're only at your limit because you \i1think\i0 you are.}
-Dialogue: 30,0:00:40.37,0:00:41.30,Dialogue,,0,0,0,,Сдашься сейчас —{If you give up now,}
-Dialogue: 30,0:00:41.30,0:00:43.31,Dialogue,,0,0,0,,и такояки наступит конец!{the takoyaki's finished.}
-Dialogue: 30,0:00:43.31,0:00:45.60,Dialogue,,0,0,0,,Не дай такояки погибнуть в пути!{The takoyaki must live on until we get home!}
-Dialogue: 30,0:00:45.60,0:00:50.22,Dialogue,,0,0,0,,Эруна, что-то я не понимаю, какое место такояки занимают в твоём мировоззрении, дракони.{Eruna, I don't really understand}{what position takoyaki has in your mind, ryui.}
-Dialogue: 30,0:00:50.22,0:00:52.68,Dialogue,,0,0,0,,Да, кстати, а баллов-то у тебя хватит, дракони?{Anyway, do you have enough points, ryui?}
-Dialogue: 30,0:00:52.68,0:00:53.15,Dialogue,,0,0,0,,А?{Eh?}
-Dialogue: 30,0:00:53.15,0:00:54.95,Dialogue,,0,0,0,,Столько еды накупила —{After buying and eating this much,}
-Dialogue: 30,0:00:54.95,0:00:58.07,Dialogue,,0,0,0,,считай, все баллы спустила, дракони.{I'm sure you've used a lot of points, ryui.}
-Dialogue: 30,0:00:59.55,0:01:01.04,Dialogue,,0,0,0,,Забыла…{I forgot…}
-Dialogue: 30,0:01:01.04,0:01:04.02,Dialogue,,0,0,0,,Так и знал, дракони.{That's what I thought, ryui.}
-Dialogue: 30,0:01:07.47,0:01:09.09,Dialogue,,0,0,0,,Сэйса!{Seisa-senpai!}
-Dialogue: 30,0:01:09.66,0:01:12.15,Dialogue,,0,0,0,,Ты видела мою первую победу{Did you watch my first victory}
-Dialogue: 30,0:01:12.15,0:01:14.19,Dialogue,,0,0,0,,в юниорском турнире?{in the rookie battle?}
-Dialogue: 30,0:01:14.19,0:01:16.05,Dialogue,,0,0,0,,Разумеется, Эруна.{Of course I did, Eruna.}
-Dialogue: 30,0:01:16.39,0:01:17.86,Dialogue,,0,0,0,,Дай…{Now…}
-Dialogue: 30,0:01:17.86,0:01:20.47,Dialogue,,0,0,0,,я тебя обниму на удачу в следующих боях.{Let me give you a hug for good luck.}
-Dialogue: 30,0:01:20.47,0:01:21.88,Dialogue,,0,0,0,,Ах!{Huh?}
-Dialogue: 30,0:01:22.96,0:01:26.52,Dialogue,,0,0,0,,Или же объятий будет мало?{Unless a hug isn't enough?}
-Dialogue: 30,0:01:26.52,0:01:30.73,Dialogue,,0,0,0,,Ах, Сэйса…{Oh, Seisa-senpai…!}
-Dialogue: 30,0:01:31.94,0:01:33.34,Dialogue,,0,0,0,,Бедняжка.{Poor thing.}
-Dialogue: 30,0:01:33.34,0:01:36.06,Dialogue,,0,0,0,,Похоже, головой ударилась в последнем бою.{She hit her head during the rookie battle just now, right?}
-Dialogue: 30,0:01:36.06,0:01:39.62,Dialogue,,0,0,0,,К сожалению, она всегда такая, дракони.{No. Unfortunately, this is the usual Eruna, ryui.}
-Dialogue: 30,0:01:39.62,0:01:40.98,Dialogue,,0,0,0,,Чмок!{Kiss!}
-Dialogue: 30,0:03:17.10,0:03:19.97,Dialogue,,0,0,0,,Сейса! Ну же, не отставай!{Seisa-senpai! Hurry, Hurry!}
-Dialogue: 30,0:03:22.05,0:03:23.18,Dialogue,,0,0,0,,Якисоба,{Yakisoba,}
-Dialogue: 30,0:03:23.18,0:03:24.22,Dialogue,,0,0,0,,такояки,{takoyaki,}
-Dialogue: 30,0:03:24.22,0:03:25.40,Dialogue,,0,0,0,,окономияки,{okonomiyaki,}
-Dialogue: 30,0:03:25.40,0:03:27.23,Dialogue,,0,0,0,,{\ko100}{\2a&HFF&}такояки,{takoyaki,} {\ko83}такояки,{takoyaki,}
-Dialogue: 30,0:03:27.23,0:03:29.06,Dialogue,,0,0,0,,а вон там ещё такояки!{and more takoyaki!}
-Dialogue: 30,0:03:29.06,0:03:32.08,Dialogue,,0,0,0,,Какое-то у тебя однобокое меню получается, дракони.{Your choices seem very skewed, ryui…}{В твоём списке явно виден перекос}
-Dialogue: 30,0:03:32.08,0:03:34.45,Dialogue,,0,0,0,,Сэйса, а что бы ты хотела съесть?{Seisa-senpai, what do you want to eat?}
-Dialogue: 30,0:03:34.45,0:03:36.36,Dialogue,,0,0,0,,Мне хочется чего-нибудь сладкого.{I want to eat something sweet.}
-Dialogue: 30,0:03:36.76,0:03:38.94,Dialogue,,0,0,0,,Вот что значит опыт! Отличный выбор!{That's my Senpai, so understanding!}{что-то другое надо}
-Dialogue: 30,0:03:38.94,0:03:41.87,Dialogue,,0,0,0,,Такояки вкуснее всего со сладким соусом!{A sweet sauce is best for takoyaki, isn't it?}
-Dialogue: 30,0:03:41.87,0:03:44.00,Dialogue,,0,0,0,,И я им запаслась!{That's why I stocked up!}
-Dialogue: 30,0:03:44.00,0:03:47.07,Dialogue,,0,0,0,,Да, за баллы не бойся, за всё платит Кроха.{Oh, don't worry about the points, Bimii will cover them.}
-Dialogue: 30,0:03:47.07,0:03:50.16,Dialogue,,0,0,0,,Впервые слышу! Это что за щедрость за мой счёт, дракони?!{I'm very worried about that part, ryui!}
-Dialogue: 30,0:03:50.16,0:03:51.64,Dialogue,,0,0,0,,Добро…{Wel…}
-Dialogue: 30,0:03:51.64,0:03:52.24,Dialogue,,0,0,0,,М?{Hm?}
-Dialogue: 30,0:03:52.24,0:03:53.04,Dialogue,,0,0,0,,пожаловать…{come…}
-Dialogue: 30,0:03:53.47,0:03:55.58,Dialogue,,0,0,0,,Не хотите сыграть?..{Would you like to play…?}
-Dialogue: 30,0:03:55.58,0:03:57.88,Dialogue,,0,0,0,,Минатогава?{M-Minatogawa-senpai?}
-Dialogue: 30,0:03:58.49,0:04:00.26,Dialogue,,0,0,0,,Почему он  в тире только он?{Why is he running a booth by himself?}
-Dialogue: 30,0:04:00.26,0:04:04.51,Dialogue,,0,0,0,,Минатогава единственный активный участник кружка, дракони.{Minatogawa is the only active member of the Flower Arrangement Club, ryui.}
-Dialogue: 30,0:04:04.51,0:04:07.89,Dialogue,,0,0,0,,Вот как… Остальные даже не появляются?{Oh yeah, the other club members never show up, right?}
-Dialogue: 30,0:04:08.24,0:04:11.93,Dialogue,,0,0,0,,Даже так, какой-то он слишком подавленный.{Even so, he seems way too out of it.}
-Dialogue: 30,0:04:11.93,0:04:14.35,Dialogue,,0,0,0,,Добро…{Welcome…}
-Dialogue: 30,0:04:14.35,0:04:17.42,Dialogue,,0,0,0,,Он так натужно старается быть дружелюбным,{And because he's working so hard to appear inviting,}
-Dialogue: 30,0:04:17.42,0:04:20.07,Dialogue,,0,0,0,,что лицо аж перекошено улыбкой…{he's got a weird half-smile on his face…}
-Dialogue: 30,0:04:23.25,0:04:25.70,Dialogue,,0,0,0,,Гляжу ты трудишься не покладая рук, Минатогава!{Y-You're working hard, Minatogawa-senpai!}
-Dialogue: 30,0:04:26.19,0:04:28.03,Dialogue,,0,0,0,,А, добро пожаловать.{Hey. Welcome.}
-Dialogue: 30,0:04:28.03,0:04:30.52,Dialogue,,0,0,0,,Кружок флористики обустроил тир?{The Flower Arrangement Club has a shooting gallery?}
-Dialogue: 30,0:04:30.52,0:04:33.00,Dialogue,,0,0,0,,Забавно!{That looks fun!}
-Dialogue: 30,0:04:33.56,0:04:34.48,Dialogue,,0,0,0,,Здоровая!{That's huge!}
-Dialogue: 30,0:04:34.48,0:04:36.14,Dialogue,,0,0,0,,Хочешь узнать что это?{Guess what?}
-Dialogue: 30,0:04:36.14,0:04:38.96,Dialogue,,0,0,0,,Главный приз — фигурка Суперчудотворца в полный рост.{The grand prize is a life-sized Super Miracle Man figure.}{doll}
-Dialogue: 30,0:04:40.25,0:04:43.07,Dialogue,,0,0,0,,«Самую малость» великовата для мишени…{It's too big to be a shooting target…}
-Dialogue: 30,0:04:43.07,0:04:46.78,Dialogue,,0,0,0,,И вообще, она времён нашего детства, не иначе…{Besides, it somehow seems really old…}
-Dialogue: 30,0:04:46.78,0:04:49.56,Dialogue,,0,0,0,,И знаешь, что… Я купил её ещё до поступления сюда.{Guess what? It's a used toy I brought from home.}{my parents' house}
-Dialogue: 30,0:04:49.94,0:04:50.77,Dialogue,,0,0,0,,Стоп, стоп, стоп.{No, wait.}
-Dialogue: 30,0:04:50.77,0:04:54.39,Dialogue,,0,0,0,,Сколько им ни гордись,\Nа желания его выигрывать не появляется!{Even if you say that proudly, it's not making me want it!}
-Dialogue: 30,0:04:54.39,0:04:55.14,Dialogue,,0,0,0,,И знаешь, что…{Guess what?}
-Dialogue: 30,0:04:55.14,0:04:57.22,Dialogue,,0,0,0,,Сапог слегка порван в одном месте.{It's a little ripped here.}
-Dialogue: 30,0:04:57.22,0:04:58.30,Dialogue,,0,0,0,,Так нельзя!{You can't use that!}
-Dialogue: 30,0:04:58.30,0:04:59.77,Dialogue,,0,0,0,,Призы должны быть целыми!{You can't have a ripped prize!}
-Dialogue: 30,0:04:59.77,0:05:00.36,Dialogue,,0,0,0,,И знаешь, что…{Guess what?}
-Dialogue: 30,0:05:01.10,0:05:02.68,Dialogue,,0,0,0,,Этот приз — моя собственность.{This is my prized possession.}
-Dialogue: 30,0:05:02.68,0:05:04.49,Dialogue,,0,0,0,,Ты и не думаешь его отдавать!{You have no intention of giving\N it away as a prize, do you?}
-Dialogue: 30,0:05:04.49,0:05:05.65,Dialogue,,0,0,0,,А знаешь, что…{And guess what?}
-Dialogue: 30,0:05:05.65,0:05:06.81,Dialogue,,0,0,0,,И это ещё не всё?!{There's more?}
-Dialogue: 30,0:05:06.81,0:05:07.57,Dialogue,,0,0,0,,Ну, что ещё?{What else?}
-Dialogue: 30,0:05:08.10,0:05:09.65,Dialogue,,0,0,0,,Надо отлить…{I need to pee /go/…}
-Dialogue: 30,0:05:09.65,0:05:11.59,Dialogue,,0,0,0,,Ну так бегом в туалет!{Please go use the restroom!}{hurry to the toilets}
-Dialogue: 30,0:05:11.59,0:05:13.75,Dialogue,,0,0,0,,А мы присмотрим пока!{We'll take care of the booth!}
-Dialogue: 30,0:05:16.03,0:05:18.71,Dialogue,,0,0,0,,Никогда не понимал выражений его лица, дракони.{He's as hard to read as ever, ryui.}
-Dialogue: 30,0:05:19.93,0:05:21.34,Dialogue,,0,0,0,,Даже без него…{Even so…}
-Dialogue: 30,0:05:21.70,0:05:25.51,Dialogue,,0,0,0,,Все обходят эту лавочку стороной.{No one's coming to this booth at all, huh?}
-Dialogue: 30,0:05:26.13,0:05:29.83,Dialogue,,0,0,0,,Подобно огромному Чудотворцу,{Like that conspicuous Miracle Man,}
-Dialogue: 30,0:05:29.83,0:05:31.93,Dialogue,,0,0,0,,все игрушки старые и потрёпанные…{the other toys are as old and ratty…}
-Dialogue: 30,0:05:32.25,0:05:35.14,Dialogue,,0,0,0,,Нет, с ними долго играли…{Or rather, well-loved…}
-Dialogue: 30,0:05:37.16,0:05:39.98,Dialogue,,0,0,0,,Все эти игрушки принадлежат Минатогаве.{These are all Minatogawa-san's personal property.}
-Dialogue: 30,0:05:40.43,0:05:43.20,Dialogue,,0,0,0,,«Минатогава Садамаси»… Ты права!{"Minatogawa Sadamashi"… You're right!}
-Dialogue: 30,0:05:43.20,0:05:45.57,Dialogue,,0,0,0,,И то, как он ошибся в написании просто умиляет!{And the fact that he wrote it wrong is so cute!}
-Dialogue: 30,0:05:46.09,0:05:49.49,Dialogue,,0,0,0,,Но почему он выставил свои детские игрушки{Why did he go so far as to use precious childhood}
-Dialogue: 30,0:05:49.49,0:05:52.20,Dialogue,,0,0,0,,как призы в тире?{toys just to run a booth?}
-Dialogue: 30,0:05:52.20,0:05:54.09,Dialogue,,0,0,0,,Он всегда один,{Since he's always alone,}
-Dialogue: 30,0:05:54.09,0:05:57.92,Dialogue,,0,0,0,,но, наверное, хочет иногда повеселиться с друзьями.{it might be that he wants to have fun\N with everyone like this once in a while.}
-Dialogue: 30,0:05:58.31,0:05:59.75,Dialogue,,0,0,0,,Понимаю…{I see…}
-Dialogue: 30,0:05:59.75,0:06:00.77,Dialogue,,0,0,0,,Отлично!{All right!}
-Dialogue: 30,0:06:00.77,0:06:03.46,Dialogue,,0,0,0,,С этим я ему помогу!{I'll help him out, then!}
-Dialogue: 30,0:06:06.99,0:06:09.34,Dialogue,,0,0,0,,Добро пожаловать, добро пострелять!{Come by and take a shot!}
-Dialogue: 30,0:06:09.34,0:06:11.93,Dialogue,,0,0,0,,Тир кружка флористики!{It's the Flower Arrangement Club's shooting gallery!}
-Dialogue: 30,0:06:12.34,0:06:15.39,Dialogue,,0,0,0,,Посмотрите на прекрасную как цветок девушку с обложки!{Come look at the flower-like poster girl!}
-Dialogue: 30,0:06:15.39,0:06:19.63,Dialogue,,0,0,0,,Красотка поразившая меня прямо в сердце — даром!{The beautiful girl who shot through my heart is free!}
-Dialogue: 30,0:06:19.63,0:06:21.31,Dialogue,,0,0,0,,Ты её без спросу даришь, дракони…{You're making her free without permission, ryui…}
-Dialogue: 30,0:06:21.82,0:06:25.03,Dialogue,,0,0,0,,Так и знал, что если кто и будет орать чушь,{I knew that familiar dumb-sounding voice}
-Dialogue: 30,0:06:25.03,0:06:27.24,Dialogue,,0,0,0,,так это ты, Эруна.{had to be you, Ichinomiya-chan.}
-Dialogue: 30,0:06:27.24,0:06:29.82,Dialogue,,0,0,0,,Даже Сэйса здесь.\NПодрабатываете в тире?{And even Seisa-san's with you.\NWorking part-time at the shooting gallery?}
-Dialogue: 30,0:06:29.82,0:06:34.13,Dialogue,,0,0,0,,Так и знала, что если кто и поприветствует гадостями, так это ты, Акама!{I knew that familiar darkness had to be you, Akama-kun!}
-Dialogue: 30,0:06:34.13,0:06:35.66,Dialogue,,0,0,0,,Хочешь пострелять?{Wanna try the shooting gallery?}
-Dialogue: 30,0:06:35.66,0:06:38.12,Dialogue,,0,0,0,,Дам персональную скидку!{I'll give you a special deal!}
-Dialogue: 30,0:06:38.12,0:06:40.47,Dialogue,,0,0,0,,Эй, в каком месте это — скидка?{Hey, how's that a deal?}
-Dialogue: 30,0:06:40.47,0:06:42.99,Dialogue,,0,0,0,,Ты же, наоборот, цену задрала!{You obviously raised the price just now, didn't you?}
-Dialogue: 30,0:06:43.74,0:06:45.34,Dialogue,,0,0,0,,Тебе показалось. Показалось.{You're just imagining it!}
-Dialogue: 30,0:06:45.84,0:06:48.13,Dialogue,,0,0,0,,Да и, независимо от цены,{Besides, before arguing about the price,}
-Dialogue: 30,0:06:48.13,0:06:50.30,Dialogue,,0,0,0,,кому сдались эти…{with those prizes, who would—}
+Dialogue: 30,0:00:02.58,0:00:03.77,Dialogue Top,,0,0,0,,Добро пожаловать!
+Dialogue: 30,0:00:04.30,0:00:05.92,Dialogue Top,,0,0,0,,Попробуйте!
+Dialogue: 30,0:00:28.92,0:00:31.62,Dialogue,,0,0,0,,Эруна, я больше не могу, дракони.
+Dialogue: 30,0:00:31.62,0:00:33.36,Dialogue,,0,0,0,,Слишком много, не унесу столько!
+Dialogue: 30,0:00:33.36,0:00:34.76,Dialogue,,0,0,0,,Я больше не могу, дракони!
+Dialogue: 30,0:00:35.24,0:00:37.51,Dialogue,,0,0,0,,Ты не можешь потому, что в себя не веришь!
+Dialogue: 30,0:00:37.51,0:00:40.37,Dialogue,,0,0,0,,Верь в себя, Кроха!
+Dialogue: 30,0:00:40.37,0:00:41.30,Dialogue,,0,0,0,,Сдашься сейчас —
+Dialogue: 30,0:00:41.30,0:00:43.31,Dialogue,,0,0,0,,и такояки наступит конец!
+Dialogue: 30,0:00:43.31,0:00:45.60,Dialogue,,0,0,0,,Не дай такояки погибнуть в пути!
+Dialogue: 30,0:00:45.60,0:00:50.22,Dialogue,,0,0,0,,Эруна, что-то я не понимаю, какое место такояки занимают в твоём мировоззрении, дракони.
+Dialogue: 30,0:00:50.22,0:00:52.68,Dialogue,,0,0,0,,Да, кстати, а баллов-то у тебя хватит, дракони?
+Dialogue: 30,0:00:52.68,0:00:53.15,Dialogue,,0,0,0,,А?
+Dialogue: 30,0:00:53.15,0:00:54.95,Dialogue,,0,0,0,,Столько еды накупила —
+Dialogue: 30,0:00:54.95,0:00:58.07,Dialogue,,0,0,0,,считай, все баллы спустила, дракони.
+Dialogue: 30,0:00:59.55,0:01:01.04,Dialogue,,0,0,0,,Забыла…
+Dialogue: 30,0:01:01.04,0:01:04.02,Dialogue,,0,0,0,,Так и знал, дракони.
+Dialogue: 30,0:01:07.47,0:01:09.09,Dialogue,,0,0,0,,Сэйса!
+Dialogue: 30,0:01:09.66,0:01:12.15,Dialogue,,0,0,0,,Ты видела мою первую победу
+Dialogue: 30,0:01:12.15,0:01:14.19,Dialogue,,0,0,0,,в юниорском турнире?
+Dialogue: 30,0:01:14.19,0:01:16.05,Dialogue,,0,0,0,,Разумеется, Эруна.
+Dialogue: 30,0:01:16.39,0:01:17.86,Dialogue,,0,0,0,,Дай…
+Dialogue: 30,0:01:17.86,0:01:20.47,Dialogue,,0,0,0,,я тебя обниму на удачу в следующих боях.
+Dialogue: 30,0:01:20.47,0:01:21.88,Dialogue,,0,0,0,,Ах!
+Dialogue: 30,0:01:22.96,0:01:26.52,Dialogue,,0,0,0,,Или же объятий будет мало?
+Dialogue: 30,0:01:26.52,0:01:30.73,Dialogue,,0,0,0,,Ах, Сэйса…
+Dialogue: 30,0:01:31.94,0:01:33.34,Dialogue,,0,0,0,,Бедняжка.
+Dialogue: 30,0:01:33.34,0:01:36.06,Dialogue,,0,0,0,,Похоже, головой ударилась в последнем бою.
+Dialogue: 30,0:01:36.06,0:01:39.62,Dialogue,,0,0,0,,К сожалению, она всегда такая, дракони.
+Dialogue: 30,0:01:39.62,0:01:40.98,Dialogue,,0,0,0,,Чмок!
+Dialogue: 30,0:03:17.10,0:03:19.97,Dialogue,,0,0,0,,Сейса! Ну же, не отставай!
+Dialogue: 30,0:03:22.05,0:03:23.18,Dialogue,,0,0,0,,Якисоба,
+Dialogue: 30,0:03:23.18,0:03:24.22,Dialogue,,0,0,0,,такояки,
+Dialogue: 30,0:03:24.22,0:03:25.40,Dialogue,,0,0,0,,окономияки,
+Dialogue: 30,0:03:25.40,0:03:27.23,Dialogue,,0,0,0,,{\ko100}{\2a&HFF&}такояки,{takoyaki,} {\ko83}такояки,
+Dialogue: 30,0:03:27.23,0:03:29.06,Dialogue,,0,0,0,,а вон там ещё такояки!
+Dialogue: 30,0:03:29.06,0:03:32.08,Dialogue,,0,0,0,,Какое-то у тебя однобокое меню получается, дракони.
+Dialogue: 30,0:03:32.08,0:03:34.45,Dialogue,,0,0,0,,Сэйса, а что бы ты хотела съесть?
+Dialogue: 30,0:03:34.45,0:03:36.36,Dialogue,,0,0,0,,Мне хочется чего-нибудь сладкого.
+Dialogue: 30,0:03:36.76,0:03:38.94,Dialogue,,0,0,0,,Вот что значит опыт! Отличный выбор!
+Dialogue: 30,0:03:38.94,0:03:41.87,Dialogue,,0,0,0,,Такояки вкуснее всего со сладким соусом!
+Dialogue: 30,0:03:41.87,0:03:44.00,Dialogue,,0,0,0,,И я им запаслась!
+Dialogue: 30,0:03:44.00,0:03:47.07,Dialogue,,0,0,0,,Да, за баллы не бойся, за всё платит Кроха.
+Dialogue: 30,0:03:47.07,0:03:50.16,Dialogue,,0,0,0,,Впервые слышу! Это что за щедрость за мой счёт, дракони?!
+Dialogue: 30,0:03:50.16,0:03:51.64,Dialogue,,0,0,0,,Добро…
+Dialogue: 30,0:03:51.64,0:03:52.24,Dialogue,,0,0,0,,М?
+Dialogue: 30,0:03:52.24,0:03:53.04,Dialogue,,0,0,0,,пожаловать…
+Dialogue: 30,0:03:53.47,0:03:55.58,Dialogue,,0,0,0,,Не хотите сыграть?..
+Dialogue: 30,0:03:55.58,0:03:57.88,Dialogue,,0,0,0,,Минатогава?
+Dialogue: 30,0:03:58.49,0:04:00.26,Dialogue,,0,0,0,,Почему он  в тире только он?
+Dialogue: 30,0:04:00.26,0:04:04.51,Dialogue,,0,0,0,,Минатогава единственный активный участник кружка, дракони.
+Dialogue: 30,0:04:04.51,0:04:07.89,Dialogue,,0,0,0,,Вот как… Остальные даже не появляются?
+Dialogue: 30,0:04:08.24,0:04:11.93,Dialogue,,0,0,0,,Даже так, какой-то он слишком подавленный.
+Dialogue: 30,0:04:11.93,0:04:14.35,Dialogue,,0,0,0,,Добро…
+Dialogue: 30,0:04:14.35,0:04:17.42,Dialogue,,0,0,0,,Он так натужно старается быть дружелюбным,
+Dialogue: 30,0:04:17.42,0:04:20.07,Dialogue,,0,0,0,,что лицо аж перекошено улыбкой…
+Dialogue: 30,0:04:23.25,0:04:25.70,Dialogue,,0,0,0,,Гляжу ты трудишься не покладая рук, Минатогава!
+Dialogue: 30,0:04:26.19,0:04:28.03,Dialogue,,0,0,0,,А, добро пожаловать.
+Dialogue: 30,0:04:28.03,0:04:30.52,Dialogue,,0,0,0,,Кружок флористики обустроил тир?
+Dialogue: 30,0:04:30.52,0:04:33.00,Dialogue,,0,0,0,,Забавно!
+Dialogue: 30,0:04:33.56,0:04:34.48,Dialogue,,0,0,0,,Здоровая!
+Dialogue: 30,0:04:34.48,0:04:36.14,Dialogue,,0,0,0,,Хочешь узнать что это?
+Dialogue: 30,0:04:36.14,0:04:38.96,Dialogue,,0,0,0,,Главный приз — фигурка Суперчудотворца в полный рост.
+Dialogue: 30,0:04:40.25,0:04:43.07,Dialogue,,0,0,0,,«Самую малость» великовата для мишени…
+Dialogue: 30,0:04:43.07,0:04:46.78,Dialogue,,0,0,0,,И вообще, она времён нашего детства, не иначе…
+Dialogue: 30,0:04:46.78,0:04:49.56,Dialogue,,0,0,0,,И знаешь, что… Я купил её ещё до поступления сюда.
+Dialogue: 30,0:04:49.94,0:04:50.77,Dialogue,,0,0,0,,Стоп, стоп, стоп.
+Dialogue: 30,0:04:50.77,0:04:54.39,Dialogue,,0,0,0,,Сколько им ни гордись,\Nа желания его выигрывать не появляется!
+Dialogue: 30,0:04:54.39,0:04:55.14,Dialogue,,0,0,0,,И знаешь, что…
+Dialogue: 30,0:04:55.14,0:04:57.22,Dialogue,,0,0,0,,Сапог слегка порван в одном месте.
+Dialogue: 30,0:04:57.22,0:04:58.30,Dialogue,,0,0,0,,Так нельзя!
+Dialogue: 30,0:04:58.30,0:04:59.77,Dialogue,,0,0,0,,Призы должны быть целыми!
+Dialogue: 30,0:04:59.77,0:05:00.36,Dialogue,,0,0,0,,И знаешь, что…
+Dialogue: 30,0:05:01.10,0:05:02.68,Dialogue,,0,0,0,,Этот приз — моя собственность.
+Dialogue: 30,0:05:02.68,0:05:04.49,Dialogue,,0,0,0,,Ты и не думаешь его отдавать!
+Dialogue: 30,0:05:04.49,0:05:05.65,Dialogue,,0,0,0,,А знаешь, что…
+Dialogue: 30,0:05:05.65,0:05:06.81,Dialogue,,0,0,0,,И это ещё не всё?!
+Dialogue: 30,0:05:06.81,0:05:07.57,Dialogue,,0,0,0,,Ну, что ещё?
+Dialogue: 30,0:05:08.10,0:05:09.65,Dialogue,,0,0,0,,Надо отлить…
+Dialogue: 30,0:05:09.65,0:05:11.59,Dialogue,,0,0,0,,Ну так бегом в туалет!
+Dialogue: 30,0:05:11.59,0:05:13.75,Dialogue,,0,0,0,,А мы присмотрим пока!
+Dialogue: 30,0:05:16.03,0:05:18.71,Dialogue,,0,0,0,,Никогда не понимал выражений его лица, дракони.
+Dialogue: 30,0:05:19.93,0:05:21.34,Dialogue,,0,0,0,,Даже без него…
+Dialogue: 30,0:05:21.70,0:05:25.51,Dialogue,,0,0,0,,Все обходят эту лавочку стороной.
+Dialogue: 30,0:05:26.13,0:05:29.83,Dialogue,,0,0,0,,Подобно огромному Чудотворцу,
+Dialogue: 30,0:05:29.83,0:05:31.93,Dialogue,,0,0,0,,все игрушки старые и потрёпанные…
+Dialogue: 30,0:05:32.25,0:05:35.14,Dialogue,,0,0,0,,Нет, с ними долго играли…
+Dialogue: 30,0:05:37.16,0:05:39.98,Dialogue,,0,0,0,,Все эти игрушки принадлежат Минатогаве.
+Dialogue: 30,0:05:40.43,0:05:43.20,Dialogue,,0,0,0,,«Минатогава Садамаси»… Ты права!
+Dialogue: 30,0:05:43.20,0:05:45.57,Dialogue,,0,0,0,,И то, как он ошибся в написании просто умиляет!
+Dialogue: 30,0:05:46.09,0:05:49.49,Dialogue,,0,0,0,,Но почему он выставил свои детские игрушки
+Dialogue: 30,0:05:49.49,0:05:52.20,Dialogue,,0,0,0,,как призы в тире?
+Dialogue: 30,0:05:52.20,0:05:54.09,Dialogue,,0,0,0,,Он всегда один,
+Dialogue: 30,0:05:54.09,0:05:57.92,Dialogue,,0,0,0,,но, наверное, хочет иногда повеселиться с друзьями.
+Dialogue: 30,0:05:58.31,0:05:59.75,Dialogue,,0,0,0,,Понимаю…
+Dialogue: 30,0:05:59.75,0:06:00.77,Dialogue,,0,0,0,,Отлично!
+Dialogue: 30,0:06:00.77,0:06:03.46,Dialogue,,0,0,0,,С этим я ему помогу!
+Dialogue: 30,0:06:06.99,0:06:09.34,Dialogue,,0,0,0,,Добро пожаловать, добро пострелять!
+Dialogue: 30,0:06:09.34,0:06:11.93,Dialogue,,0,0,0,,Тир кружка флористики!
+Dialogue: 30,0:06:12.34,0:06:15.39,Dialogue,,0,0,0,,Посмотрите на прекрасную как цветок девушку с обложки!
+Dialogue: 30,0:06:15.39,0:06:19.63,Dialogue,,0,0,0,,Красотка поразившая меня прямо в сердце — даром!
+Dialogue: 30,0:06:19.63,0:06:21.31,Dialogue,,0,0,0,,Ты её без спросу даришь, дракони…
+Dialogue: 30,0:06:21.82,0:06:25.03,Dialogue,,0,0,0,,Так и знал, что если кто и будет орать чушь,
+Dialogue: 30,0:06:25.03,0:06:27.24,Dialogue,,0,0,0,,так это ты, Эруна.
+Dialogue: 30,0:06:27.24,0:06:29.82,Dialogue,,0,0,0,,Даже Сэйса здесь.\NПодрабатываете в тире?
+Dialogue: 30,0:06:29.82,0:06:34.13,Dialogue,,0,0,0,,Так и знала, что если кто и поприветствует гадостями, так это ты, Акама!
+Dialogue: 30,0:06:34.13,0:06:35.66,Dialogue,,0,0,0,,Хочешь пострелять?
+Dialogue: 30,0:06:35.66,0:06:38.12,Dialogue,,0,0,0,,Дам персональную скидку!
+Dialogue: 30,0:06:38.12,0:06:40.47,Dialogue,,0,0,0,,Эй, в каком месте это — скидка?
+Dialogue: 30,0:06:40.47,0:06:42.99,Dialogue,,0,0,0,,Ты же, наоборот, цену задрала!
+Dialogue: 30,0:06:43.74,0:06:45.34,Dialogue,,0,0,0,,Тебе показалось. Показалось.
+Dialogue: 30,0:06:45.84,0:06:48.13,Dialogue,,0,0,0,,Да и, независимо от цены,
+Dialogue: 30,0:06:48.13,0:06:50.30,Dialogue,,0,0,0,,кому сдались эти…
 Dialogue: 30,0:06:50.30,0:06:51.47,Dialogue Italics,,0,0,0,,Это же…{That's…}
-Dialogue: 30,0:06:54.93,0:06:56.38,Dialogue,,0,0,0,,Что с тобой, дракони?{What's wrong, ryui?}
-Dialogue: 30,0:06:56.38,0:06:58.57,Dialogue,,0,0,0,,Хочешь Чудотворца, дракони?{Do you want that Miracle Man, ryui?}
-Dialogue: 30,0:06:58.57,0:07:00.32,Dialogue,,0,0,0,,Н-ничего подобного!{I don't want that!}
-Dialogue: 30,0:07:00.32,0:07:02.64,Dialogue,,0,0,0,,Призы меня не волнуют… но…{I don't want it, but you know—}
-Dialogue: 30,0:07:02.64,0:07:05.61,Dialogue,,0,0,0,,Интересно, смогу ли я его выстрелом сбить…{I wonder if I can shoot down something that big.}
-Dialogue: 30,0:07:05.61,0:07:07.82,Dialogue,,0,0,0,,Проверю, только и всего.{Guess I just want a challenge.}
-Dialogue: 30,0:07:11.89,0:07:15.49,Dialogue,,0,0,0,,А ты не только с косой в руках хорошо смотришься!{Oh, you look good even when your weapon's not a scythe!}
-Dialogue: 30,0:07:15.98,0:07:18.96,Dialogue,,0,0,0,,Куча зрителей как из-под земли выросла, дракони!{A bunch of customers showed up before we knew it, ryui!}
-Dialogue: 30,0:07:18.96,0:07:22.34,Dialogue,,0,0,0,,Если так пойдёт, мы заработаем много баллов, дракони!{If this works, we'll rake in the points, ryui!}
-Dialogue: 30,0:07:22.34,0:07:24.47,Dialogue,,0,0,0,,Давай, сбей его, Акама!{Knock it over with style, Akama-kun!}
-Dialogue: 30,0:07:24.47,0:07:25.87,Dialogue,,0,0,0,,Твоих советов мне не хватало!{Who do you think you're talking to?}
-Dialogue: 30,0:07:25.87,0:07:28.01,Dialogue,,0,0,0,,На меня и так все смотрят!{I'm \i1great\i0 under pressure!}
+Dialogue: 30,0:06:54.93,0:06:56.38,Dialogue,,0,0,0,,Что с тобой, дракони?
+Dialogue: 30,0:06:56.38,0:06:58.57,Dialogue,,0,0,0,,Хочешь Чудотворца, дракони?
+Dialogue: 30,0:06:58.57,0:07:00.32,Dialogue,,0,0,0,,Н-ничего подобного!
+Dialogue: 30,0:07:00.32,0:07:02.64,Dialogue,,0,0,0,,Призы меня не волнуют… но…
+Dialogue: 30,0:07:02.64,0:07:05.61,Dialogue,,0,0,0,,Интересно, смогу ли я его выстрелом сбить…
+Dialogue: 30,0:07:05.61,0:07:07.82,Dialogue,,0,0,0,,Проверю, только и всего.
+Dialogue: 30,0:07:11.89,0:07:15.49,Dialogue,,0,0,0,,А ты не только с косой в руках хорошо смотришься!
+Dialogue: 30,0:07:15.98,0:07:18.96,Dialogue,,0,0,0,,Куча зрителей как из-под земли выросла, дракони!
+Dialogue: 30,0:07:18.96,0:07:22.34,Dialogue,,0,0,0,,Если так пойдёт, мы заработаем много баллов, дракони!
+Dialogue: 30,0:07:22.34,0:07:24.47,Dialogue,,0,0,0,,Давай, сбей его, Акама!
+Dialogue: 30,0:07:24.47,0:07:25.87,Dialogue,,0,0,0,,Твоих советов мне не хватало!
+Dialogue: 30,0:07:25.87,0:07:28.01,Dialogue,,0,0,0,,На меня и так все смотрят!
 Dialogue: 30,0:07:30.55,0:07:33.14,Dialogue Italics,,0,0,0,,{\ko129}{\2a&HFF&}Успокойся, {Focus, }{\ko135}успокойся…{focus…}
-Dialogue: 30,0:07:34.05,0:07:37.85,Dialogue,,0,0,0,,Чудотворец теперь мой!{Miracle Man is mine!}
-Dialogue: 30,0:07:40.39,0:07:41.73,Dialogue,,0,0,0,,Как?!{Wh—?!}
-Dialogue: 30,0:07:42.06,0:07:43.63,Dialogue,,0,0,0,,Даже не шелохнулся.{It didn't even budge.}
-Dialogue: 30,0:07:43.63,0:07:44.72,Dialogue,,0,0,0,,Дело плохо, дракони.{This is bad, ryui.}
-Dialogue: 30,0:07:44.72,0:07:46.52,Dialogue,,0,0,0,,Зрители косо смотрят, дракони.{The customers are starting to complain, ryui.}
-Dialogue: 30,0:07:46.52,0:07:48.67,Dialogue,,0,0,0,,Не собьёшь даже если попадёшь…{Maybe it won't fall over even if you hit it…}
-Dialogue: 30,0:07:48.67,0:07:50.36,Dialogue,,0,0,0,,Как думаешь, они приклеены?{Do you think it's rigged?}
-Dialogue: 30,0:07:50.36,0:07:51.32,Dialogue,,0,0,0,,Акама!{Akama-kun!}
-Dialogue: 30,0:07:51.32,0:07:52.28,Dialogue,,0,0,0,,Поймал!{Okay!}
-Dialogue: 30,0:08:01.05,0:08:02.58,Dialogue,,0,0,0,,Эруночка, милая,{Ichinomiya-chan,}
-Dialogue: 30,0:08:02.58,0:08:05.42,Dialogue,,0,0,0,,исполнишь моё последнее желание?{will you listen to my last request?}
-Dialogue: 30,0:08:05.42,0:08:06.62,Dialogue,,0,0,0,,Выбей его…{I'm leaving…}
-Dialogue: 30,0:08:06.62,0:08:09.55,Dialogue,,0,0,0,,Выбей Суперчудотворца…{Super Miracle Man to you…}
-Dialogue: 30,0:08:09.55,0:08:11.10,Dialogue,,0,0,0,,Акама!{Akama-kun!}
-Dialogue: 30,0:08:12.16,0:08:13.47,Dialogue,,0,0,0,,Акама,{Akama-kun,}
-Dialogue: 30,0:08:13.47,0:08:15.51,Dialogue,,0,0,0,,я отомщу за тебя!{I will avenge you!}
-Dialogue: 30,0:08:15.51,0:08:17.36,Dialogue,,0,0,0,,Эй, он что, помер, дракони?!{He's dead, ryui?!}
-Dialogue: 30,0:08:17.36,0:08:18.60,Dialogue,,0,0,0,,Акама умер, дракони?{Did Akama-kun die, ryui?}
-Dialogue: 30,0:08:23.23,0:08:25.19,Dialogue,,0,0,0,,Э… Эруна, ты что…{E-Eruna, don't tell me…}
-Dialogue: 30,0:08:25.19,0:08:27.15,Dialogue,,0,0,0,,Огонь!{Go!}
-Dialogue: 30,0:08:32.07,0:08:33.68,Dialogue,,0,0,0,,Не упал…{It didn't fall over…}
-Dialogue: 30,0:08:33.68,0:08:34.28,Dialogue,,0,0,0,,Почему?{Why?}
-Dialogue: 30,0:08:35.00,0:08:40.54,Dialogue,,0,0,0,,На самом деле ты совсем не хочешь, чтобы Чудотворца кто-то у тебя забрал, Минатогава.{You really don't want that Miracle Man\Nto be taken away, huh, Minatogawa-san?}
-Dialogue: 30,0:08:41.87,0:08:43.25,Dialogue,,0,0,0,,Заметила?{You noticed?}
-Dialogue: 30,0:08:45.29,0:08:46.67,Dialogue,,0,0,0,,А? Что это было?{Huh? What was that?}
-Dialogue: 30,0:08:47.13,0:08:48.88,Dialogue,,0,0,0,,«Эгоистичный цветок».{Selfish Flower.}
-Dialogue: 30,0:08:48.88,0:08:52.90,Dialogue,,0,0,0,,Ожидаемо — ничто не скроется от взора Сэйсы Микагуры.{I guess I can't fool Mikagura Seisa's eyes.}
-Dialogue: 30,0:08:54.08,0:08:55.13,Dialogue,,0,0,0,,Итиномия,{Ichinomiya-san,}
-Dialogue: 30,0:08:55.13,0:08:56.26,Dialogue,,0,0,0,,отойди подальше.{will you stand back?}
-Dialogue: 30,0:08:57.49,0:08:59.67,Dialogue,,0,0,0,,Похоже, ты готова драться, Сэйса.{You look ready to fight, Seisa-san.}
-Dialogue: 30,0:08:59.67,0:09:02.97,Dialogue,,0,0,0,,Если обещаешь, что не помешаешь выиграть Чудотворца,{If you say you'll let Miracle Man go quietly,}
-Dialogue: 30,0:09:02.97,0:09:04.31,Dialogue,,0,0,0,,то обойдёмся без драк.{then I don't have to.}
-Dialogue: 30,0:09:04.70,0:09:07.50,Dialogue,,0,0,0,,Чудотворца я не отдам никому.{I won't give Miracle Man to anyone.}
-Dialogue: 30,0:09:07.50,0:09:09.86,Dialogue,,0,0,0,,Придётся нам с тобой сразиться за него.{Besides, I will get to fight you.}
-Dialogue: 30,0:09:11.00,0:09:13.06,Dialogue,,0,0,0,,Если пожелаешь — так тому и быть.{I have no objection to that.}
-Dialogue: 30,0:09:14.90,0:09:16.22,Dialogue,,0,0,0,,Подождите-ка, дракони!{Wait a minute, ryui!}
-Dialogue: 30,0:09:16.22,0:09:19.20,Dialogue,,0,0,0,,Сэйса, ты же не используешь здесь «Убийственное искусство»?!{Seisa, don't tell me you're going to use Killing Art here?!}
-Dialogue: 30,0:09:22.69,0:09:27.54,Dialogue,,0,0,0,,Сэйса выстрелила не в Чудотворца, а в более лёгкую мишень?..{Seisa-senpai didn't go for Miracle Man\Nand went for something easier instead…?}{выбрала более лёгкую мишень?}
-Dialogue: 30,0:09:27.54,0:09:29.27,Dialogue,,0,0,0,,Уклонилась от боя, дракони?{She avoided the fight, ryui?}
-Dialogue: 30,0:09:29.27,0:09:30.96,Dialogue,,0,0,0,,Это на неё не похоже, дракони.{That's not like her, ryui.}
-Dialogue: 30,0:09:30.96,0:09:32.11,Dialogue,,0,0,0,,Не сказал бы.{I wonder…}
-Dialogue: 30,0:09:32.11,0:09:33.88,Dialogue,,0,0,0,,Взгляните на Минатогаву.{Look at Minatogawa-san's face.}
-Dialogue: 30,0:09:33.88,0:09:34.84,Dialogue,,0,0,0,,Плак.{Sniff.}
-Dialogue: 30,0:09:34.84,0:09:38.01,Dialogue,,0,0,0,,Что?! Он можно сказать плачет!{Why?! Minatogawa-senpai looks really sad!}
-Dialogue: 30,0:09:38.47,0:09:39.97,Dialogue,,0,0,0,,Этой игрушкой{This toy was}
-Dialogue: 30,0:09:40.32,0:09:44.13,Dialogue,,0,0,0,,Минатогава дорожил почти так же, как и Чудотворцем.{second only to Miracle Man in Minatogawa-san's affections.}
-Dialogue: 30,0:09:44.13,0:09:46.02,Dialogue,,0,0,0,,Вот оно что.{Is that right…?}
-Dialogue: 30,0:09:46.02,0:09:49.27,Dialogue,,0,0,0,,Уверен, их связывает известная только им история, дракони.{I'm sure there's a past only the two of them know, ryui.}
-Dialogue: 30,0:09:49.27,0:09:50.44,Dialogue,,0,0,0,,Простите!{Excuse me!}
-Dialogue: 30,0:09:50.44,0:09:52.14,Dialogue,,0,0,0,,Я бы хотел разок выстрелить!{Let me shoot one round, please!}
-Dialogue: 30,0:09:52.14,0:09:53.11,Dialogue,,0,0,0,,И я!{Me, too!}
-Dialogue: 30,0:09:53.11,0:09:55.03,Dialogue,,0,0,0,,С-спасибо…{W-Welcome…}
-Dialogue: 30,0:10:09.46,0:10:13.63,Dialogue,,0,0,0,,Блин, ну и куда Сэйса успела сбежать?{Aw man, where did Seisa-senpai run off to?}
-Dialogue: 30,0:10:13.63,0:10:15.42,Dialogue,,0,0,0,,Только что здесь была, дракони.{She was just here, ryui.}
-Dialogue: 30,0:10:15.42,0:10:18.78,Dialogue,,0,0,0,,Но ведь весело было в тире?{But didn't everyone look like they were having fun?}
-Dialogue: 30,0:10:18.78,0:10:20.37,Dialogue,,0,0,0,,Это точно.{Yeah, you're right.}
-Dialogue: 30,0:10:21.08,0:10:22.51,Dialogue,,0,0,0,,Знаешь, Минатогава{You see, Minatogawa-san…}
-Dialogue: 30,0:10:23.13,0:10:26.23,Dialogue,,0,0,0,,почти всё время в кружке флористики проводит один,{spends a lot of time by himself in the Flower Arrangement Club,}
-Dialogue: 30,0:10:26.23,0:10:30.35,Dialogue,,0,0,0,,так что сейчас рад любым посетителям.{so it seems he's happy just to have visitors.}
-Dialogue: 30,0:10:31.72,0:10:32.78,Dialogue,,0,0,0,,Я это к чему…{That's why…}
-Dialogue: 30,0:10:34.26,0:10:37.18,Dialogue,,0,0,0,,Ты и к нему забегай иногда, Эруна.{you should go visit him sometimes, too, Ichinomiya-chan!}
-Dialogue: 30,0:10:37.18,0:10:38.90,Dialogue,,0,0,0,,Когда свой клуб создашь.{After you form your new club!}
-Dialogue: 30,0:10:38.90,0:10:40.49,Dialogue,,0,0,0,,Да, можешь быть уверен!{Okay, leave it to me!}
-Dialogue: 30,0:10:41.70,0:10:48.07,Dialogue,,0,0,0,,Ой, я же ещё не придумала, чем мой клуб будет заниматься…{Oh right, I haven't decided what to do for my new club, yet…}
-Dialogue: 30,0:10:48.07,0:10:49.52,Dialogue,,0,0,0,,И об этом забыла, дракони?{You forgot about it, ryui?}
-Dialogue: 30,0:10:49.52,0:10:52.17,Dialogue,,0,0,0,,Вот это встреча!{Oh, there you are!}
-Dialogue: 30,0:10:52.17,0:10:56.13,Dialogue,,0,0,0,,Сбежала чтобы самое вкусное слопать, как тебе не стыдно!{No fair, striking first to eat up all the yummy food!}
-Dialogue: 30,0:10:56.13,0:10:57.84,Dialogue,,0,0,0,,Кролемару! Свимяу!{Usamaru! Tonkyun!}
-Dialogue: 30,0:10:57.84,0:11:01.58,Dialogue,,0,0,0,,И это после того, как мы трое победили в первом туре!{Especially after the three of us managed to get through the first round!}
-Dialogue: 30,0:11:01.58,0:11:04.68,Dialogue,,0,0,0,,Если это не молодёжная беззаботность, то что это?{If this isn't what you call passionate youth, then what is?}
-Dialogue: 30,0:11:04.68,0:11:06.89,Dialogue,,0,0,0,,Мы все победили в первом туре?..{The three of us got through the first round…?}
-Dialogue: 30,0:11:06.89,0:11:08.76,Dialogue,,0,0,0,,Итиномия, ты что,{Are you telling me}
-Dialogue: 30,0:11:08.76,0:11:12.48,Dialogue,,0,0,0,,не пришла посмотреть на наши выступления?{you didn't come watch our matches, Ichinomiya-san?}
-Dialogue: 30,0:11:12.48,0:11:16.25,Dialogue,,0,0,0,,К-конечно же нет, генерал МакАртур!{O-O-O-Of course not, General MacArthur!}{она правда МакАртура упоминает или звучание похоже?}
-Dialogue: 30,0:11:16.25,0:11:20.65,Dialogue,,0,0,0,,Чтоб я, да лопала такояки и дурачилась так, что забыла прийти? Да никогда…{Of course I didn't forget about your matches while eating takoyaki and playing…}
-Dialogue: 30,0:11:20.98,0:11:22.13,Dialogue,,0,0,0,,Значит, забыла…{You forgot…}
-Dialogue: 30,0:11:22.13,0:11:23.75,Dialogue,,0,0,0,,прийти?{…to come, huh?}
-Dialogue: 30,0:11:28.81,0:11:31.42,Dialogue,,0,0,0,,А…{U-Um…}
-Dialogue: 30,0:11:32.09,0:11:32.73,Dialogue,,0,0,0,,Да?{Huh?}
-Dialogue: 30,0:11:33.88,0:11:38.17,Dialogue,,0,0,0,,Вы {\i1}точно{\i0} хотите блинчик?{Are you \i1sure\i0 you want a crepe?}
-Dialogue: 30,0:11:38.92,0:11:39.52,Dialogue,,0,0,0,,Что?{Huh?}
-Dialogue: 30,0:11:41.80,0:11:44.76,Dialogue,,0,0,0,,Такие сладости обычно едят девушки и дети.{Crepes are desserts that women and children eat, you know?}
-Dialogue: 30,0:11:44.76,0:11:46.68,Dialogue,,0,0,0,,Даже если вы потом скажете{Even if you say, "This isn't a \i1grape\i0!}
-Dialogue: 30,0:11:46.68,0:11:49.89,Dialogue,,0,0,0,,«Это не блинник! Верните мои деньги!»,{I wanted to eat \i1grapes\i0! I want my money back!" later,}
-Dialogue: 30,0:11:49.89,0:11:52.38,Dialogue,,0,0,0,,я не смогу их вам вернуть…{I can't do anything…}
-Dialogue: 30,0:11:52.38,0:11:53.47,Dialogue,,0,0,0,,Вообще-то…{Now listen…}
-Dialogue: 30,0:11:53.47,0:11:54.76,Dialogue,,0,0,0,,Не пугайся.{Don't worry.}
-Dialogue: 30,0:11:54.76,0:11:55.44,Dialogue,,0,0,0,,А?{Huh?}
-Dialogue: 30,0:11:55.98,0:11:59.72,Dialogue,,0,0,0,,Его можно не бояться — он не кусается.{You don't have to be afraid of him. He won't bite.}
-Dialogue: 30,0:11:59.72,0:12:02.45,Dialogue,,0,0,0,,Давай ты не будешь сравнивать меня с собакой.{Don't compare me to a dog.}
-Dialogue: 30,0:12:02.85,0:12:06.39,Dialogue,,0,0,0,,Я бы хотела попробовать ваш особый блинчик.{I might have one of those special crepes, too.}
-Dialogue: 30,0:12:06.39,0:12:08.51,Dialogue,,0,0,0,,Давно хочу чего-нибудь сладенького,{Because even though I wanted to eat something sweet,}
-Dialogue: 30,0:12:08.51,0:12:11.33,Dialogue,,0,0,0,,а под рукой оказывались одни такояки.{I just kept eating a lot of takoyaki.}
-Dialogue: 30,0:12:11.33,0:12:12.31,Dialogue,,0,0,0,,Извините,{Um…}
-Dialogue: 30,0:12:12.31,0:12:15.92,Dialogue,,0,0,0,,но оставшегося теста хватит на один блинчик,{I'm sorry, there are only enough\N ingredients left for one more crepe…}
-Dialogue: 30,0:12:16.32,0:12:19.63,Dialogue,,0,0,0,,так что обслужить я смогу только одного из вас.{So I can only make it for one of you…}
-Dialogue: 30,0:12:22.88,0:12:25.51,Dialogue,,0,0,0,,Если честно, он кусается, будь осторожна.{Actually, he bites, so be careful.}
-Dialogue: 30,0:12:25.51,0:12:26.25,Dialogue,,0,0,0,,Ой!{What?!}
-Dialogue: 30,0:12:26.25,0:12:28.06,Dialogue,,0,0,0,,Эй, ты чего несёшь?{Hey, what're you saying?}
-Dialogue: 30,0:12:29.07,0:12:30.39,Dialogue,,0,0,0,,Простите!{I'm sorry!}
-Dialogue: 30,0:12:30.39,0:12:32.91,Dialogue,,0,0,0,,Она же и правда испугалась!{Now she really \i1is\i0 scared!}
-Dialogue: 30,0:12:50.14,0:12:51.58,Dialogue,,0,0,0,,Здравствуйте.{Good day to you.}
-Dialogue: 30,0:12:51.58,0:12:54.30,Dialogue,,0,0,0,,Я Харука Тоиси из вещательного кружка.{I'm Toishi Haruka from the Broadcast Club.}
-Dialogue: 30,0:12:54.30,0:12:57.16,Dialogue,,0,0,0,,Наш кружок не может похвастаться известностью,{We're a small club that doesn't stand out much,}
-Dialogue: 30,0:12:57.16,0:13:02.46,Dialogue,,0,0,0,,но я постараюсь победить в юниорском турнире чтобы о нас узнали все!{but I'll work hard to win the rookie\N battle so everyone will recognize us!}
-Dialogue: 30,0:13:02.46,0:13:04.42,Dialogue,,0,0,0,,А она красивая!{Oh, she's pretty!}
-Dialogue: 30,0:13:05.24,0:13:08.79,Dialogue,,0,0,0,,В турнирном рейтинге Харука Тоиси{That's Toishi Haruka-chan from the Broadcast Club,}
-Dialogue: 30,0:13:08.79,0:13:11.26,Dialogue,,0,0,0,,пока занимает второе место, дракони.{expected to rank second in this rookie battle, ryui.}
-Dialogue: 30,0:13:13.22,0:13:16.43,Dialogue,,0,0,0,,Ух ты, Асухи на первом месте!{Wow, Asuhi-kun's ranked first!}
-Dialogue: 30,0:13:18.39,0:13:24.02,Dialogue,,0,0,0,,Да и незнакомых красоток и красавчиков хватает! {There are beautiful girls and boys I haven't seen before here, too!}
-Dialogue: 30,0:13:25.64,0:13:27.72,Dialogue,,0,0,0,,Нашла!{Oh, this is it!}
-Dialogue: 30,0:13:27.72,0:13:28.57,Dialogue,,0,0,0,,Что, дракони?{What's the matter, ryui?}
-Dialogue: 30,0:13:29.02,0:13:31.60,Dialogue,,0,0,0,,Идею для моего клуба…{An idea for my new club…}
-Dialogue: 30,0:13:31.60,0:13:33.36,Dialogue,,0,0,0,,Ты что-то придумала, дракони?{Have you thought of something, ryui?}
-Dialogue: 30,0:13:33.36,0:13:37.16,Dialogue,,0,0,0,,Вот-вот оформится мысля…{It's taking shape in my head right now—}
-Dialogue: 30,0:13:38.29,0:13:40.62,Dialogue,,0,0,0,,Блин, я из-за тебя с мысли сбилась!{Aw man, you made me forget!}
-Dialogue: 30,0:13:40.62,0:13:42.25,Dialogue,,0,0,0,,Она просто огонь!{This girl's cute!}
-Dialogue: 30,0:13:42.88,0:13:44.87,Dialogue,,0,0,0,,И правда!{Oh, she is!}
-Dialogue: 30,0:13:44.87,0:13:46.70,Dialogue,,0,0,0,,Девушка моей мечты!{She's just my type!}
-Dialogue: 30,0:13:46.70,0:13:48.39,Dialogue,,0,0,0,,Пятое место в рейтинге,{Expected to rank fifth,}
-Dialogue: 30,0:13:48.39,0:13:51.20,Dialogue,,0,0,0,,Азуми Сагара из духового оркестра.{Sagara Azumi from the Brass Band Club.}
-Dialogue: 30,0:13:51.20,0:13:53.64,Dialogue,,0,0,0,,По-моему она твой следующий противник.{I believe she's your next opponent, Usamaru.}
-Dialogue: 30,0:13:53.64,0:13:55.38,Dialogue,,0,0,0,,Правда?!{Seriously?!}
-Dialogue: 30,0:13:55.38,0:13:57.10,Dialogue,,0,0,0,,Тут есть видео.{It looks like there's a video of her.}
-Dialogue: 30,0:13:57.10,0:13:59.06,Dialogue,,0,0,0,,Давайте посмотрим!{Let's watch it!}
-Dialogue: 30,0:14:00.17,0:14:03.15,Dialogue,,0,0,0,,Я Азуми Сагара из духового оркестра.{I'm Sagara Azumi from the Brass Band Club.}
-Dialogue: 30,0:14:03.15,0:14:05.86,Dialogue,,0,0,0,,Если моё музыкальное представление{If my musical performance during the rookie battle}
-Dialogue: 30,0:14:05.86,0:14:08.65,Dialogue,,0,0,0,,на юниорском турнире вам понравится,{can be enjoyed by as many people as possible,}
-Dialogue: 30,0:14:08.65,0:14:10.04,Dialogue,,0,0,0,,я буду счастлива!{I'd be so happy!}
-Dialogue: 30,0:14:10.04,0:14:12.36,Dialogue,,0,0,0,,Она мой противник?..{She's my next opponent…?}
-Dialogue: 30,0:14:12.36,0:14:13.61,Dialogue,,0,0,0,,Плохо!{This is crazytrouble!}
-Dialogue: 30,0:14:13.61,0:14:14.99,Dialogue,,0,0,0,,Очень плохо!{Seriously crazybig trouble!}
-Dialogue: 30,0:14:14.99,0:14:19.77,Dialogue,,0,0,0,,Я предчувствую рождение трагической любви{I feel like a forbidden love will bud at the end} в полной накала битве!{of a dramatic match during the rookie battle!}
-Dialogue: 30,0:14:19.77,0:14:22.08,Dialogue,,0,0,0,,Вот она, молодость!{No doubt about it, this is passionate youth!}
-Dialogue: 30,0:14:22.08,0:14:24.33,Dialogue,,0,0,0,,Бурная молодость!{Super passionate youth!}
-Dialogue: 30,0:14:25.78,0:14:27.88,Dialogue,,0,0,0,,Драматический кружок ничем не торгует?{The Drama Club doesn't have a booth?}
-Dialogue: 30,0:14:27.88,0:14:30.39,Dialogue,,0,0,0,,В этом году у нас проблем с деньгами нет,{The Drama Club doesn't need more funds,}
-Dialogue: 30,0:14:30.39,0:14:32.43,Dialogue,,0,0,0,,так что решили ничего не делать.{so apparently we're taking a break this year.}
-Dialogue: 30,0:14:33.64,0:14:35.76,Dialogue,,0,0,0,,Вы чего без меня ушли?!{Hey, are you just leaving me alone?!}
-Dialogue: 30,0:14:35.76,0:14:39.77,Dialogue,,0,0,0,,Я, может, влюбился, а вам ни капельки не интересно?!{Honestly, don't you have a speck of interest in my love life?!}
-Dialogue: 30,0:14:40.34,0:14:41.34,Dialogue,,0,0,0,,Нет.{No.}{Right.}
-Dialogue: 30,0:14:41.34,0:14:42.06,Dialogue,,0,0,0,,Неа.{Nope.}{We're not.}
-Dialogue: 30,0:14:42.06,0:14:45.06,Dialogue,,0,0,0,,Вы слишком честные…{You guys are too honest…}
-Dialogue: 30,0:14:48.34,0:14:49.69,Dialogue,,0,0,0,,Портретисты!{It's a portrait painter!}
-Dialogue: 30,0:14:50.27,0:14:51.65,Dialogue,,0,0,0,,Кружок искусств?{It's the Art Club, huh?}
-Dialogue: 30,0:14:51.96,0:14:54.01,Dialogue,,0,0,0,,Я хочу свой портрет!{I'll have them draw me!}
-Dialogue: 30,0:14:54.01,0:14:55.20,Dialogue,,0,0,0,,Добро пожаловать.{Welcome.}
-Dialogue: 30,0:14:55.20,0:14:57.66,Dialogue,,0,0,0,,В каком стиле вас нарисовать?{What kind of portrait would you like?}
-Dialogue: 30,0:14:58.01,0:15:00.65,Dialogue,,0,0,0,,Напишите портрет так, будто хотели меня порадовать,{I'd like a portrait where you try to make me feel good}
-Dialogue: 30,0:15:00.65,0:15:04.92,Dialogue,,0,0,0,,но приукрасили настолько, что стало непонятно с кого он написан.{by making me look so handsome you can't tell what the picture was based on!}
-Dialogue: 30,0:15:04.92,0:15:06.00,Dialogue,,0,0,0,,Хорошо…{I see…}
-Dialogue: 30,0:15:06.00,0:15:09.32,Dialogue,,0,0,0,,Разве такое можно будет назвать портретом?{Could you even call that a portrait?}
-Dialogue: 30,0:15:09.32,0:15:10.90,Dialogue,,0,0,0,,Я тоже хочу портрет!{I want one drawn, too!}
-Dialogue: 30,0:15:10.90,0:15:17.22,Dialogue,,0,0,0,,На нём Сэйса будет крепко меня обнимать, целовать, и всё такое…{One where Seisa-senpai is\N holding me tight, kissing me, and…}
-Dialogue: 30,0:15:17.72,0:15:21.31,Dialogue,,0,0,0,,Я начинаю сомневаться,\Nзнаю ли я значение слова «портрет».{I don't know if I understand what a portrait is anymore…}
-Dialogue: 30,0:15:21.66,0:15:22.40,Dialogue,,0,0,0,,Точно!{I know!}
-Dialogue: 30,0:15:22.40,0:15:25.42,Dialogue,,0,0,0,,Может быть меня нарисует Эноян?{Since I'm here, maybe I'll have Enoyan-senpai draw me!}
-Dialogue: 30,0:15:25.42,0:15:26.90,Dialogue,,0,0,0,,Эноян?{"Enoyan"…?}
-Dialogue: 30,0:15:27.26,0:15:28.36,Dialogue,,0,0,0,,Кудзурю!{Kuzuryu-senpai!}
-Dialogue: 30,0:15:30.69,0:15:31.91,Dialogue,,0,0,0,,Извини,{I'm sorry.}
-Dialogue: 30,0:15:31.91,0:15:34.51,Dialogue,,0,0,0,,но Кудзурю очень занят{Kuzuryu-senpai is very busy,}
-Dialogue: 30,0:15:34.51,0:15:36.78,Dialogue,,0,0,0,,поэтому портреты здесь не рисует.{so he doesn't come to places like this.}
-Dialogue: 30,0:15:37.28,0:15:39.74,Dialogue,,0,0,0,,Вот как…{Oh, is that right /so/?}
-Dialogue: 30,0:15:40.21,0:15:43.48,Dialogue,,0,0,0,,Так, напомни, пожалуйста, какой тебе портрет?{Let's see… What kind of picture did you want again?}
-Dialogue: 30,0:15:43.48,0:15:45.46,Dialogue,,0,0,0,,Да-да. Понимаешь,{Oh, right! Well, you see,}
-Dialogue: 30,0:15:45.83,0:15:50.54,Dialogue,,0,0,0,,эта история начинается с того, что в меня влюбляется одна девушка!{this story starts with a girl falling in love with me!}
-Dialogue: 30,0:15:50.54,0:15:52.13,Dialogue,,0,0,0,,История?..{A story…?}
-Dialogue: 30,0:15:52.13,0:15:55.59,Dialogue,,0,0,0,,Да, это будет история на гигантском свитке-картине!{Well, it's a gigantic picture scroll story!}
-Dialogue: 30,0:15:55.59,0:15:56.84,Dialogue,,0,0,0,,И ещё, та девушка —{When I say "girl,"}
-Dialogue: 30,0:15:56.84,0:15:59.94,Dialogue,,0,0,0,,она для меня как богиня!{I mean she's someone who's just like a goddess!}
-Dialogue: 30,0:15:59.94,0:16:01.74,Dialogue,,0,0,0,,А ещё она…{And well, she…}
-Dialogue: 30,0:16:02.90,0:16:05.08,Dialogue,,0,0,0,,Меня в щёчку, понимаешь…{On my cheek, you know…}{кажется, тут я и её, и ансаб потерял}
-Dialogue: 30,0:16:06.03,0:16:08.44,Dialogue,,0,0,0,,ц-целует…{She g-gives me kisses…}
-Dialogue: 30,0:16:10.49,0:16:12.27,Dialogue,,0,0,0,,Ты ведь видел что произошло?{You were watching earlier, weren't you?}
-Dialogue: 30,0:16:12.27,0:16:14.49,Dialogue,,0,0,0,,Тогда, в тире Минатогавы.{At Minatogawa-san's booth.}
-Dialogue: 30,0:16:15.04,0:16:17.18,Dialogue,,0,0,0,,Разве тебе не хочется повеселиться{Don't you actually want to have fun}
-Dialogue: 30,0:16:17.18,0:16:19.20,Dialogue,,0,0,0,,с одноклубниками?{with your underclassmen, too/, Kuzuryu-san/?}
-Dialogue: 30,0:16:20.77,0:16:23.68,Dialogue,,0,0,0,,А тебе каким ветром голову надуло?{What about you? What's with this curious turn of events?}
-Dialogue: 30,0:16:24.90,0:16:27.23,Dialogue,,0,0,0,,Похоже, ты уже забыла про скуку{You seem to be having an awful lot of fun}
-Dialogue: 30,0:16:27.23,0:16:28.13,Dialogue,,0,0,0,,благодаря Эруне.{with Eruna around.}
-Dialogue: 30,0:16:28.87,0:16:30.50,Dialogue,,0,0,0,,Думаешь?..{I am…?}
-Dialogue: 30,0:16:31.66,0:16:33.92,Dialogue,,0,0,0,,Хотя, это не моё дело.{Not like it matters to me, though.}
-Dialogue: 30,0:16:37.57,0:16:39.60,Dialogue,,0,0,0,,Сэйса!{Senpai!}
-Dialogue: 30,0:16:42.69,0:16:43.88,Dialogue,,0,0,0,,Сэйса!{Senpai!}
-Dialogue: 30,0:16:43.88,0:16:45.01,Dialogue,,0,0,0,,И правда…{I wonder…}
-Dialogue: 30,0:16:45.01,0:16:46.58,Dialogue,,0,0,0,,Что это со мной?{What has gotten into me?}
-Dialogue: 30,0:16:48.58,0:16:50.15,Dialogue,,0,0,0,,Полный заряд!{Tension Max!}
-Dialogue: 30,0:16:50.15,0:16:51.92,Dialogue,,0,0,0,,Огонь!{Go!}
-Dialogue: 30,0:16:57.62,0:17:01.30,Dialogue,,0,0,0,,Фуух… Как-то и второй тур прошла!{Whew… I made it past the second round!}
-Dialogue: 30,0:17:01.30,0:17:03.90,Dialogue,,0,0,0,,Сложно было,{It was pretty hard.}
-Dialogue: 30,0:17:03.90,0:17:07.84,Dialogue,,0,0,0,,зато так весело, что хочу продолжения!{But it was fun, so I want to fight even more!}
-Dialogue: 30,0:17:07.84,0:17:09.62,Dialogue,,0,0,0,,Хоть сейчас в бой!{Bring it on!}
-Dialogue: 30,0:17:09.62,0:17:11.96,Dialogue,,0,0,0,,Энергии у тебя хватает, дракони.{You've got way too much energy, huh, ryui?}
-Dialogue: 30,0:17:11.96,0:17:13.73,Dialogue,,0,0,0,,Я думал ты не победишь,{I wasn't sure what would happen}
-Dialogue: 30,0:17:13.73,0:17:15.87,Dialogue,,0,0,0,,когда ты сначала едва не опоздала,{in the second round when you were}
-Dialogue: 30,0:17:15.87,0:17:18.84,Dialogue,,0,0,0,,а потом металась из стороны в сторону, дракони.{almost late and ran over unsteadily, ryui.}
-Dialogue: 30,0:17:18.84,0:17:21.10,Dialogue,,0,0,0,,А у остальных как дела?{I wonder how everyone else is doing?}
-Dialogue: 30,0:17:21.10,0:17:22.86,Dialogue,,0,0,0,,Асухи и Свимяу{Looks like Asuhi-kun and Tonkyun}
-Dialogue: 30,0:17:22.86,0:17:25.76,Dialogue,,0,0,0,,тоже победили во втором туре, дракони.{both won in the second round, too, ryui.}
-Dialogue: 30,0:17:25.76,0:17:29.46,Dialogue,,0,0,0,,Думаю, вам придётся ещё сразиться друг с другом, дракони!{At this rate, there's no doubt you'll have to fight them sometime, ryui!}
-Dialogue: 30,0:17:29.46,0:17:31.15,Dialogue,,0,0,0,,Как мы и хотели.{That's just what we wanted.}
-Dialogue: 30,0:17:31.15,0:17:32.46,Dialogue,,0,0,0,,Кто ещё остался…{All that's left is…}
-Dialogue: 30,0:17:32.46,0:17:33.52,Dialogue,,0,0,0,,Кролемару!{Usamaru!}
-Dialogue: 30,0:17:33.52,0:17:35.87,Dialogue,,0,0,0,,Его матч скоро начнётся.{Usamaru's match is just ahead.}
-Dialogue: 30,0:17:35.87,0:17:38.16,Dialogue,,0,0,0,,Мы же успеем? Пойдём, поболеем за него!{We'll make it, right? Let's go cheer for him!}
+Dialogue: 30,0:07:34.05,0:07:37.85,Dialogue,,0,0,0,,Чудотворец теперь мой!
+Dialogue: 30,0:07:40.39,0:07:41.73,Dialogue,,0,0,0,,Как?!
+Dialogue: 30,0:07:42.06,0:07:43.63,Dialogue,,0,0,0,,Даже не шелохнулся.
+Dialogue: 30,0:07:43.63,0:07:44.72,Dialogue,,0,0,0,,Дело плохо, дракони.
+Dialogue: 30,0:07:44.72,0:07:46.52,Dialogue,,0,0,0,,Зрители косо смотрят, дракони.
+Dialogue: 30,0:07:46.52,0:07:48.67,Dialogue,,0,0,0,,Не собьёшь даже если попадёшь…
+Dialogue: 30,0:07:48.67,0:07:50.36,Dialogue,,0,0,0,,Как думаешь, они приклеены?
+Dialogue: 30,0:07:50.36,0:07:51.32,Dialogue,,0,0,0,,Акама!
+Dialogue: 30,0:07:51.32,0:07:52.28,Dialogue,,0,0,0,,Поймал!
+Dialogue: 30,0:08:01.05,0:08:02.58,Dialogue,,0,0,0,,Эруночка, милая,
+Dialogue: 30,0:08:02.58,0:08:05.42,Dialogue,,0,0,0,,исполнишь моё последнее желание?
+Dialogue: 30,0:08:05.42,0:08:06.62,Dialogue,,0,0,0,,Выбей его…
+Dialogue: 30,0:08:06.62,0:08:09.55,Dialogue,,0,0,0,,Выбей Суперчудотворца…
+Dialogue: 30,0:08:09.55,0:08:11.10,Dialogue,,0,0,0,,Акама!
+Dialogue: 30,0:08:12.16,0:08:13.47,Dialogue,,0,0,0,,Акама,
+Dialogue: 30,0:08:13.47,0:08:15.51,Dialogue,,0,0,0,,я отомщу за тебя!
+Dialogue: 30,0:08:15.51,0:08:17.36,Dialogue,,0,0,0,,Эй, он что, помер, дракони?!
+Dialogue: 30,0:08:17.36,0:08:18.60,Dialogue,,0,0,0,,Акама умер, дракони?
+Dialogue: 30,0:08:23.23,0:08:25.19,Dialogue,,0,0,0,,Э… Эруна, ты что…
+Dialogue: 30,0:08:25.19,0:08:27.15,Dialogue,,0,0,0,,Огонь!
+Dialogue: 30,0:08:32.07,0:08:33.68,Dialogue,,0,0,0,,Не упал…
+Dialogue: 30,0:08:33.68,0:08:34.28,Dialogue,,0,0,0,,Почему?
+Dialogue: 30,0:08:35.00,0:08:40.54,Dialogue,,0,0,0,,На самом деле ты совсем не хочешь, чтобы Чудотворца кто-то у тебя забрал, Минатогава.
+Dialogue: 30,0:08:41.87,0:08:43.25,Dialogue,,0,0,0,,Заметила?
+Dialogue: 30,0:08:45.29,0:08:46.67,Dialogue,,0,0,0,,А? Что это было?
+Dialogue: 30,0:08:47.13,0:08:48.88,Dialogue,,0,0,0,,«Эгоистичный цветок».
+Dialogue: 30,0:08:48.88,0:08:52.90,Dialogue,,0,0,0,,Ожидаемо — ничто не скроется от взора Сэйсы Микагуры.
+Dialogue: 30,0:08:54.08,0:08:55.13,Dialogue,,0,0,0,,Итиномия,
+Dialogue: 30,0:08:55.13,0:08:56.26,Dialogue,,0,0,0,,отойди подальше.
+Dialogue: 30,0:08:57.49,0:08:59.67,Dialogue,,0,0,0,,Похоже, ты готова драться, Сэйса.
+Dialogue: 30,0:08:59.67,0:09:02.97,Dialogue,,0,0,0,,Если обещаешь, что не помешаешь выиграть Чудотворца,
+Dialogue: 30,0:09:02.97,0:09:04.31,Dialogue,,0,0,0,,то обойдёмся без драк.
+Dialogue: 30,0:09:04.70,0:09:07.50,Dialogue,,0,0,0,,Чудотворца я не отдам никому.
+Dialogue: 30,0:09:07.50,0:09:09.86,Dialogue,,0,0,0,,Придётся нам с тобой сразиться за него.
+Dialogue: 30,0:09:11.00,0:09:13.06,Dialogue,,0,0,0,,Если пожелаешь — так тому и быть.
+Dialogue: 30,0:09:14.90,0:09:16.22,Dialogue,,0,0,0,,Подождите-ка, дракони!
+Dialogue: 30,0:09:16.22,0:09:19.20,Dialogue,,0,0,0,,Сэйса, ты же не используешь здесь «Убийственное искусство»?!
+Dialogue: 30,0:09:22.69,0:09:27.54,Dialogue,,0,0,0,,Сэйса выстрелила не в Чудотворца, а в более лёгкую мишень?..
+Dialogue: 30,0:09:27.54,0:09:29.27,Dialogue,,0,0,0,,Уклонилась от боя, дракони?
+Dialogue: 30,0:09:29.27,0:09:30.96,Dialogue,,0,0,0,,Это на неё не похоже, дракони.
+Dialogue: 30,0:09:30.96,0:09:32.11,Dialogue,,0,0,0,,Не сказал бы.
+Dialogue: 30,0:09:32.11,0:09:33.88,Dialogue,,0,0,0,,Взгляните на Минатогаву.
+Dialogue: 30,0:09:33.88,0:09:34.84,Dialogue,,0,0,0,,Плак.
+Dialogue: 30,0:09:34.84,0:09:38.01,Dialogue,,0,0,0,,Что?! Он можно сказать плачет!
+Dialogue: 30,0:09:38.47,0:09:39.97,Dialogue,,0,0,0,,Этой игрушкой
+Dialogue: 30,0:09:40.32,0:09:44.13,Dialogue,,0,0,0,,Минатогава дорожил почти так же, как и Чудотворцем.
+Dialogue: 30,0:09:44.13,0:09:46.02,Dialogue,,0,0,0,,Вот оно что.
+Dialogue: 30,0:09:46.02,0:09:49.27,Dialogue,,0,0,0,,Уверен, их связывает известная только им история, дракони.
+Dialogue: 30,0:09:49.27,0:09:50.44,Dialogue,,0,0,0,,Простите!
+Dialogue: 30,0:09:50.44,0:09:52.14,Dialogue,,0,0,0,,Я бы хотел разок выстрелить!
+Dialogue: 30,0:09:52.14,0:09:53.11,Dialogue,,0,0,0,,И я!
+Dialogue: 30,0:09:53.11,0:09:55.03,Dialogue,,0,0,0,,С-спасибо…
+Dialogue: 30,0:10:09.46,0:10:13.63,Dialogue,,0,0,0,,Блин, ну и куда Сэйса успела сбежать?
+Dialogue: 30,0:10:13.63,0:10:15.42,Dialogue,,0,0,0,,Только что здесь была, дракони.
+Dialogue: 30,0:10:15.42,0:10:18.78,Dialogue,,0,0,0,,Но ведь весело было в тире?
+Dialogue: 30,0:10:18.78,0:10:20.37,Dialogue,,0,0,0,,Это точно.
+Dialogue: 30,0:10:21.08,0:10:22.51,Dialogue,,0,0,0,,Знаешь, Минатогава
+Dialogue: 30,0:10:23.13,0:10:26.23,Dialogue,,0,0,0,,почти всё время в кружке флористики проводит один,
+Dialogue: 30,0:10:26.23,0:10:30.35,Dialogue,,0,0,0,,так что сейчас рад любым посетителям.
+Dialogue: 30,0:10:31.72,0:10:32.78,Dialogue,,0,0,0,,Я это к чему…
+Dialogue: 30,0:10:34.26,0:10:37.18,Dialogue,,0,0,0,,Ты и к нему забегай иногда, Эруна.
+Dialogue: 30,0:10:37.18,0:10:38.90,Dialogue,,0,0,0,,Когда свой клуб создашь.
+Dialogue: 30,0:10:38.90,0:10:40.49,Dialogue,,0,0,0,,Да, можешь быть уверен!
+Dialogue: 30,0:10:41.70,0:10:48.07,Dialogue,,0,0,0,,Ой, я же ещё не придумала, чем мой клуб будет заниматься…
+Dialogue: 30,0:10:48.07,0:10:49.52,Dialogue,,0,0,0,,И об этом забыла, дракони?
+Dialogue: 30,0:10:49.52,0:10:52.17,Dialogue,,0,0,0,,Вот это встреча!
+Dialogue: 30,0:10:52.17,0:10:56.13,Dialogue,,0,0,0,,Сбежала чтобы самое вкусное слопать, как тебе не стыдно!
+Dialogue: 30,0:10:56.13,0:10:57.84,Dialogue,,0,0,0,,Кролемару! Свимяу!
+Dialogue: 30,0:10:57.84,0:11:01.58,Dialogue,,0,0,0,,И это после того, как мы трое победили в первом туре!
+Dialogue: 30,0:11:01.58,0:11:04.68,Dialogue,,0,0,0,,Если это не молодёжная беззаботность, то что это?
+Dialogue: 30,0:11:04.68,0:11:06.89,Dialogue,,0,0,0,,Мы все победили в первом туре?..
+Dialogue: 30,0:11:06.89,0:11:08.76,Dialogue,,0,0,0,,Итиномия, ты что,
+Dialogue: 30,0:11:08.76,0:11:12.48,Dialogue,,0,0,0,,не пришла посмотреть на наши выступления?
+Dialogue: 30,0:11:12.48,0:11:16.25,Dialogue,,0,0,0,,К-конечно же нет, генерал МакАртур!
+Dialogue: 30,0:11:16.25,0:11:20.65,Dialogue,,0,0,0,,Чтоб я, да лопала такояки и дурачилась так, что забыла прийти? Да никогда…
+Dialogue: 30,0:11:20.98,0:11:22.13,Dialogue,,0,0,0,,Значит, забыла…
+Dialogue: 30,0:11:22.13,0:11:23.75,Dialogue,,0,0,0,,прийти?
+Dialogue: 30,0:11:28.81,0:11:31.42,Dialogue,,0,0,0,,А…
+Dialogue: 30,0:11:32.09,0:11:32.73,Dialogue,,0,0,0,,Да?
+Dialogue: 30,0:11:33.88,0:11:38.17,Dialogue,,0,0,0,,Вы {\i1}точно{\i0} хотите блинчик?
+Dialogue: 30,0:11:38.92,0:11:39.52,Dialogue,,0,0,0,,Что?
+Dialogue: 30,0:11:41.80,0:11:44.76,Dialogue,,0,0,0,,Такие сладости обычно едят девушки и дети.
+Dialogue: 30,0:11:44.76,0:11:46.68,Dialogue,,0,0,0,,Даже если вы потом скажете
+Dialogue: 30,0:11:46.68,0:11:49.89,Dialogue,,0,0,0,,«Это не блинник! Верните мои деньги!»,
+Dialogue: 30,0:11:49.89,0:11:52.38,Dialogue,,0,0,0,,я не смогу их вам вернуть…
+Dialogue: 30,0:11:52.38,0:11:53.47,Dialogue,,0,0,0,,Вообще-то…
+Dialogue: 30,0:11:53.47,0:11:54.76,Dialogue,,0,0,0,,Не пугайся.
+Dialogue: 30,0:11:54.76,0:11:55.44,Dialogue,,0,0,0,,А?
+Dialogue: 30,0:11:55.98,0:11:59.72,Dialogue,,0,0,0,,Его можно не бояться — он не кусается.
+Dialogue: 30,0:11:59.72,0:12:02.45,Dialogue,,0,0,0,,Давай ты не будешь сравнивать меня с собакой.
+Dialogue: 30,0:12:02.85,0:12:06.39,Dialogue,,0,0,0,,Я бы хотела попробовать ваш особый блинчик.
+Dialogue: 30,0:12:06.39,0:12:08.51,Dialogue,,0,0,0,,Давно хочу чего-нибудь сладенького,
+Dialogue: 30,0:12:08.51,0:12:11.33,Dialogue,,0,0,0,,а под рукой оказывались одни такояки.
+Dialogue: 30,0:12:11.33,0:12:12.31,Dialogue,,0,0,0,,Извините,
+Dialogue: 30,0:12:12.31,0:12:15.92,Dialogue,,0,0,0,,но оставшегося теста хватит на один блинчик,
+Dialogue: 30,0:12:16.32,0:12:19.63,Dialogue,,0,0,0,,так что обслужить я смогу только одного из вас.
+Dialogue: 30,0:12:22.88,0:12:25.51,Dialogue,,0,0,0,,Если честно, он кусается, будь осторожна.
+Dialogue: 30,0:12:25.51,0:12:26.25,Dialogue,,0,0,0,,Ой!
+Dialogue: 30,0:12:26.25,0:12:28.06,Dialogue,,0,0,0,,Эй, ты чего несёшь?
+Dialogue: 30,0:12:29.07,0:12:30.39,Dialogue,,0,0,0,,Простите!
+Dialogue: 30,0:12:30.39,0:12:32.91,Dialogue,,0,0,0,,Она же и правда испугалась!
+Dialogue: 30,0:12:50.14,0:12:51.58,Dialogue,,0,0,0,,Здравствуйте.
+Dialogue: 30,0:12:51.58,0:12:54.30,Dialogue,,0,0,0,,Я Харука Тоиси из вещательного кружка.
+Dialogue: 30,0:12:54.30,0:12:57.16,Dialogue,,0,0,0,,Наш кружок не может похвастаться известностью,
+Dialogue: 30,0:12:57.16,0:13:02.46,Dialogue,,0,0,0,,но я постараюсь победить в юниорском турнире чтобы о нас узнали все!
+Dialogue: 30,0:13:02.46,0:13:04.42,Dialogue,,0,0,0,,А она красивая!
+Dialogue: 30,0:13:05.24,0:13:08.79,Dialogue,,0,0,0,,В турнирном рейтинге Харука Тоиси
+Dialogue: 30,0:13:08.79,0:13:11.26,Dialogue,,0,0,0,,пока занимает второе место, дракони.
+Dialogue: 30,0:13:13.22,0:13:16.43,Dialogue,,0,0,0,,Ух ты, Асухи на первом месте!
+Dialogue: 30,0:13:18.39,0:13:24.02,Dialogue,,0,0,0,,Да и незнакомых красоток и красавчиков хватает! 
+Dialogue: 30,0:13:25.64,0:13:27.72,Dialogue,,0,0,0,,Нашла!
+Dialogue: 30,0:13:27.72,0:13:28.57,Dialogue,,0,0,0,,Что, дракони?
+Dialogue: 30,0:13:29.02,0:13:31.60,Dialogue,,0,0,0,,Идею для моего клуба…
+Dialogue: 30,0:13:31.60,0:13:33.36,Dialogue,,0,0,0,,Ты что-то придумала, дракони?
+Dialogue: 30,0:13:33.36,0:13:37.16,Dialogue,,0,0,0,,Вот-вот оформится мысля…
+Dialogue: 30,0:13:38.29,0:13:40.62,Dialogue,,0,0,0,,Блин, я из-за тебя с мысли сбилась!
+Dialogue: 30,0:13:40.62,0:13:42.25,Dialogue,,0,0,0,,Она просто огонь!
+Dialogue: 30,0:13:42.88,0:13:44.87,Dialogue,,0,0,0,,И правда!
+Dialogue: 30,0:13:44.87,0:13:46.70,Dialogue,,0,0,0,,Девушка моей мечты!
+Dialogue: 30,0:13:46.70,0:13:48.39,Dialogue,,0,0,0,,Пятое место в рейтинге,
+Dialogue: 30,0:13:48.39,0:13:51.20,Dialogue,,0,0,0,,Азуми Сагара из духового оркестра.
+Dialogue: 30,0:13:51.20,0:13:53.64,Dialogue,,0,0,0,,По-моему она твой следующий противник.
+Dialogue: 30,0:13:53.64,0:13:55.38,Dialogue,,0,0,0,,Правда?!
+Dialogue: 30,0:13:55.38,0:13:57.10,Dialogue,,0,0,0,,Тут есть видео.
+Dialogue: 30,0:13:57.10,0:13:59.06,Dialogue,,0,0,0,,Давайте посмотрим!
+Dialogue: 30,0:14:00.17,0:14:03.15,Dialogue,,0,0,0,,Я Азуми Сагара из духового оркестра.
+Dialogue: 30,0:14:03.15,0:14:05.86,Dialogue,,0,0,0,,Если моё музыкальное представление
+Dialogue: 30,0:14:05.86,0:14:08.65,Dialogue,,0,0,0,,на юниорском турнире вам понравится,
+Dialogue: 30,0:14:08.65,0:14:10.04,Dialogue,,0,0,0,,я буду счастлива!
+Dialogue: 30,0:14:10.04,0:14:12.36,Dialogue,,0,0,0,,Она мой противник?..
+Dialogue: 30,0:14:12.36,0:14:13.61,Dialogue,,0,0,0,,Плохо!
+Dialogue: 30,0:14:13.61,0:14:14.99,Dialogue,,0,0,0,,Очень плохо!
+Dialogue: 30,0:14:14.99,0:14:19.77,Dialogue,,0,0,0,,Я предчувствую рождение трагической любви{I feel like a forbidden love will bud at the end} в полной накала битве!
+Dialogue: 30,0:14:19.77,0:14:22.08,Dialogue,,0,0,0,,Вот она, молодость!
+Dialogue: 30,0:14:22.08,0:14:24.33,Dialogue,,0,0,0,,Бурная молодость!
+Dialogue: 30,0:14:25.78,0:14:27.88,Dialogue,,0,0,0,,Драматический кружок ничем не торгует?
+Dialogue: 30,0:14:27.88,0:14:30.39,Dialogue,,0,0,0,,В этом году у нас проблем с деньгами нет,
+Dialogue: 30,0:14:30.39,0:14:32.43,Dialogue,,0,0,0,,так что решили ничего не делать.
+Dialogue: 30,0:14:33.64,0:14:35.76,Dialogue,,0,0,0,,Вы чего без меня ушли?!
+Dialogue: 30,0:14:35.76,0:14:39.77,Dialogue,,0,0,0,,Я, может, влюбился, а вам ни капельки не интересно?!
+Dialogue: 30,0:14:40.34,0:14:41.34,Dialogue,,0,0,0,,Нет.
+Dialogue: 30,0:14:41.34,0:14:42.06,Dialogue,,0,0,0,,Неа.
+Dialogue: 30,0:14:42.06,0:14:45.06,Dialogue,,0,0,0,,Вы слишком честные…
+Dialogue: 30,0:14:48.34,0:14:49.69,Dialogue,,0,0,0,,Портретисты!
+Dialogue: 30,0:14:50.27,0:14:51.65,Dialogue,,0,0,0,,Кружок искусств?
+Dialogue: 30,0:14:51.96,0:14:54.01,Dialogue,,0,0,0,,Я хочу свой портрет!
+Dialogue: 30,0:14:54.01,0:14:55.20,Dialogue,,0,0,0,,Добро пожаловать.
+Dialogue: 30,0:14:55.20,0:14:57.66,Dialogue,,0,0,0,,В каком стиле вас нарисовать?
+Dialogue: 30,0:14:58.01,0:15:00.65,Dialogue,,0,0,0,,Напишите портрет так, будто хотели меня порадовать,
+Dialogue: 30,0:15:00.65,0:15:04.92,Dialogue,,0,0,0,,но приукрасили настолько, что стало непонятно с кого он написан.
+Dialogue: 30,0:15:04.92,0:15:06.00,Dialogue,,0,0,0,,Хорошо…
+Dialogue: 30,0:15:06.00,0:15:09.32,Dialogue,,0,0,0,,Разве такое можно будет назвать портретом?
+Dialogue: 30,0:15:09.32,0:15:10.90,Dialogue,,0,0,0,,Я тоже хочу портрет!
+Dialogue: 30,0:15:10.90,0:15:17.22,Dialogue,,0,0,0,,На нём Сэйса будет крепко меня обнимать, целовать, и всё такое…
+Dialogue: 30,0:15:17.72,0:15:21.31,Dialogue,,0,0,0,,Я начинаю сомневаться,\Nзнаю ли я значение слова «портрет».
+Dialogue: 30,0:15:21.66,0:15:22.40,Dialogue,,0,0,0,,Точно!
+Dialogue: 30,0:15:22.40,0:15:25.42,Dialogue,,0,0,0,,Может быть меня нарисует Эноян?
+Dialogue: 30,0:15:25.42,0:15:26.90,Dialogue,,0,0,0,,Эноян?
+Dialogue: 30,0:15:27.26,0:15:28.36,Dialogue,,0,0,0,,Кудзурю!
+Dialogue: 30,0:15:30.69,0:15:31.91,Dialogue,,0,0,0,,Извини,
+Dialogue: 30,0:15:31.91,0:15:34.51,Dialogue,,0,0,0,,но Кудзурю очень занят
+Dialogue: 30,0:15:34.51,0:15:36.78,Dialogue,,0,0,0,,поэтому портреты здесь не рисует.
+Dialogue: 30,0:15:37.28,0:15:39.74,Dialogue,,0,0,0,,Вот как…
+Dialogue: 30,0:15:40.21,0:15:43.48,Dialogue,,0,0,0,,Так, напомни, пожалуйста, какой тебе портрет?
+Dialogue: 30,0:15:43.48,0:15:45.46,Dialogue,,0,0,0,,Да-да. Понимаешь,
+Dialogue: 30,0:15:45.83,0:15:50.54,Dialogue,,0,0,0,,эта история начинается с того, что в меня влюбляется одна девушка!
+Dialogue: 30,0:15:50.54,0:15:52.13,Dialogue,,0,0,0,,История?..
+Dialogue: 30,0:15:52.13,0:15:55.59,Dialogue,,0,0,0,,Да, это будет история на гигантском свитке-картине!
+Dialogue: 30,0:15:55.59,0:15:56.84,Dialogue,,0,0,0,,И ещё, та девушка —
+Dialogue: 30,0:15:56.84,0:15:59.94,Dialogue,,0,0,0,,она для меня как богиня!
+Dialogue: 30,0:15:59.94,0:16:01.74,Dialogue,,0,0,0,,А ещё она…
+Dialogue: 30,0:16:02.90,0:16:05.08,Dialogue,,0,0,0,,Меня в щёчку, понимаешь…
+Dialogue: 30,0:16:06.03,0:16:08.44,Dialogue,,0,0,0,,ц-целует…
+Dialogue: 30,0:16:10.49,0:16:12.27,Dialogue,,0,0,0,,Ты ведь видел что произошло?
+Dialogue: 30,0:16:12.27,0:16:14.49,Dialogue,,0,0,0,,Тогда, в тире Минатогавы.
+Dialogue: 30,0:16:15.04,0:16:17.18,Dialogue,,0,0,0,,Разве тебе не хочется повеселиться
+Dialogue: 30,0:16:17.18,0:16:19.20,Dialogue,,0,0,0,,с одноклубниками?
+Dialogue: 30,0:16:20.77,0:16:23.68,Dialogue,,0,0,0,,А тебе каким ветром голову надуло?
+Dialogue: 30,0:16:24.90,0:16:27.23,Dialogue,,0,0,0,,Похоже, ты уже забыла про скуку
+Dialogue: 30,0:16:27.23,0:16:28.13,Dialogue,,0,0,0,,благодаря Эруне.
+Dialogue: 30,0:16:28.87,0:16:30.50,Dialogue,,0,0,0,,Думаешь?..
+Dialogue: 30,0:16:31.66,0:16:33.92,Dialogue,,0,0,0,,Хотя, это не моё дело.
+Dialogue: 30,0:16:37.57,0:16:39.60,Dialogue,,0,0,0,,Сэйса!
+Dialogue: 30,0:16:42.69,0:16:43.88,Dialogue,,0,0,0,,Сэйса!
+Dialogue: 30,0:16:43.88,0:16:45.01,Dialogue,,0,0,0,,И правда…
+Dialogue: 30,0:16:45.01,0:16:46.58,Dialogue,,0,0,0,,Что это со мной?
+Dialogue: 30,0:16:48.58,0:16:50.15,Dialogue,,0,0,0,,Полный заряд!
+Dialogue: 30,0:16:50.15,0:16:51.92,Dialogue,,0,0,0,,Огонь!
+Dialogue: 30,0:16:57.62,0:17:01.30,Dialogue,,0,0,0,,Фуух… Как-то и второй тур прошла!
+Dialogue: 30,0:17:01.30,0:17:03.90,Dialogue,,0,0,0,,Сложно было,
+Dialogue: 30,0:17:03.90,0:17:07.84,Dialogue,,0,0,0,,зато так весело, что хочу продолжения!
+Dialogue: 30,0:17:07.84,0:17:09.62,Dialogue,,0,0,0,,Хоть сейчас в бой!
+Dialogue: 30,0:17:09.62,0:17:11.96,Dialogue,,0,0,0,,Энергии у тебя хватает, дракони.
+Dialogue: 30,0:17:11.96,0:17:13.73,Dialogue,,0,0,0,,Я думал ты не победишь,
+Dialogue: 30,0:17:13.73,0:17:15.87,Dialogue,,0,0,0,,когда ты сначала едва не опоздала,
+Dialogue: 30,0:17:15.87,0:17:18.84,Dialogue,,0,0,0,,а потом металась из стороны в сторону, дракони.
+Dialogue: 30,0:17:18.84,0:17:21.10,Dialogue,,0,0,0,,А у остальных как дела?
+Dialogue: 30,0:17:21.10,0:17:22.86,Dialogue,,0,0,0,,Асухи и Свимяу
+Dialogue: 30,0:17:22.86,0:17:25.76,Dialogue,,0,0,0,,тоже победили во втором туре, дракони.
+Dialogue: 30,0:17:25.76,0:17:29.46,Dialogue,,0,0,0,,Думаю, вам придётся ещё сразиться друг с другом, дракони!
+Dialogue: 30,0:17:29.46,0:17:31.15,Dialogue,,0,0,0,,Как мы и хотели.
+Dialogue: 30,0:17:31.15,0:17:32.46,Dialogue,,0,0,0,,Кто ещё остался…
+Dialogue: 30,0:17:32.46,0:17:33.52,Dialogue,,0,0,0,,Кролемару!
+Dialogue: 30,0:17:33.52,0:17:35.87,Dialogue,,0,0,0,,Его матч скоро начнётся.
+Dialogue: 30,0:17:35.87,0:17:38.16,Dialogue,,0,0,0,,Мы же успеем? Пойдём, поболеем за него!
 Dialogue: 30,0:17:38.16,0:17:38.82,Dialogue Italics,,0,0,0,,Эру!{Eru!}
 Dialogue: 30,0:17:39.18,0:17:40.25,Dialogue Italics,,0,0,0,,Эру!{Eru!}
 Dialogue: 30,0:17:40.25,0:17:42.78,Dialogue Italics,,0,0,0,,Эруне звонит её прекрасный принц!{It's a call from Eruna-chan's dear prince!}
-Dialogue: 30,0:17:44.44,0:17:45.58,Dialogue,,0,0,0,,Алло!{Hello?}
-Dialogue: 30,0:17:45.58,0:17:47.21,Dialogue,,0,0,0,,Не смей влезать в телефон{Could you please not go into my device}
-Dialogue: 30,0:17:47.21,0:17:49.55,Dialogue,,0,0,0,,и менять звонок без спросу!{and change my ringtone without my permission?}{или тут лучше по ансабу?}
-Dialogue: 30,0:17:49.55,0:17:52.64,Dialogue,,0,0,0,,Иначе разрежу наполовину отсечённую родственную связь!{I'll finish off those half-severed familial ties we have!}
+Dialogue: 30,0:17:44.44,0:17:45.58,Dialogue,,0,0,0,,Алло!
+Dialogue: 30,0:17:45.58,0:17:47.21,Dialogue,,0,0,0,,Не смей влезать в телефон
+Dialogue: 30,0:17:47.21,0:17:49.55,Dialogue,,0,0,0,,и менять звонок без спросу!
+Dialogue: 30,0:17:49.55,0:17:52.64,Dialogue,,0,0,0,,Иначе разрежу наполовину отсечённую родственную связь!
 Dialogue: 30,0:17:52.64,0:17:54.57,Dialogue Italics,,0,0,0,,Она уже наполовину отсечена?!{They're half-severed?!}
 Dialogue: 30,0:17:54.57,0:17:56.21,Dialogue Italics,,0,0,0,,Эруня, когда это случилось?!{That's the first I've heard of it, Eruna-chan!}
 Dialogue: 30,0:17:56.21,0:17:59.27,Dialogue Italics,,0,0,0,,И как понимать «наполовину»? Такое вообще возможно?!{Is it even possible to just be half-related?!}
 Dialogue: 30,0:17:59.27,0:18:00.65,Dialogue Italics,,0,0,0,,Я — полукровка?{Does that mean I'm half-Japanese?}
 Dialogue: 30,0:18:00.65,0:18:03.54,Dialogue Italics,,0,0,0,,Полукровки круты, их все любят, так что я даже счастлив!{Half-Japanese are cool and admired, so I'm kind of happy!}
-Dialogue: 30,0:18:03.54,0:18:08.10,Dialogue,,0,0,0,,Насколько клиническим оптимистом надо быть, чтобы найти в этом что-то хорошее?{What kind of filter could possibly turn that into a positive?}
+Dialogue: 30,0:18:03.54,0:18:08.10,Dialogue,,0,0,0,,Насколько клиническим оптимистом надо быть, чтобы найти в этом что-то хорошее?
 Dialogue: 30,0:18:08.10,0:18:09.63,Dialogue Italics,,0,0,0,,Ну…{Who knows?}
 Dialogue: 30,0:18:09.63,0:18:11.15,Dialogue Italics,,0,0,0,,А теперь о важном, Эруночка.{More importantly, Eruna-chan,}
 Dialogue: 30,0:18:11.15,0:18:13.17,Dialogue Italics,,0,0,0,,Поздравляю тебя со второй победой.{congrats on getting through the second round.}
 Dialogue: 30,0:18:13.17,0:18:15.60,Dialogue Italics,,0,0,0,,Устроим вечеринку по этому поводу?{Wanna have a pep rally in your honor tonight?}
-Dialogue: 30,0:18:15.60,0:18:16.44,Dialogue,,0,0,0,,Вечеринку?{A pep rally?}
-Dialogue: 30,0:18:16.84,0:18:21.16,Dialogue,,0,0,0,,А я получу внезапное признание в любви от красотки?{Will there be a surprise where a cute girl appears and confesses her love to/for/ me?!}
+Dialogue: 30,0:18:15.60,0:18:16.44,Dialogue,,0,0,0,,Вечеринку?
+Dialogue: 30,0:18:16.84,0:18:21.16,Dialogue,,0,0,0,,А я получу внезапное признание в любви от красотки?
 Dialogue: 30,0:18:21.16,0:18:22.78,Dialogue Italics,,0,0,0,,А?… Даже не знаю…{Um, well…}
 Dialogue: 30,0:18:22.78,0:18:25.13,Dialogue Italics,,0,0,0,,Не придёшь — не узнаешь.{You'll have to come and find out for yourself.}
-Dialogue: 30,0:18:25.13,0:18:28.79,Dialogue,,0,0,0,,А, ещё я хочу пригласить Сэйсу и Энояна!{Oh, then I want to invite Seisa-senpai and Enoyan-senpai, too!}
+Dialogue: 30,0:18:25.13,0:18:28.79,Dialogue,,0,0,0,,А, ещё я хочу пригласить Сэйсу и Энояна!
 Dialogue: 30,0:18:29.17,0:18:32.92,Dialogue Italics,,0,0,0,,С Сэйсой, думаю, проблем не будет, а вот Кудзурю…{I'll try inviting Seisa-san, but Kuzuryu-kun…}
 Dialogue: 30,0:18:32.92,0:18:34.14,Dialogue Italics,,0,0,0,,Вряд ли придёт.{probably won't come.}
-Dialogue: 30,0:18:34.14,0:18:35.35,Dialogue,,0,0,0,,Почему?{Why not?}
+Dialogue: 30,0:18:34.14,0:18:35.35,Dialogue,,0,0,0,,Почему?
 Dialogue: 30,0:18:35.35,0:18:37.44,Dialogue Italics,,0,0,0,,Не любит он шумные сборища.{He doesn't like stuff like this.}
-Dialogue: 30,0:18:38.55,0:18:40.80,Dialogue,,0,0,0,,Эй, Эруна, если не поспешим,{C'mon, Eruna! If we don't hurry,}
-Dialogue: 30,0:18:40.80,0:18:43.22,Dialogue,,0,0,0,,бой Кролемару начнётся без нас, дракони!{Usamaru's match will start without us, ryui!}
-Dialogue: 30,0:18:52.86,0:18:55.23,Dialogue,,0,0,0,,Его матч здесь проходит?{This is where the match is, right?}
-Dialogue: 30,0:18:55.23,0:18:56.48,Dialogue,,0,0,0,,Да, здесь, дракони.{It should be, ryui.}
-Dialogue: 30,0:18:57.28,0:19:00.69,Dialogue,,0,0,0,,Тогда чего здесь так тихо?{Why is it so quiet?}
-Dialogue: 30,0:19:03.16,0:19:04.42,Dialogue,,0,0,0,,Сэйса!{Seisa-senpai!}
-Dialogue: 30,0:19:04.42,0:19:06.12,Dialogue,,0,0,0,,Кстати, мы вечером…{Oh yeah/right/, tonight—}
-Dialogue: 30,0:19:07.58,0:19:09.28,Dialogue,,0,0,0,,Сэйса?..{Seisa-senpai…?}
-Dialogue: 30,0:19:15.10,0:19:17.58,Dialogue,,0,0,0,,Свимяю, в чём дело?{Tonkyun! What in the world is going on?}
-Dialogue: 30,0:19:27.28,0:19:28.36,Dialogue,,0,0,0,,Кролемару!{Usamaru!}
-Dialogue: 30,0:19:28.36,0:19:29.94,Dialogue,,0,0,0,,Что произошло?!{What happened?!}
-Dialogue: 30,0:19:29.94,0:19:31.08,Dialogue,,0,0,0,,Её спецприём.{It's her attack.}
-Dialogue: 30,0:19:31.08,0:19:31.68,Dialogue,,0,0,0,,Что?!{Huh?!}
-Dialogue: 30,0:19:41.94,0:19:45.16,Dialogue,,0,0,0,,Спецприём Сагары из духового оркестра?{This is Brass Band Club Sagara-san's attack?}
-Dialogue: 30,0:19:48.67,0:19:52.09,Dialogue,,0,0,0,,Как видишь, она использует звуковое давление{Apparently, she is using the acoustic\Npressure from the sound she manipulates}
-Dialogue: 30,0:19:52.09,0:19:55.90,Dialogue,,0,0,0,,чтобы создать нечто вроде зоны повышенной гравитации.{to simulate an increase in gravity.}
-Dialogue: 30,0:19:55.90,0:19:56.83,Dialogue,,0,0,0,,И, что ещё хуже…{On top of that…}
-Dialogue: 30,0:19:58.16,0:19:59.06,Dialogue,,0,0,0,,Она летает?!{She's flying?!}
-Dialogue: 30,0:19:59.06,0:20:01.55,Dialogue,,0,0,0,,Управляя гравитацией она висит в воздухе?{By manipulating gravity, she can keep herself in the air?}
-Dialogue: 30,0:20:01.55,0:20:04.88,Dialogue,,0,0,0,,Но тогда Кролемару ни за что её не достать!{Then Usamaru's attack won't reach her no matter what!}
-Dialogue: 30,0:20:04.88,0:20:06.02,Dialogue,,0,0,0,,Нечестно!{Isn't that cheating?}
-Dialogue: 30,0:20:06.02,0:20:09.23,Dialogue,,0,0,0,,Да, абсолютно безнадёжный для него бой, дракони.{It's a hopeless match-up of abilities, ryui.}
-Dialogue: 30,0:20:09.23,0:20:12.02,Dialogue,,0,0,0,,Жалко на него смотреть, дракони.{Watching makes me feel so bad for him, ryui.}{жаль не могу с серьёзной миной вписать «душераздирающее зрелище».}
-Dialogue: 30,0:20:12.02,0:20:15.23,Dialogue,,0,0,0,,Но почему она до сих пор не разбила последний кристалл?{But why hasn't she broken his last crystal yet?}
-Dialogue: 30,0:20:15.23,0:20:18.31,Dialogue,,0,0,0,,Кролемару не сможет ей помешать.{Usamaru can't do a thing in that state…}
-Dialogue: 30,0:20:18.31,0:20:20.09,Dialogue,,0,0,0,,Она с ним играется.{She's toying with him.}
-Dialogue: 30,0:20:20.09,0:20:21.92,Dialogue,,0,0,0,,Почти с самого начала.{She's been doing it for a while now.}
-Dialogue: 30,0:20:21.92,0:20:24.73,Dialogue,,0,0,0,,Потешается над ним, а он не может ответить.{She hits Usamaru, who's unable to resist, \Nand makes a fool of him…}
-Dialogue: 30,0:20:24.73,0:20:25.90,Dialogue,,0,0,0,,Ужас…{That's terrible…}
-Dialogue: 30,0:20:27.91,0:20:29.50,Dialogue,,0,0,0,,Крольчонок,{Hey, Bunny-kun/Usagi-kun/!}
-Dialogue: 30,0:20:29.50,0:20:31.41,Dialogue,,0,0,0,,не пора ли тебе сдаться?{Shouldn't you give up about now?}
-Dialogue: 30,0:20:31.41,0:20:32.81,Dialogue,,0,0,0,,Ты же понимаешь?{You understand, don't you?}
-Dialogue: 30,0:20:32.81,0:20:36.00,Dialogue,,0,0,0,,Тебе меня ни за что не победить.{That you don't have the slightest chance of winning?}
-Dialogue: 30,0:20:37.13,0:20:38.20,Dialogue,,0,0,0,,Но…{But…}
-Dialogue: 30,0:20:38.20,0:20:41.79,Dialogue,,0,0,0,,разве не круто будет,\Nесли победит заведомо проигравший?{don't you think it would be cool if\N the underdog could win in this play?}
-Dialogue: 30,0:20:41.79,0:20:43.69,Dialogue,,0,0,0,,Только это невозможно.{Silly, that's impossible.}
-Dialogue: 30,0:20:43.69,0:20:46.09,Dialogue,,0,0,0,,Да и не круто ни капли.{Or rather, it's totally not cool.}
-Dialogue: 30,0:20:48.97,0:20:50.93,Dialogue,,0,0,0,,Кролемару!{Usamaru!}
-Dialogue: 30,0:20:50.93,0:20:52.26,Dialogue,,0,0,0,,Прыгай!{Jump!}
-Dialogue: 30,0:20:52.26,0:20:55.27,Dialogue,,0,0,0,,Подпрыгни изо всех сил и сбей её вниз!{Jump with all your might and kick her down!}
-Dialogue: 30,0:20:56.36,0:21:01.10,Dialogue,,0,0,0,,Слышишь, масенький крольчонок?\NТвоя наивная подружка вся испереживалась.{Bunny-kun/Usagi-kun/, look, your icky friend is cheering you on.}
-Dialogue: 30,0:21:01.10,0:21:04.48,Dialogue,,0,0,0,,Кроска-кролик, мозет показешь как ты плыг-скок?{If you're a bunny, why don't you try to hop-hop?}
-Dialogue: 30,0:21:04.48,0:21:06.64,Dialogue,,0,0,0,,Но как бы высоко ты ни прыгнул,{No matter how desperately you jump, though,}
-Dialogue: 30,0:21:06.64,0:21:09.78,Dialogue,,0,0,0,,даже не надейся меня достать.{it's not like you'll be able to reach me.}
-Dialogue: 30,0:21:12.81,0:21:14.99,Dialogue,,0,0,0,,Итиномия…{Ichinomiya-san…}
-Dialogue: 30,0:21:14.99,0:21:18.46,Dialogue,,0,0,0,,На этот раз ты пришла меня поддержать?{You came to cheer me on this time, huh?}
-Dialogue: 30,0:21:18.46,0:21:20.18,Dialogue,,0,0,0,,Не только я!{I'm not the only one!}
-Dialogue: 30,0:21:20.18,0:21:21.88,Dialogue,,0,0,0,,Свимяу тоже за тебя болеет!{Tonkyun's cheering for you, too!}
-Dialogue: 30,0:21:22.41,0:21:24.00,Dialogue,,0,0,0,,Это радует.{That makes me happy…}
-Dialogue: 30,0:21:24.00,0:21:29.19,Dialogue,,0,0,0,,Самое лучшее в соревнованиях — тот задор, который даёт поддержка друзей.{There's nothing with more youthful passion than an event where your friends cheer you on.}
-Dialogue: 30,0:21:29.19,0:21:29.76,Dialogue,,0,0,0,,Теперь я…{With this, I'll…}
-Dialogue: 30,0:21:29.76,0:21:30.62,Dialogue,,0,0,0,,Тьфу.{Damn.}
-Dialogue: 30,0:21:31.68,0:21:32.43,Dialogue,,0,0,0,,Кролемару!{Usamaru!}
-Dialogue: 30,0:21:42.06,0:21:44.33,Dialogue,,0,0,0,,А ведь я сразу это сказала.{I said so from the beginning, didn't I?}
-Dialogue: 30,0:21:44.33,0:21:46.88,Dialogue,,0,0,0,,Кролики это дичь.{Bunnies are meant to be hunted,}
-Dialogue: 30,0:21:46.88,0:21:50.91,Dialogue,,0,0,0,,Всё, что ты можешь — порадовать меня своим плачем.{so you should just cry and make me feel good.}
-Dialogue: 30,0:21:50.91,0:21:53.51,Dialogue,,0,0,0,,На что ты вообще надеялся?{What are you doing actually /\i1/trying/\i0/?}
-Dialogue: 30,0:21:53.51,0:21:55.68,Dialogue,,0,0,0,,Даже повеселить толком не смог.{You're spoiling the fun/It really killed the mood/.}
-Dialogue: 30,0:21:57.94,0:21:59.79,Dialogue,,0,0,0,,За это я и не люблю клубные битвы.{This is why I don't like club battles...}
-Dialogue: 30,0:22:00.18,0:22:00.76,Dialogue,,0,0,0,,А?{Huh?}
+Dialogue: 30,0:18:38.55,0:18:40.80,Dialogue,,0,0,0,,Эй, Эруна, если не поспешим,
+Dialogue: 30,0:18:40.80,0:18:43.22,Dialogue,,0,0,0,,бой Кролемару начнётся без нас, дракони!
+Dialogue: 30,0:18:52.86,0:18:55.23,Dialogue,,0,0,0,,Его матч здесь проходит?
+Dialogue: 30,0:18:55.23,0:18:56.48,Dialogue,,0,0,0,,Да, здесь, дракони.
+Dialogue: 30,0:18:57.28,0:19:00.69,Dialogue,,0,0,0,,Тогда чего здесь так тихо?
+Dialogue: 30,0:19:03.16,0:19:04.42,Dialogue,,0,0,0,,Сэйса!
+Dialogue: 30,0:19:04.42,0:19:06.12,Dialogue,,0,0,0,,Кстати, мы вечером…
+Dialogue: 30,0:19:07.58,0:19:09.28,Dialogue,,0,0,0,,Сэйса?..
+Dialogue: 30,0:19:15.10,0:19:17.58,Dialogue,,0,0,0,,Свимяю, в чём дело?
+Dialogue: 30,0:19:27.28,0:19:28.36,Dialogue,,0,0,0,,Кролемару!
+Dialogue: 30,0:19:28.36,0:19:29.94,Dialogue,,0,0,0,,Что произошло?!
+Dialogue: 30,0:19:29.94,0:19:31.08,Dialogue,,0,0,0,,Её спецприём.
+Dialogue: 30,0:19:31.08,0:19:31.68,Dialogue,,0,0,0,,Что?!
+Dialogue: 30,0:19:41.94,0:19:45.16,Dialogue,,0,0,0,,Спецприём Сагары из духового оркестра?
+Dialogue: 30,0:19:48.67,0:19:52.09,Dialogue,,0,0,0,,Как видишь, она использует звуковое давление
+Dialogue: 30,0:19:52.09,0:19:55.90,Dialogue,,0,0,0,,чтобы создать нечто вроде зоны повышенной гравитации.
+Dialogue: 30,0:19:55.90,0:19:56.83,Dialogue,,0,0,0,,И, что ещё хуже…
+Dialogue: 30,0:19:58.16,0:19:59.06,Dialogue,,0,0,0,,Она летает?!
+Dialogue: 30,0:19:59.06,0:20:01.55,Dialogue,,0,0,0,,Управляя гравитацией она висит в воздухе?
+Dialogue: 30,0:20:01.55,0:20:04.88,Dialogue,,0,0,0,,Но тогда Кролемару ни за что её не достать!
+Dialogue: 30,0:20:04.88,0:20:06.02,Dialogue,,0,0,0,,Нечестно!
+Dialogue: 30,0:20:06.02,0:20:09.23,Dialogue,,0,0,0,,Да, абсолютно безнадёжный для него бой, дракони.
+Dialogue: 30,0:20:09.23,0:20:12.02,Dialogue,,0,0,0,,Жалко на него смотреть, дракони.
+Dialogue: 30,0:20:12.02,0:20:15.23,Dialogue,,0,0,0,,Но почему она до сих пор не разбила последний кристалл?
+Dialogue: 30,0:20:15.23,0:20:18.31,Dialogue,,0,0,0,,Кролемару не сможет ей помешать.
+Dialogue: 30,0:20:18.31,0:20:20.09,Dialogue,,0,0,0,,Она с ним играется.
+Dialogue: 30,0:20:20.09,0:20:21.92,Dialogue,,0,0,0,,Почти с самого начала.
+Dialogue: 30,0:20:21.92,0:20:24.73,Dialogue,,0,0,0,,Потешается над ним, а он не может ответить.
+Dialogue: 30,0:20:24.73,0:20:25.90,Dialogue,,0,0,0,,Ужас…
+Dialogue: 30,0:20:27.91,0:20:29.50,Dialogue,,0,0,0,,Крольчонок,
+Dialogue: 30,0:20:29.50,0:20:31.41,Dialogue,,0,0,0,,не пора ли тебе сдаться?
+Dialogue: 30,0:20:31.41,0:20:32.81,Dialogue,,0,0,0,,Ты же понимаешь?
+Dialogue: 30,0:20:32.81,0:20:36.00,Dialogue,,0,0,0,,Тебе меня ни за что не победить.
+Dialogue: 30,0:20:37.13,0:20:38.20,Dialogue,,0,0,0,,Но…
+Dialogue: 30,0:20:38.20,0:20:41.79,Dialogue,,0,0,0,,разве не круто будет,\Nесли победит заведомо проигравший?
+Dialogue: 30,0:20:41.79,0:20:43.69,Dialogue,,0,0,0,,Только это невозможно.
+Dialogue: 30,0:20:43.69,0:20:46.09,Dialogue,,0,0,0,,Да и не круто ни капли.
+Dialogue: 30,0:20:48.97,0:20:50.93,Dialogue,,0,0,0,,Кролемару!
+Dialogue: 30,0:20:50.93,0:20:52.26,Dialogue,,0,0,0,,Прыгай!
+Dialogue: 30,0:20:52.26,0:20:55.27,Dialogue,,0,0,0,,Подпрыгни изо всех сил и сбей её вниз!
+Dialogue: 30,0:20:56.36,0:21:01.10,Dialogue,,0,0,0,,Слышишь, масенький крольчонок?\NТвоя наивная подружка вся испереживалась.
+Dialogue: 30,0:21:01.10,0:21:04.48,Dialogue,,0,0,0,,Кроска-кролик, мозет показешь как ты плыг-скок?
+Dialogue: 30,0:21:04.48,0:21:06.64,Dialogue,,0,0,0,,Но как бы высоко ты ни прыгнул,
+Dialogue: 30,0:21:06.64,0:21:09.78,Dialogue,,0,0,0,,даже не надейся меня достать.
+Dialogue: 30,0:21:12.81,0:21:14.99,Dialogue,,0,0,0,,Итиномия…
+Dialogue: 30,0:21:14.99,0:21:18.46,Dialogue,,0,0,0,,На этот раз ты пришла меня поддержать?
+Dialogue: 30,0:21:18.46,0:21:20.18,Dialogue,,0,0,0,,Не только я!
+Dialogue: 30,0:21:20.18,0:21:21.88,Dialogue,,0,0,0,,Свимяу тоже за тебя болеет!
+Dialogue: 30,0:21:22.41,0:21:24.00,Dialogue,,0,0,0,,Это радует.
+Dialogue: 30,0:21:24.00,0:21:29.19,Dialogue,,0,0,0,,Самое лучшее в соревнованиях — тот задор, который даёт поддержка друзей.
+Dialogue: 30,0:21:29.19,0:21:29.76,Dialogue,,0,0,0,,Теперь я…
+Dialogue: 30,0:21:29.76,0:21:30.62,Dialogue,,0,0,0,,Тьфу.
+Dialogue: 30,0:21:31.68,0:21:32.43,Dialogue,,0,0,0,,Кролемару!
+Dialogue: 30,0:21:42.06,0:21:44.33,Dialogue,,0,0,0,,А ведь я сразу это сказала.
+Dialogue: 30,0:21:44.33,0:21:46.88,Dialogue,,0,0,0,,Кролики это дичь.
+Dialogue: 30,0:21:46.88,0:21:50.91,Dialogue,,0,0,0,,Всё, что ты можешь — порадовать меня своим плачем.
+Dialogue: 30,0:21:50.91,0:21:53.51,Dialogue,,0,0,0,,На что ты вообще надеялся?
+Dialogue: 30,0:21:53.51,0:21:55.68,Dialogue,,0,0,0,,Даже повеселить толком не смог.
+Dialogue: 30,0:21:57.94,0:21:59.79,Dialogue,,0,0,0,,За это я и не люблю клубные битвы.
+Dialogue: 30,0:22:00.18,0:22:00.76,Dialogue,,0,0,0,,А?
 Dialogue: 0,0:22:04.98,0:22:09.98,Signs,,0,0,0,,{\alpha&H20\shad0\bord0\an7\p3\c&H0000BF&\pos(25,25)}m 75 16 l 94 36 l 106 22 l 121 31 l 136 53 l 128 52 l 127 64 l 139 79 l 147 74 l 142 84 l 122 67 l 123 77 l 133 88 l 143 99 l 149 93 l 143 89 l 147 81 l 155 83 l 141 60 l 142 54 l 115 16 l 129 30 l 123 15 l 149 17 l 147 32 l 155 32 l 157 45 l 164 44 l 163 59 l 171 58 l 170 43 l 173 44 l 160 18 l 169 18 l 175 40 l 189 63 l 188 73 l 196 90 l 193 89 l 197 100 l 203 95 l 209 99 l 213 91 l 208 74 l 214 60 l 213 41 l 209 28 l 206 31 l 203 17 l 210 17 l 217 50 l 225 52 l 221 27 l 228 51 l 232 45 l 237 48 l 229 57 l 233 72 l 231 79 l 233 92 l 234 76 l 239 60 l 242 70 l 244 62 l 240 56 l 240 40 l 242 34 l 242 51 l 250 55 l 247 61 l 249 65 l 253 61 l 256 69 l 252 70 l 247 67 l 243 85 l 247 86 l 257 77 l 266 87 l 270 92 l 277 82 l 272 91 l 273 95 l 275 90 l 281 82 l 279 76 l 274 78 l 278 70 l 274 66 l 267 71 l 261 67 l 259 50 l 255 50 l 255 54 l 247 47 l 246 38 l 254 31 l 261 46 l 269 42 l 277 34 l 283 37 l 280 44 l 283 51 l 280 65 l 284 68 l 286 62 l 288 66 l 291 65 l 292 71 l 286 72 l 285 82 l 294 89 l 301 73 l 296 63 l 290 61 l 292 56 l 298 58 l 309 53 l 319 69 l 310 74 l 315 82 l 330 87 l 334 77 l 329 69 l 332 60 l 340 60 l 346 43 l 358 31 l 354 52 l 351 58 l 355 61 l 352 57 l 362 50 l 358 44 l 362 38 l 372 38 l 366 49 l 373 50 l 380 57 l 390 58 l 399 56 l 403 51 l 402 46 l 407 40 l 409 33 l 406 28 l 414 26 l 422 32 l 417 44 l 415 52 l 410 54 l 408 62 l 410 67 l 415 65 l 414 78 l 412 85 l 416 90 l 414 96 l 410 100 l 411 104 l 417 98 l 420 122 l 425 127 l 418 131 l 414 127 l 408 138 l 414 141 l 415 147 l 404 156 l 417 161 l 426 171 l 434 170 l 448 171 l 459 162 l 464 148 l 455 134 l 466 132 l 482 125 l 481 118 l 482 117 l 484 130 l 484 205 l 475 206 l 471 220 l 477 213 l 478 219 l 484 218 l 484 226 l 478 225 l 468 227 l 470 229 l 466 230 l 468 244 l 479 252 l 475 258 l 481 260 l 473 262 l 485 268 l 475 271 l 465 267 l 459 271 l 462 275 l 464 271 l 471 270 l 467 273 l 476 275 l 477 281 l 484 277 l 485 291 l 482 314 l 484 318 l 482 322 l 485 331 l 482 337 l 480 343 l 482 348 l 477 350 l 484 355 l 484 375 l 481 384 l 485 396 l 478 399 l 481 407 l 483 407 l 485 416 l 481 421 l 468 420 l 465 411 l 471 404 l 460 398 l 452 393 l 449 380 l 455 376 l 460 385 l 468 383 l 461 376 l 462 373 l 457 367 l 460 366 l 456 358 l 447 352 l 438 341 l 425 341 l 429 343 l 420 347 l 413 343 l 410 331 l 401 322 l 399 329 l 405 334 l 402 338 l 393 328 l 400 345 l 393 334 l 377 327 l 367 331 l 359 333 l 370 347 l 377 347 l 380 345 l 375 339 l 381 331 l 390 341 l 392 349 l 407 348 l 413 365 l 402 370 l 401 382 l 397 380 l 394 390 l 398 385 l 409 399 l 399 400 l 391 393 l 379 389 l 367 393 l 378 395 l 384 399 l 378 406 l 372 404 l 374 409 l 373 420 l 379 429 l 385 426 l 390 442 l 394 451 l 399 450 l 409 464 l 400 469 l 399 461 l 393 464 l 389 460 l 395 456 l 386 446 l 383 446 l 379 439 l 371 457 l 370 465 l 363 461 l 366 456 l 360 445 l 350 436 l 359 415 l 352 410 l 357 405 l 362 412 l 365 406 l 354 402 l 350 389 l 344 394 l 349 400 l 352 425 l 344 428 l 343 418 l 335 419 l 335 429 l 338 424 l 338 431 l 341 441 l 346 452 l 344 458 l 347 464 l 345 472 l 356 469 l 366 473 l 361 484 l 352 485 l 343 484 l 335 481 l 339 477 l 333 473 l 333 466 l 322 465 l 322 460 l 311 467 l 304 464 l 306 481 l 309 481 l 306 485 l 284 481 l 290 479 l 282 476 l 278 484 l 263 485 l 259 471 l 261 456 l 266 449 l 263 444 l 255 446 l 258 451 l 252 449 l 252 467 l 259 474 l 257 484 l 249 481 l 248 463 l 241 462 l 241 476 l 237 477 l 233 483 l 226 480 l 219 486 l 210 482 l 220 481 l 216 475 l 211 462 l 207 462 l 202 473 l 209 483 l 184 483 l 191 471 l 191 461 l 183 458 l 184 450 l 177 457 l 185 464 l 175 479 l 167 485 l 165 463 l 160 446 l 149 459 l 155 459 l 146 466 l 141 463 l 135 467 l 132 481 l 126 469 l 131 459 l 140 459 l 134 438 l 145 432 l 157 411 l 149 409 l 150 401 l 145 400 l 149 394 l 139 398 l 133 406 l 120 406 l 125 397 l 132 400 l 137 394 l 135 387 l 128 393 l 125 389 l 112 388 l 107 394 l 100 394 l 103 405 l 95 404 l 95 421 l 111 424 l 110 432 l 94 449 l 96 454 l 107 441 l 111 449 l 110 461 l 106 463 l 106 472 l 101 475 l 101 485 l 94 477 l 90 470 l 80 469 l 81 478 l 80 485 l 69 468 l 54 467 l 51 471 l 46 468 l 49 464 l 40 462 l 37 465 l 41 473 l 32 468 l 30 461 l 36 464 l 36 460 l 25 454 l 16 434 l 15 401 l 27 401 l 33 392 l 40 395 l 44 386 l 57 372 l 60 373 l 60 378 l 67 378 l 69 385 l 66 389 l 74 397 l 79 392 l 72 386 l 91 371 l 83 363 l 75 369 l 59 355 l 67 347 l 61 342 l 52 350 l 36 350 l 58 335 l 48 322 l 57 314 l 64 318 l 72 325 l 86 312 l 101 312 l 98 304 l 105 296 l 121 300 l 124 295 l 129 297 l 128 286 l 131 284 l 131 276 l 123 276 l 123 282 l 114 289 l 110 291 l 107 283 l 113 279 l 99 283 l 77 285 l 68 282 l 67 290 l 57 303 l 52 298 l 44 297 l 34 287 l 32 292 l 38 300 l 34 306 l 37 312 l 30 316 l 24 314 l 22 326 l 16 326 l 15 314 l 19 312 l 15 294 l 16 272 l 23 267 l 38 267 l 44 264 l 35 260 l 26 262 l 16 260 l 27 256 l 31 247 l 16 248 l 16 227 l 42 227 l 50 237 l 61 254 l 49 252 l 51 259 l 43 272 l 47 283 l 50 275 l 55 276 l 59 272 l 54 269 l 65 271 l 71 273 l 76 253 l 61 246 l 64 237 l 48 226 l 64 219 l 54 217 l 43 219 l 31 209 l 16 205 l 16 191 l 23 197 l 21 203 l 31 206 l 33 201 l 44 199 l 42 196 l 44 191 l 40 192 l 34 182 l 30 185 l 19 181 l 19 175 l 33 173 l 40 174 l 43 171 l 48 173 l 58 161 l 52 159 l 44 166 l 39 163 l 47 153 l 28 139 l 29 144 l 28 147 l 16 126 l 24 131 l 15 110 l 32 109 l 42 118 l 42 114 l 51 116 l 47 124 l 52 140 l 61 143 l 49 144 l 65 148 l 70 153 l 74 151 l 76 156 l 95 161 l 90 153 l 85 156 l 84 144 l 76 138 l 78 146 l 71 148 l 64 133 l 66 126 l 70 127 l 69 118 l 50 96 l 31 83 l 34 81 l 25 65 l 29 64 l 59 94 l 68 89 l 64 74 l 91 92 l 89 84 l 94 85 l 92 79 l 99 73 l 105 75 l 100 69 l 91 53 l 88 60 l 81 58 l 77 54 l 87 47 l 81 44 l 76 40 l 79 34 l 83 37{\p0}
 Dialogue: 0,0:22:04.98,0:22:09.98,Signs,,0,0,0,,{\alpha&H20\shad0\bord0\an7\p3\c&H000080&\pos(25,25)}m 24 54 l 27 46 l 32 46 l 32 43 l 39 41 l 37 39 l 45 37 l 48 42 l 50 41 l 53 44 l 56 44 l 55 41 l 61 45 l 62 49 l 69 53 l 69 50 l 76 54 l 74 58 l 80 62 l 81 59 l 87 65 l 85 68 l 92 72 l 92 69 l 98 75 l 97 78 l 103 82 l 103 79 l 110 84 l 108 88 l 115 93 l 115 89 l 120 95 l 119 98 l 125 103 l 126 100 l 132 105 l 130 108 l 136 113 l 136 110 l 142 115 l 141 119 l 147 123 l 148 119 l 153 126 l 152 128 l 158 133 l 159 130 l 164 135 l 163 139 l 170 144 l 169 140 l 175 146 l 174 149 l 180 153 l 181 150 l 186 156 l 185 159 l 191 163 l 191 160 l 196 166 l 195 170 l 202 174 l 202 170 l 207 175 l 207 180 l 213 184 l 213 181 l 219 186 l 218 189 l 224 194 l 223 190 l 231 195 l 229 200 l 235 204 l 235 200 l 240 206 l 249 212 l 260 205 l 265 201 l 265 204 l 272 200 l 269 196 l 276 192 l 276 195 l 283 190 l 281 187 l 286 181 l 287 184 l 293 180 l 293 175 l 298 170 l 298 174 l 305 170 l 303 166 l 308 160 l 309 164 l 316 159 l 314 155 l 319 151 l 320 153 l 326 148 l 324 146 l 330 140 l 331 144 l 337 139 l 336 135 l 341 130 l 342 133 l 349 129 l 347 126 l 353 119 l 353 123 l 359 118 l 358 115 l 364 109 l 364 113 l 371 108 l 368 104 l 374 99 l 374 102 l 381 98 l 380 94 l 385 89 l 386 92 l 392 88 l 390 84 l 396 79 l 397 82 l 404 78 l 402 75 l 408 68 l 408 73 l 415 67 l 413 64 l 419 58 l 420 62 l 426 58 l 424 54 l 432 49 l 432 52 l 438 49 l 439 44 l 444 41 l 444 44 l 449 41 l 453 42 l 456 37 l 464 39 l 461 41 l 468 43 l 468 46 l 474 46 l 477 54 l 474 52 l 473 61 l 476 65 l 472 71 l 470 68 l 465 74 l 467 78 l 463 83 l 462 80 l 456 86 l 458 89 l 453 95 l 452 91 l 447 97 l 447 101 l 443 106 l 442 103 l 437 108 l 437 112 l 433 117 l 432 113 l 426 119 l 427 123 l 423 128 l 421 124 l 416 129 l 417 133 l 412 139 l 411 135 l 406 140 l 407 144 l 401 149 l 400 145 l 395 150 l 396 155 l 391 160 l 390 156 l 385 161 l 385 166 l 380 170 l 380 166 l 374 172 l 375 176 l 370 181 l 369 177 l 363 182 l 364 186 l 359 191 l 358 187 l 352 193 l 354 196 l 349 202 l 348 198 l 342 203 l 343 207 l 338 212 l 337 208 l 332 214 l 333 217 l 327 223 l 327 219 l 321 224 l 322 228 l 319 230 b 355 248 382 276 379 303 b 384 316 396 330 404 337 b 410 344 417 352 422 356 b 427 360 423 372 420 375 b 422 377 431 402 422 412 l 409 424 l 385 436 l 387 419 l 405 407 b 412 398 407 395 395 384 l 384 361 b 371 363 363 365 365 355 b 367 345 359 348 356 344 b 353 343 350 341 351 338 b 320 355 325 360 326 360 l 331 359 l 344 376 b 343 381 353 386 358 390 l 388 419 l 385 436 b 382 437 374 433 359 420 l 312 380 l 312 375 l 307 378 l 250 331 l 193 380 l 188 376 l 188 380 l 142 420 b 134 427 120 440 114 437 l 112 420 l 143 390 b 149 387 156 382 156 377 l 169 360 l 174 361 b 178 357 168 351 149 339 b 152 343 131 349 134 355 b 136 360 137 367 116 362 l 105 384 b 94 395 85 401 97 410 l 117 423 l 114 437 l 92 426 b 75 413 67 403 79 376 b 78 372 71 365 78 357 b 84 352 90 345 95 338 b 109 327 115 315 121 305 b 119 279 132 259 181 230 l 178 227 l 179 224 l 173 219 l 173 223 l 167 216 l 169 213 l 163 208 l 162 212 l 156 206 l 158 203 l 153 198 l 152 201 l 146 195 l 148 192 l 142 187 l 141 191 l 136 185 l 137 182 l 131 176 l 131 180 l 125 175 l 126 171 l 120 166 l 120 170 l 115 165 l 116 161 l 110 156 l 110 160 l 105 155 l 105 150 l 100 145 l 99 149 l 94 144 l 95 140 l 89 135 l 89 139 l 83 133 l 85 129 l 79 124 l 78 128 l 73 121 l 75 118 l 68 113 l 68 117 l 63 111 l 64 108 l 58 103 l 57 107 l 52 100 l 54 97 l 48 92 l 48 96 l 42 90 l 44 87 l 39 80 l 38 84 l 33 79 l 34 75 l 30 68 l 29 72 l 24 65 l 27 62 l 26 60 l 27 54
 Dialogue: 0,0:22:04.98,0:22:09.98,Signs,,0,0,0,,{\alpha&H20\shad0\bord0\an7\p3\c&H0000FF&\pos(25,25)}m 188 63 l 188 188 l 63 188 l 63 312 l 188 312 l 188 437 l 312 437 l 312 312 l 437 312 l 437 188 l 312 188 l 312 63{\p0}
@@ -2682,9 +2671,9 @@ Dialogue: 0,0:24:11.90,0:24:14.79,Dialogue,,0,0,0,,Способность: «С�
 Dialogue: 0,0:24:14.79,0:24:15.92,Dialogue,,0,0,0,,Минатогава?!
 Dialogue: 0,0:24:15.92,0:24:17.62,Dialogue,,0,0,0,,И что это за способность такая, дракони?..
 Dialogue: 0,0:24:17.62,0:24:18.33,Dialogue,,0,0,0,,Слюна…
-Dialogue: 0,0:24:18.33,0:24:18.36,Dialogue,,0,0,0,,?!\N?!
-Dialogue: 0,0:24:18.81,0:24:22.87,Dialogue,,0,0,0,,Когда ещь что-то сладкое, выделается слюна.
-Dialogue: 0,0:24:22.87,0:24:24.01,Dialogue,,0,0,0,,…
+Dialogue: 0,0:24:18.33,0:24:18.68,Dialogue,,0,0,0,,Э?!
+Dialogue: 0,0:24:18.81,0:24:22.87,Dialogue,,0,0,0,,Когда ешь что-то сладкое, выделается слюна.
+Dialogue: 0,0:24:22.87,0:24:24.01,Dialogue,,0,0,0,,Эм...
 Dialogue: 0,0:24:26.07,0:24:29.74,Dialogue,,0,0,0,,Ужас! Я не могу придумать ничего, что затмит этот приём!
 Dialogue: 0,0:24:29.74,0:24:31.67,Dialogue,,0,0,0,,Следующая серия: «Позорная картина».
 Dialogue: 0,0:24:32.33,0:24:34.62,Dialogue,,0,0,0,,Возможно, Кудзурю покажет своё искреннее сердце.
